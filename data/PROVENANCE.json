@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "municipalLayerIncluded": false,
+  "sources": {
+    "osm-barrios-source.json": "ab70e382f672b5d3171dde40c822f6a2ef989eb5fd00aa6900dd7ffd181baec9",
+    "osm-barrios-geometries-source.json": "da2122b233cbb80f35f65aa4e5141704eea30ad80fd90c2cd44e21be63378951"
+  },
+  "derived": {
+    "osm-barrios.json": "d3544707f75ad761b2eb0605d4078af7388568a6dda2f4859fc33f2420cd0049",
+    "mapa-zonas.json": "4ec4a619dd5bda64a60808261358728227d38baa9b43fd8e1972e5621d945ed3",
+    "cordoba-osm-scoped.json": "2fea3e7711e15ee254bb475ebfc3ee646ba9a1fe6a0d7e58f632725584e2ad4f"
+  },
+  "places": 676,
+  "names": 644,
+  "closedWays": 13,
+  "barrioDistanceBoxes": 12,
+  "pointIsNotBoundary": true,
+  "osmBase": "2026-10-05T21:48:51Z",
+  "geometryBase": "2026-10-08T03:07:31Z",
+  "sectorMethod": "bearing from Plaza San Martin; center radius 2.2km; directional reference only",
+  "published": false,
+  "additionalScopedCities": [
+    {
+      "city": "Ciudad de Buenos Aires",
+      "scope": {
+        "country": "AR",
+        "province": "02",
+        "locality": "02014010"
+      },
+      "places": 130,
+      "excludedObjects": 65,
+      "osmTimestamp": "2026-10-08T14:19:36Z",
+      "osmSourceSha256": "0da9aac2d03362120505b6b6490d46eb5138b747546f1eb357b440201de08384",
+      "boundarySha256": "b0fc3654e429e2f48f9eaa1ac9882b5c171d7fea54033c67bd1f40819d73f8cc",
+      "derivedSha256": "ad7ccdbc68844c5243efba9491f5a0a9567c10c857c98b8ddea6244951491def",
+      "boundarySource": "Servicio Georef province02 administrative polygon; not barrio boundaries",
+      "pointIsNotBoundary": true,
+      "exhaustiveNeighborhoodCoverageClaimed": false
+    }
+  ]
+}

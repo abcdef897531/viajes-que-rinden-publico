@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "packageName": "com.pablorivero.viajesquerinden",
+  "abi": "universal",
+  "version": "0.6.135",
+  "versionCode": 153,
+  "size": 51355701,
+  "digest": "sha256:d86028bcc1578120fd9fcc19613bf17b7b2ed4f8d9eb2224c1da2bedc5ca0d77",
+  "apkUrl": "https://raw.githubusercontent.com/abcdef897531/viajes-que-rinden-publico/main/updates/apks/ViajesQueRinden-0.6.135-universal.apk",
+  "notes": ""
+}

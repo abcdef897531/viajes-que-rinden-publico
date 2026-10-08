@@ -1,0 +1,7 @@
+© OpenStreetMap contributors
+Córdoba neighborhood names, label coordinates, closed-way geometries and derivatives: Open Database License (ODbL) 1.0.
+https://opendatacommons.org/licenses/odbl/1-0/
+https://www.openstreetmap.org/copyright
+Sources: osm-barrios-source.json and osm-barrios-geometries-source.json. Derivatives: osm-barrios.json, mapa-zonas.json and geography/cordoba-osm-scoped.json.
+Directional sectors are an app grouping. Points never certify boundaries. Only closed OSM ways are drawn as polygons; relations and unclosed ways are not invented.
+Administrative scoping retains separate Servicio Georef attribution (CC BY 4.0).

@@ -1,0 +1,10 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "02",
+    "locality": "02014010"
+  },
+  "localityName": "Ciudad de Buenos Aires",
+  "boundarySource": "Servicio Georef province02 administrative polygon; not barrio boundaries",
+  "reviewedExclusions": {}
+}

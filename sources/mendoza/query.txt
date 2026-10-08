@@ -1,0 +1,1 @@
+[out:json][timeout:25];nwr["place"~"^(suburb|neighbourhood|quarter)$"](-32.90448128379479,-69.00729150376169,-32.86204089248877,-68.817288155357);out center;

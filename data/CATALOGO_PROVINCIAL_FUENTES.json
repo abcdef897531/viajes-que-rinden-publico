@@ -1,0 +1,24 @@
+{
+  "retrieved": "2026-09-30",
+  "reference": {
+    "lon": -64.1833,
+    "lat": -31.4167
+  },
+  "sources": [
+    {
+      "url": "https://apis.datos.gob.ar/georef/api/v2.0/localidades?provincia=14&max=5000&campos=completo",
+      "total": 515,
+      "sha256": "b8f967ebb64cda2fdb65162ab9d1986e711d0444a1ef3a3559327fc29f8299dc"
+    },
+    {
+      "url": "https://apis.datos.gob.ar/georef/api/v2.0/asentamientos?provincia=14&max=5000&campos=completo",
+      "total": 1465,
+      "sha256": "92492e703203393e53e1958827ddb6e4459871db9eb345f5fcb16fff50b305c5"
+    }
+  ],
+  "places_after_deduplication": 1454,
+  "outline": {
+    "url": "https://apis.datos.gob.ar/georef/api/v2.0/provincias.geojson",
+    "sha256": "b086852064c26813d9f607c82c91b4e74e18ea83fd21993ddedd473cf8495af5"
+  }
+}

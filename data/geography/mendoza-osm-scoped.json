@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "scope": {
+    "country": "AR",
+    "province": "50",
+    "locality": "50007010"
+  },
+  "localityName": "Mendoza",
+  "sourceTimestamp": "2026-10-07T21:45:46Z",
+  "boundarySource": "GeoRef DPE-INDEC municipality 500007; administrative coverage, not urban footprint",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "readerEnabled": false,
+  "places": [
+    {
+      "osm": "node/1984326237",
+      "name": "Dalvian (Barrio Privado)",
+      "aliases": [],
+      "lon": -68.888668,
+      "lat": -32.8675765,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1984326246",
+      "name": "Barrio Flores Sur",
+      "aliases": [],
+      "lon": -68.8695479,
+      "lat": -32.8738765,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1984326251",
+      "name": "Barrio Olivares",
+      "aliases": [],
+      "lon": -68.8729944,
+      "lat": -32.8747737,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1984326264",
+      "name": "Barrio Sanidad",
+      "aliases": [],
+      "lon": -68.8765099,
+      "lat": -32.868433,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1984326270",
+      "name": "Barrio Santa Rita",
+      "aliases": [],
+      "lon": -68.8673193,
+      "lat": -32.8727296,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1984326277",
+      "name": "Barrio Soberanía Nacional",
+      "aliases": [],
+      "lon": -68.8714062,
+      "lat": -32.8776469,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2199825162",
+      "name": "Bombal",
+      "aliases": [],
+      "lon": -68.8466999,
+      "lat": -32.9018543,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2395229041",
+      "name": "Barrio Los Solares",
+      "aliases": [],
+      "lon": -68.8802621,
+      "lat": -32.8680045,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4595338359",
+      "name": "Barrio Ferroviario",
+      "aliases": [],
+      "lon": -68.8536079,
+      "lat": -32.8720651,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7127158702",
+      "name": "Barrio Santo Domingo",
+      "aliases": [],
+      "lon": -68.8937215,
+      "lat": -32.8862988,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7564458483",
+      "name": "San Martín",
+      "aliases": [
+        "Barrio San Martín"
+      ],
+      "lon": -68.8655966,
+      "lat": -32.8660224,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7603151588",
+      "name": "Barrio Cano",
+      "aliases": [],
+      "lon": -68.8601374,
+      "lat": -32.870156,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7603151590",
+      "name": "Barrio La Favorita",
+      "aliases": [],
+      "lon": -68.9040981,
+      "lat": -32.8883404,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7603151591",
+      "name": "Barrio Cerro de la Gloria",
+      "aliases": [],
+      "lon": -68.8991545,
+      "lat": -32.8883813,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/8083264811",
+      "name": "Barrio Champagnat",
+      "aliases": [],
+      "lon": -68.8786662,
+      "lat": -32.8724238,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9342773734",
+      "name": "Área Fundacional",
+      "aliases": [],
+      "lon": -68.828941,
+      "lat": -32.8799278,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13396819245",
+      "name": "Barrio Flores Oeste",
+      "aliases": [],
+      "lon": -68.8744486,
+      "lat": -32.8790138,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "relation/4832511",
+      "name": "La Favorita",
+      "aliases": [],
+      "lon": -68.9056068,
+      "lat": -32.888578,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    }
+  ],
+  "boundaryKind": "municipality",
+  "sourceHashes": {
+    "osm": "1b3e9781fa6c30c696b0aff73bb463fbfb35ffe9d0125fb533d0b266e957458c",
+    "boundary": "3a6a8ff74c72ec08679f82e26aa2832dcca5c4f85d4cd011029baca15d6fff82"
+  }
+}

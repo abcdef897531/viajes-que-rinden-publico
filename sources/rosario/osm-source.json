@@ -1,0 +1,2607 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-07T21:45:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 198407075,
+  "lat": -32.8886692,
+  "lon": -60.7249210,
+  "tags": {
+    "is_in:country": "Argentina",
+    "is_in:country_code": "AR",
+    "is_in:state": "Santa Fe",
+    "name": "Nuevo Alberdi",
+    "place": "suburb",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 198412905,
+  "lat": -33.0061533,
+  "lon": -60.6163359,
+  "tags": {
+    "name": "Pueblo Nuevo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 198433221,
+  "lat": -33.0107358,
+  "lon": -60.7735054,
+  "tags": {
+    "name": "Villa América",
+    "place": "neighbourhood",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 198452428,
+  "lat": -33.0164511,
+  "lon": -60.6882285,
+  "tags": {
+    "name": "Tio Rolo",
+    "place": "suburb",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 547562983,
+  "lat": -33.0063877,
+  "lon": -60.6404916,
+  "tags": {
+    "name": "Presidente Roque Saenz Peña",
+    "place": "suburb",
+    "short_name": "Roque Sáenz Peña"
+  }
+},
+{
+  "type": "node",
+  "id": 568959581,
+  "lat": -32.9697069,
+  "lon": -60.7394990,
+  "tags": {
+    "name": "Cabin 9",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993724360,
+  "lat": -32.9595090,
+  "lon": -60.6919147,
+  "tags": {
+    "name": "Villa Banana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993735040,
+  "lat": -32.8916755,
+  "lon": -60.7130803,
+  "tags": {
+    "name": "Parque Field",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993741366,
+  "lat": -32.8885764,
+  "lon": -60.7128657,
+  "tags": {
+    "name": "Jose Ignacio Rucci",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993917836,
+  "lat": -32.9120008,
+  "lon": -60.7669678,
+  "tags": {
+    "name": "San Eduardo",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993923765,
+  "lat": -32.8786779,
+  "lon": -60.6919153,
+  "tags": {
+    "name": "La Florida",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993925016,
+  "lat": -32.8950913,
+  "lon": -60.6931818,
+  "tags": {
+    "name": "Alberdi",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993944977,
+  "lat": -32.9047860,
+  "lon": -60.7516320,
+  "tags": {
+    "name": "Hostal del Sol",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993944980,
+  "lat": -32.9050202,
+  "lon": -60.7639058,
+  "tags": {
+    "name": "Hostal del Sol Oeste",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993946803,
+  "lat": -32.9117036,
+  "lon": -60.7318910,
+  "tags": {
+    "name": "7 de Septiembre",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993951279,
+  "lat": -32.9185666,
+  "lon": -60.7381781,
+  "tags": {
+    "name": "Fisherton",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993970075,
+  "lat": -32.9185003,
+  "lon": -60.7477850,
+  "tags": {
+    "name": "Stella Maris",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993981188,
+  "lat": -32.9168940,
+  "lon": -60.7656384,
+  "tags": {
+    "name": "Portal de Aldea",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993984011,
+  "lat": -32.9163537,
+  "lon": -60.7745433,
+  "tags": {
+    "name": "Greenes de Fisherton",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1993998365,
+  "lat": -32.9383628,
+  "lon": -60.7359839,
+  "tags": {
+    "name": "Lomas de Fisherton",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1993999625,
+  "lat": -32.9342027,
+  "lon": -60.7313705,
+  "tags": {
+    "name": "Antártida Argentina",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994001880,
+  "lat": -32.9380386,
+  "lon": -60.7257808,
+  "tags": {
+    "name": "Fonavi B Donado y Mendoza",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994016235,
+  "lat": -32.9315902,
+  "lon": -60.6922182,
+  "tags": {
+    "name": "Ludueña",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994026795,
+  "lat": -32.9064347,
+  "lon": -60.6877300,
+  "tags": {
+    "name": "Domingo Faustino Sarmiento",
+    "place": "suburb",
+    "short_name": "Sarmiento"
+  }
+},
+{
+  "type": "node",
+  "id": 1994027659,
+  "lat": -32.9165766,
+  "lon": -60.6771085,
+  "tags": {
+    "alt_name": "Lisandro de la Torre (Arroyito)",
+    "name": "Lisandro de la Torre",
+    "old_name": "Arroyito",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994029797,
+  "lat": -32.9243398,
+  "lon": -60.6701562,
+  "tags": {
+    "alt_name": "Las Malvinas",
+    "name": "Islas Malvinas",
+    "old_name": "Refinería",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994036505,
+  "lat": -32.9296108,
+  "lon": -60.6730446,
+  "tags": {
+    "name": "Barrio Inglés",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994054592,
+  "lat": -32.9616438,
+  "lon": -60.6470486,
+  "tags": {
+    "name": "Abasto",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994054593,
+  "lat": -32.9656226,
+  "lon": -60.6307193,
+  "tags": {
+    "name": "Republica de la Sexta",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994054717,
+  "lat": -32.9764777,
+  "lon": -60.6372639,
+  "tags": {
+    "name": "General San Martín",
+    "official_name": "General San Martín",
+    "old_name": "Tablada",
+    "place": "suburb",
+    "short_name": "San Martín",
+    "wikidata": "Q5720462",
+    "wikipedia": "es:Tablada (barrio de Rosario)"
+  }
+},
+{
+  "type": "node",
+  "id": 1994058564,
+  "lat": -33.0021824,
+  "lon": -60.6708274,
+  "tags": {
+    "name": "Las Delicias",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994058899,
+  "lat": -33.0118940,
+  "lon": -60.6600648,
+  "tags": {
+    "name": "17 de Agosto",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994059322,
+  "lat": -32.9994830,
+  "lon": -60.6525696,
+  "tags": {
+    "name": "Tiro Suizo",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994065046,
+  "lat": -32.9818632,
+  "lon": -60.6537685,
+  "tags": {
+    "name": "Domingo Matheu",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994065047,
+  "lat": -32.9898367,
+  "lon": -60.6558929,
+  "tags": {
+    "name": "La Guardia",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994115704,
+  "lat": -32.9248871,
+  "lon": -60.6879026,
+  "tags": {
+    "name": "Industrial",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994116706,
+  "lat": -32.9211317,
+  "lon": -60.7069312,
+  "tags": {
+    "name": "Empalme Graneros",
+    "name:etymology:wikidata": "Q118645708",
+    "place": "suburb",
+    "wikidata": "Q5831594",
+    "wikipedia": "es:Empalme Graneros"
+  }
+},
+{
+  "type": "node",
+  "id": 1994117431,
+  "lat": -32.9166597,
+  "lon": -60.7184732,
+  "tags": {
+    "name": "Larrea",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994121370,
+  "lat": -32.8813106,
+  "lon": -60.7061013,
+  "tags": {
+    "name": "Lomas de Alberdi",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994136093,
+  "lat": -32.9066023,
+  "lon": -60.7342092,
+  "tags": {
+    "name": "Newbery",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994264521,
+  "lat": -33.0200987,
+  "lon": -60.6598846,
+  "tags": {
+    "name": "Las Flores Sur",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994267033,
+  "lat": -33.0112463,
+  "lon": -60.6393711,
+  "tags": {
+    "name": "Magnano",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994267034,
+  "lat": -33.0115296,
+  "lon": -60.6456553,
+  "tags": {
+    "name": "Vicente Lopez y Planes",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994267035,
+  "lat": -32.9840843,
+  "lon": -60.6798329,
+  "tags": {
+    "name": "Acindar",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994268888,
+  "lat": -32.9539062,
+  "lon": -60.6304213,
+  "tags": {
+    "name": "Martin",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994269328,
+  "lat": -32.9484144,
+  "lon": -60.6608482,
+  "tags": {
+    "name": "Nuestra Señora de Lourdes",
+    "place": "suburb",
+    "short_name": "Lourdes"
+  }
+},
+{
+  "type": "node",
+  "id": 1994270958,
+  "lat": -32.9382096,
+  "lon": -60.6596801,
+  "tags": {
+    "alt_name": "Pichincha",
+    "name": "Alberto Olmedo",
+    "official_name": "Alberto Olmedo",
+    "old_name": "Pichincha",
+    "place": "suburb",
+    "wikidata": "Q4863746",
+    "wikipedia": "es:Pichincha (Rosario)"
+  }
+},
+{
+  "type": "node",
+  "id": 1994273838,
+  "lat": -32.9351210,
+  "lon": -60.6716270,
+  "tags": {
+    "name": "Luis Agote",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994277670,
+  "lat": -32.9409711,
+  "lon": -60.7133596,
+  "tags": {
+    "name": "Belgrano",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994278767,
+  "lat": -32.9236457,
+  "lon": -60.7184666,
+  "tags": {
+    "name": "Fisherton Industrial",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994280399,
+  "lat": -32.9425962,
+  "lon": -60.6983631,
+  "tags": {
+    "name": "Azcuénaga",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994280517,
+  "lat": -32.9436002,
+  "lon": -60.6823748,
+  "tags": {
+    "name": "Echesortu",
+    "official_name": "Echesortu",
+    "old_name": "Remedios Escalada de San Martín",
+    "place": "suburb",
+    "wikidata": "Q615705",
+    "wikipedia": "es:Echesortu"
+  }
+},
+{
+  "type": "node",
+  "id": 1994280800,
+  "lat": -32.9543500,
+  "lon": -60.6820314,
+  "tags": {
+    "name": "Cinco Esquinas",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994280817,
+  "lat": -32.9588511,
+  "lon": -60.6680196,
+  "tags": {
+    "name": "Parque",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994282073,
+  "lat": -32.9548505,
+  "lon": -60.7043026,
+  "tags": {
+    "name": "Villa Urquiza",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994282549,
+  "lat": -32.9669750,
+  "lon": -60.7006390,
+  "tags": {
+    "name": "Triángulo",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994282671,
+  "lat": -32.9667511,
+  "lon": -60.6808064,
+  "tags": {
+    "name": "Bella Vista",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994284055,
+  "lat": -32.9776060,
+  "lon": -60.6999252,
+  "tags": {
+    "name": "Moderno",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994284565,
+  "lat": -32.9774620,
+  "lon": -60.6785104,
+  "tags": {
+    "name": "Alvear",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994285316,
+  "lat": -32.9683650,
+  "lon": -60.6633377,
+  "tags": {
+    "name": "Jorge Cura",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994285329,
+  "lat": -32.9699773,
+  "lon": -60.6705536,
+  "tags": {
+    "name": "Parque Casado",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994285903,
+  "lat": -33.0019753,
+  "lon": -60.6840251,
+  "tags": {
+    "name": "Hume",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994286809,
+  "lat": -32.9999418,
+  "lon": -60.6277416,
+  "tags": {
+    "name": "Saladillo",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994287392,
+  "lat": -32.9949944,
+  "lon": -60.6242302,
+  "tags": {
+    "name": "Esteban Echeverría",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994306670,
+  "lat": -32.9650858,
+  "lon": -60.7211951,
+  "tags": {
+    "name": "Godoy",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994340706,
+  "lat": -32.8813538,
+  "lon": -60.7315550,
+  "tags": {
+    "name": "Cristalería",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1994349295,
+  "lat": -32.8721686,
+  "lon": -60.7616349,
+  "tags": {
+    "name": "Los Álamos Club de Campo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994550082,
+  "lat": -32.9055117,
+  "lon": -60.7007399,
+  "tags": {
+    "name": "Parque Casas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1994550083,
+  "lat": -32.8966202,
+  "lon": -60.7111565,
+  "tags": {
+    "name": "La Esperanza",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2004730391,
+  "lat": -32.9142597,
+  "lon": -60.7962643,
+  "tags": {
+    "name": "Villa Elvira",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2006438552,
+  "lat": -32.9458867,
+  "lon": -60.6402892,
+  "tags": {
+    "name": "Centro",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2456381692,
+  "lat": -32.9222113,
+  "lon": -60.7883430,
+  "tags": {
+    "alt_name": "Villa Tomás de la Torre",
+    "name": "Tomás de la Torre",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2456381693,
+  "lat": -32.9254894,
+  "lon": -60.7898451,
+  "tags": {
+    "alt_name": "Solares del Rosario",
+    "name": "Los Solares",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2684517695,
+  "lat": -32.9218797,
+  "lon": -60.7911165,
+  "tags": {
+    "name": "Zona 3",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2684517696,
+  "lat": -32.9261607,
+  "lon": -60.7801485,
+  "tags": {
+    "name": "Zona 4",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2709489818,
+  "lat": -33.0108458,
+  "lon": -60.6973957,
+  "tags": {
+    "name": "Mercedes de San Martín",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2791257072,
+  "lat": -32.9117819,
+  "lon": -60.7580634,
+  "tags": {
+    "designation": "Country",
+    "name": "Country Tenis Aldea",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2791257075,
+  "lat": -32.9116440,
+  "lon": -60.7530353,
+  "tags": {
+    "designation": "Country",
+    "name": "Aldea del Lago",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2813556519,
+  "lat": -32.9262624,
+  "lon": -60.7715894,
+  "tags": {
+    "name": "Villa Golf",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2823215183,
+  "lat": -32.9668110,
+  "lon": -60.6660082,
+  "tags": {
+    "name": "Latinoámerica",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2823215185,
+  "lat": -32.9442671,
+  "lon": -60.7537944,
+  "tags": {
+    "name": "Tango",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2873279778,
+  "lat": -33.0052402,
+  "lon": -60.6872689,
+  "tags": {
+    "name": "Estación El Gaucho",
+    "old_name": "Estación Hume",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2887702526,
+  "lat": -32.9327025,
+  "lon": -60.7550878,
+  "tags": {
+    "name": "Country Carlos Pellegrini",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2887702527,
+  "lat": -32.8977087,
+  "lon": -60.7426436,
+  "tags": {
+    "name": "Palos Verdes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2887702528,
+  "lat": -32.9395240,
+  "lon": -60.7671126,
+  "tags": {
+    "alt_name": "Pasos del Golf",
+    "contact:website": "https://lospasosdeljockey.com.ar/",
+    "name": "Los Pasos Golf",
+    "official_name": "Los Pasos Golf",
+    "place": "neighbourhood",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2889876531,
+  "lat": -32.9164355,
+  "lon": -60.7561899,
+  "tags": {
+    "name": "Aldea",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2914580045,
+  "lat": -32.9254129,
+  "lon": -60.7646902,
+  "tags": {
+    "name": "Puente Golf",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2914580046,
+  "lat": -32.9230612,
+  "lon": -60.7806470,
+  "tags": {
+    "name": "Puerta del Sol",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2914580047,
+  "lat": -32.9215826,
+  "lon": -60.7937127,
+  "tags": {
+    "name": "Travaccio",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2965189276,
+  "lat": -32.9713845,
+  "lon": -60.6523433,
+  "tags": {
+    "name": "España y Hospitales",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2965189277,
+  "lat": -32.9716259,
+  "lon": -60.6496203,
+  "tags": {
+    "name": "Villa La Lata",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2977902643,
+  "lat": -32.8795165,
+  "lon": -60.7327506,
+  "tags": {
+    "name": "Los Pinos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2977902644,
+  "lat": -32.8752607,
+  "lon": -60.7362181,
+  "tags": {
+    "name": "Parque Habitacional Ibarlucea",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2977902645,
+  "lat": -32.8803611,
+  "lon": -60.7248571,
+  "tags": {
+    "is_in:city": "Rosario",
+    "name": "Roberto Fontanarrosa",
+    "old_name": "Zona Cero",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3014519441,
+  "lat": -32.8915690,
+  "lon": -60.7920169,
+  "tags": {
+    "name": "Islas Malvinas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3020619676,
+  "lat": -32.9305423,
+  "lon": -60.7566687,
+  "tags": {
+    "name": "San Cayetano",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3020619677,
+  "lat": -32.9291968,
+  "lon": -60.7605820,
+  "tags": {
+    "name": "Tierra Nueva",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3020735668,
+  "lat": -32.9451452,
+  "lon": -60.7279173,
+  "tags": {
+    "name": "Altos de Mendoza",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3020735670,
+  "lat": -32.9437663,
+  "lon": -60.7245282,
+  "tags": {
+    "name": "Fonavi A Donado y Mendoza",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3020770273,
+  "lat": -32.9544422,
+  "lon": -60.7263643,
+  "tags": {
+    "name": "Santa Lucía",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3020770274,
+  "lat": -32.9561024,
+  "lon": -60.7232914,
+  "tags": {
+    "alt_name": "Villa Las Palmeras",
+    "name": "Las Palmeras",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3057673805,
+  "lat": -32.9262658,
+  "lon": -60.7573367,
+  "tags": {
+    "name": "Fisherton R.",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3057673806,
+  "lat": -32.8909447,
+  "lon": -60.7301187,
+  "tags": {
+    "name": "Nuevo Alberdi Oeste",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3057673807,
+  "lat": -32.8937016,
+  "lon": -60.7449403,
+  "tags": {
+    "name": "Parque Habitacional Bouchard",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3294741152,
+  "lat": -32.9454024,
+  "lon": -60.7735380,
+  "tags": {
+    "alt_name": "Pasos del Arroyo",
+    "contact:website": "https://lospasosdeljockey.com.ar/",
+    "name": "Los Pasos Arroyo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3294741153,
+  "lat": -32.9356891,
+  "lon": -60.7549578,
+  "tags": {
+    "alt_name": "Pasos del Country",
+    "contact:website": "https://lospasosdeljockey.com.ar/",
+    "name": "Los Pasos Country",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3294741154,
+  "lat": -32.9436605,
+  "lon": -60.7663375,
+  "tags": {
+    "alt_name": "Pasos del Puente",
+    "contact:website": "https://lospasosdeljockey.com.ar/",
+    "name": "Los Pasos Puente",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3294949252,
+  "lat": -32.9233446,
+  "lon": -60.7760159,
+  "tags": {
+    "name": "Aero Funes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3294949253,
+  "lat": -32.9230625,
+  "lon": -60.7793652,
+  "tags": {
+    "name": "Barani",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3294949254,
+  "lat": -32.9230560,
+  "lon": -60.7781087,
+  "tags": {
+    "name": "Kovacick",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3331142140,
+  "lat": -32.9336169,
+  "lon": -60.7418281,
+  "tags": {
+    "name": "Colombres",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3331142141,
+  "lat": -32.9362031,
+  "lon": -60.7454063,
+  "tags": {
+    "name": "El Gráfico",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3344264223,
+  "lat": -33.0118982,
+  "lon": -60.6540319,
+  "tags": {
+    "name": "Las Flores Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3402666122,
+  "lat": -32.9802093,
+  "lon": -60.6924906,
+  "tags": {
+    "name": "Loteo Avellaneda Oeste",
+    "place": "neighbourhood",
+    "source:url": "http://www.santafe.gov.ar/index.php/web/content/view/full/189722/%28subtema%29/class=%22dropdown-toggle%22",
+    "source_ref": "http://www.santafe.gov.ar/index.php/web/content/download/209533/1082874/file/Plano%20de%20mensura%20LAO.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 3404841719,
+  "lat": -32.8877996,
+  "lon": -60.7054102,
+  "tags": {
+    "name": "La Cerámica",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3531966879,
+  "lat": -33.0279387,
+  "lon": -60.6864031,
+  "tags": {
+    "name": "Puente Gallego",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3594707200,
+  "lat": -32.9874619,
+  "lon": -60.6372273,
+  "tags": {
+    "name": "General Las Heras",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3594707201,
+  "lat": -32.9994043,
+  "lon": -60.6188774,
+  "tags": {
+    "name": "Saladillo Sur",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3594707202,
+  "lat": -32.9858730,
+  "lon": -60.6252308,
+  "tags": {
+    "name": "Villa Manuelita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3595267451,
+  "lat": -33.0134964,
+  "lon": -60.6497294,
+  "tags": {
+    "name": "Bernardo de Irigoyen",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3595267452,
+  "lat": -33.0184780,
+  "lon": -60.6486416,
+  "tags": {
+    "name": "La Granada",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3595267453,
+  "lat": -33.0054044,
+  "lon": -60.6317469,
+  "tags": {
+    "name": "Parque Regional Sur",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3633736357,
+  "lat": -32.9885135,
+  "lon": -60.6796364,
+  "tags": {
+    "name": "Santa Teresita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156334,
+  "lat": -32.8749265,
+  "lon": -60.7299836,
+  "tags": {
+    "name": "Celedonio Escalada",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156335,
+  "lat": -32.9186037,
+  "lon": -60.6919523,
+  "tags": {
+    "description": "Comunidad Toba",
+    "name": "La Travesía",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156336,
+  "lat": -32.9383422,
+  "lon": -60.7561050,
+  "tags": {
+    "name": "Los Unidos",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156337,
+  "lat": -32.8824484,
+  "lon": -60.7173734,
+  "tags": {
+    "name": "Parque Habitacional Ibarlucea Este",
+    "old_name": "Villa Olimpica",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156338,
+  "lat": -32.8915196,
+  "lon": -60.7390165,
+  "tags": {
+    "is_in:city": "Rosario",
+    "name": "Villa Cooperativa 25 de Mayo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156339,
+  "lat": -32.9423899,
+  "lon": -60.7462271,
+  "tags": {
+    "name": "Villa La Antena",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156340,
+  "lat": -32.9506045,
+  "lon": -60.7238425,
+  "tags": {
+    "is_in:city": "Rosario",
+    "name": "Villa Los Euca",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156341,
+  "lat": -32.9064453,
+  "lon": -60.7053810,
+  "tags": {
+    "name": "Villa Puente Negro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3656156342,
+  "lat": -32.9125023,
+  "lon": -60.7057604,
+  "tags": {
+    "name": "Villa de Empalme Graneros",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3712313954,
+  "lat": -32.9210671,
+  "lon": -60.7305581,
+  "tags": {
+    "name": "Amiga",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3825511841,
+  "lat": -32.9429402,
+  "lon": -60.7607209,
+  "tags": {
+    "name": "Floresta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3873074957,
+  "lat": -32.9209063,
+  "lon": -60.7719878,
+  "tags": {
+    "alt_name": "Country del Golf",
+    "is_in:city": "Rosario",
+    "is_in:country": "Argentina",
+    "is_in:state": "Santa Fe",
+    "name": "Country Golf Rosario",
+    "place": "neighbourhood",
+    "postal_code": "S2000"
+  }
+},
+{
+  "type": "node",
+  "id": 3903407489,
+  "lat": -32.9653528,
+  "lon": -60.7300407,
+  "tags": {
+    "name": "San Cayetano Oeste",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3940820228,
+  "lat": -32.9885235,
+  "lon": -60.6351271,
+  "tags": {
+    "name": "Cordón Ayacucho",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3997945935,
+  "lat": -32.9282715,
+  "lon": -60.7311579,
+  "tags": {
+    "name": "Nueva Fisherton",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3997945936,
+  "lat": -32.9280416,
+  "lon": -60.6608253,
+  "tags": {
+    "name": "Puerto Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4023962662,
+  "lat": -33.0167560,
+  "lon": -60.6558304,
+  "tags": {
+    "name": "Las Flores",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4062589844,
+  "lat": -32.9927573,
+  "lon": -60.6277846,
+  "tags": {
+    "description": "Barrio FONAVI mas grande de Rosario.",
+    "name": "Grandoli",
+    "place": "neighbourhood",
+    "wikidata": "Q5884885",
+    "wikipedia": "es:Grandoli (Rosario)"
+  }
+},
+{
+  "type": "node",
+  "id": 4065390684,
+  "lat": -32.9805780,
+  "lon": -60.6601513,
+  "tags": {
+    "name": "Barrio Moreno",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4190794031,
+  "lat": -32.9970046,
+  "lon": -60.6634169,
+  "tags": {
+    "name": "14 de Octubre",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4438400109,
+  "lat": -32.8997816,
+  "lon": -60.7461952,
+  "tags": {
+    "name": "Condominios Palos Verdes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4790451726,
+  "lat": -32.8844487,
+  "lon": -60.7186512,
+  "tags": {
+    "name": "Polledo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5322403170,
+  "lat": -32.9151772,
+  "lon": -60.7496956,
+  "tags": {
+    "name": "Villa La Bombacha",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5322403171,
+  "lat": -32.9177036,
+  "lon": -60.7504523,
+  "tags": {
+    "name": "Villa Santa Rosa",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5322403174,
+  "lat": -32.9204417,
+  "lon": -60.7503306,
+  "tags": {
+    "name": "Las Torcazas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5322403175,
+  "lat": -32.9205877,
+  "lon": -60.7545491,
+  "tags": {
+    "name": "Hoyo 12",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5390695275,
+  "lat": -32.8859527,
+  "lon": -60.7294822,
+  "tags": {
+    "name": "Los Tilos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5478566140,
+  "lat": -33.0287022,
+  "lon": -60.7483220,
+  "tags": {
+    "name": "Las Pergolas III",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5517008452,
+  "lat": -32.9979400,
+  "lon": -60.6158753,
+  "tags": {
+    "name": "El Mangrullo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5540482808,
+  "lat": -32.9646208,
+  "lon": -60.6890935,
+  "tags": {
+    "name": "Victoria Walsh",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5548228574,
+  "lat": -32.9868249,
+  "lon": -60.6966573,
+  "tags": {
+    "name": "Villa La Vincha",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5548228576,
+  "lat": -32.9754490,
+  "lon": -60.6905150,
+  "tags": {
+    "name": "Villa Vía Honda",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6020717031,
+  "lat": -32.8723066,
+  "lon": -60.7080084,
+  "tags": {
+    "name": "La Floresta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6020717032,
+  "lat": -32.8718516,
+  "lon": -60.7018876,
+  "tags": {
+    "name": "Roque Carranza",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6566454699,
+  "lat": -32.9314275,
+  "lon": -60.7935204,
+  "tags": {
+    "access": "private",
+    "name": "Vida",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6842474238,
+  "lat": -32.9473001,
+  "lon": -60.7685995,
+  "tags": {
+    "alt_name": "Arborea",
+    "contact:website": "https://arboria.com.ar/",
+    "name": "Arboria",
+    "old_name": "Foresta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7038521129,
+  "lat": -32.9363469,
+  "lon": -60.7877346,
+  "tags": {
+    "alt_name": "Vida 2",
+    "description": "Club de campo de 159 Ha.",
+    "name": "Vida Club de Campo",
+    "place": "suburb",
+    "source_ref": "https://www.infofunes.com.ar/noticias/ok-del-concejo-nuevo-club-de-campo-aportara-tres-millones-de-dolares-en-obras"
+  }
+},
+{
+  "type": "node",
+  "id": 7039657055,
+  "lat": -32.8968651,
+  "lon": -60.7365066,
+  "tags": {
+    "contact:facebook": "CondoDelBosque",
+    "contact:website": "https://www.condodelbosque.com/",
+    "name": "Condo del Bosque",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7340840673,
+  "lat": -33.0001620,
+  "lon": -60.6817853,
+  "tags": {
+    "alt_name": "Barrio Plata",
+    "name": "Plata",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8235875412,
+  "lat": -33.0302521,
+  "lon": -60.6401009,
+  "tags": {
+    "name": "Coronel Aguirre",
+    "place": "suburb",
+    "population": "28000",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 8235900629,
+  "lat": -33.0219062,
+  "lon": -60.6162501,
+  "tags": {
+    "alt_name": "La Paloma",
+    "name": "Intendente Andreu",
+    "old_name": "Villa Diego",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8241906174,
+  "lat": -32.9762980,
+  "lon": -60.6304021,
+  "tags": {
+    "name": "La Tablada",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8253260428,
+  "lat": -32.9628204,
+  "lon": -60.6889264,
+  "tags": {
+    "alt_name": "Villa Banana",
+    "name": "La Banana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8262992868,
+  "lat": -32.9916202,
+  "lon": -60.7663104,
+  "tags": {
+    "name": "Los Lapachos 2",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8262992870,
+  "lat": -32.9915469,
+  "lon": -60.7625806,
+  "tags": {
+    "name": "Los Lapachos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768284,
+  "lat": -33.0330217,
+  "lon": -60.6112356,
+  "tags": {
+    "name": "Fonavi Progreso",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768287,
+  "lat": -33.0088262,
+  "lon": -60.6108006,
+  "tags": {
+    "name": "Martín Fierro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768288,
+  "lat": -33.0130130,
+  "lon": -60.6111048,
+  "tags": {
+    "name": "Talleres Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768290,
+  "lat": -33.0169859,
+  "lon": -60.6112034,
+  "tags": {
+    "alt_name": "Talleres Sud",
+    "name": "Talleres Sur",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768291,
+  "lat": -33.0216870,
+  "lon": -60.6075600,
+  "tags": {
+    "name": "Constancio C Vigil",
+    "place": "neighbourhood",
+    "related_law": "Ordenanza Municipal 2776/21",
+    "related_law:url": "https://concejovgg.gob.ar/ord-no-2776-21-reglamento-de-vecinales-de-villa-gobernador-galvez-y-sus-respectivos-anexos/"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768292,
+  "lat": -33.0260196,
+  "lon": -60.6230042,
+  "tags": {
+    "name": "Centro",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768293,
+  "lat": -33.0294083,
+  "lon": -60.6150389,
+  "tags": {
+    "name": "21 de septiembre",
+    "place": "neighbourhood",
+    "related_law": "Ordenanza Municipal 2776/21",
+    "related_law:url": "https://concejovgg.gob.ar/ord-no-2776-21-reglamento-de-vecinales-de-villa-gobernador-galvez-y-sus-respectivos-anexos/"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768295,
+  "lat": -33.0339195,
+  "lon": -60.6585019,
+  "tags": {
+    "name": "Ghiglione",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768296,
+  "lat": -33.0373987,
+  "lon": -60.6525717,
+  "tags": {
+    "name": "Nuevo Milenio",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8268768297,
+  "lat": -33.0342980,
+  "lon": -60.6362281,
+  "tags": {
+    "name": "Alto Verde",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8272441117,
+  "lat": -33.0362293,
+  "lon": -60.6235712,
+  "tags": {
+    "name": "Mortelari",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8290086134,
+  "lat": -33.0198506,
+  "lon": -60.6285828,
+  "tags": {
+    "name": "Villa Diego Oeste",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 8290092133,
+  "lat": -33.0036205,
+  "lon": -60.6192809,
+  "tags": {
+    "name": "La Isleta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8290092134,
+  "lat": -33.0217892,
+  "lon": -60.6334913,
+  "tags": {
+    "alt_name": "Triángulo",
+    "name": "El Triángulo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9064045980,
+  "lat": -32.9211506,
+  "lon": -60.6696957,
+  "tags": {
+    "name": "Metra Puerto Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9064075669,
+  "lat": -32.9222523,
+  "lon": -60.6651381,
+  "tags": {
+    "name": "Forum Puerto Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9064075670,
+  "lat": -32.9234317,
+  "lon": -60.6637861,
+  "tags": {
+    "name": "Ciudad Ribera",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9071517118,
+  "lat": -32.9312414,
+  "lon": -60.7636231,
+  "tags": {
+    "name": "Condos Tierra Nueva",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9140652039,
+  "lat": -32.9308945,
+  "lon": -60.7706916,
+  "tags": {
+    "contact:facebook": "lafincacountry",
+    "contact:instagram": "lafincacountry",
+    "contact:phone": "+54 9 341 254-2277",
+    "contact:website": "https://www.lafincacountry.com.ar/",
+    "description": "Barrio privado de 64 hectáreas. El country tendrá 443 lotes de 800 metros cuadrados.",
+    "name": "La Finca Country Club",
+    "operator": "Carlos Araujo",
+    "place": "neighbourhood",
+    "short_name": "La Finca"
+  }
+},
+{
+  "type": "node",
+  "id": 9288475125,
+  "lat": -32.9735863,
+  "lon": -60.6970943,
+  "tags": {
+    "name": "La Roca",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9513777467,
+  "lat": -32.9332325,
+  "lon": -60.7624719,
+  "tags": {
+    "fixme": "check",
+    "name": "Módena Fisherton",
+    "place": "neighbourhood",
+    "source:url": "https://www.rosario.gob.ar/mr/normativa/nuevo-codigo-urbano/libro-2.-normas-urbanisticas-por-area/capitulo-4.-reordenamiento-urbanistico-del-cordon-perimetral-de-la-ciudad-de-rosario/enlaces-cordones-perimetrales/cordon-perimetral-noroeste/planes-de-detal"
+  }
+},
+{
+  "type": "node",
+  "id": 9610937024,
+  "lat": -33.0237647,
+  "lon": -60.7501688,
+  "tags": {
+    "name": "Los Viñedos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9610937025,
+  "lat": -33.0123809,
+  "lon": -60.7561788,
+  "tags": {
+    "contact:facebook": "https://fb.com/Or%C3%ADgenes-Barrio-Abierto-361769981532395",
+    "name": "Los Orígenes",
+    "place": "neighbourhood",
+    "short_name": "Orígenes"
+  }
+},
+{
+  "type": "node",
+  "id": 9621565558,
+  "lat": -32.8718608,
+  "lon": -60.7426242,
+  "tags": {
+    "name": "Logaritmo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9622549635,
+  "lat": -32.8706486,
+  "lon": -60.7549363,
+  "tags": {
+    "name": "Don Juan",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9622549636,
+  "lat": -32.8722616,
+  "lon": -60.7496202,
+  "tags": {
+    "name": "Los Altos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650586870,
+  "lat": -33.0049206,
+  "lon": -60.7508648,
+  "tags": {
+    "alt_name": "Barrio Jardín",
+    "name": "Jardín",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650586871,
+  "lat": -33.0023653,
+  "lon": -60.7563472,
+  "tags": {
+    "name": "Terraplen",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650586876,
+  "lat": -32.9976954,
+  "lon": -60.7710940,
+  "tags": {
+    "name": "Centro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650586877,
+  "lat": -33.0032831,
+  "lon": -60.7654023,
+  "tags": {
+    "name": "Parque Mitre",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650622867,
+  "lat": -33.0025228,
+  "lon": -60.7734811,
+  "tags": {
+    "name": "Barrio Inglés",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650652504,
+  "lat": -32.9828246,
+  "lon": -60.7369870,
+  "tags": {
+    "name": "Control ESSO",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650652505,
+  "lat": -32.9792246,
+  "lon": -60.7364988,
+  "tags": {
+    "name": "Las Achiras",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661217,
+  "lat": -33.0034090,
+  "lon": -60.7876969,
+  "tags": {
+    "alt_name": "Talleres 2",
+    "name": "Talleres Nuevos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661218,
+  "lat": -32.9994050,
+  "lon": -60.7797575,
+  "tags": {
+    "name": "Talleres",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661225,
+  "lat": -32.9933311,
+  "lon": -60.7770324,
+  "tags": {
+    "alt_name": "Parque Guemes",
+    "name": "Parque Güemes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661227,
+  "lat": -32.9917294,
+  "lon": -60.7718611,
+  "tags": {
+    "name": "Campo de Mayo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661228,
+  "lat": -32.9898216,
+  "lon": -60.7568836,
+  "tags": {
+    "name": "Tempesti",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661229,
+  "lat": -32.9875538,
+  "lon": -60.7461602,
+  "tags": {
+    "name": "Villa del Parque",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661230,
+  "lat": -32.9963546,
+  "lon": -60.7554782,
+  "tags": {
+    "name": "Evita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9650661233,
+  "lat": -32.9979473,
+  "lon": -60.7607782,
+  "tags": {
+    "name": "Guardia Nacional",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9658535171,
+  "lat": -33.0232285,
+  "lon": -60.6459046,
+  "tags": {
+    "name": "La Ranita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9658535172,
+  "lat": -33.0344633,
+  "lon": -60.6546056,
+  "tags": {
+    "alt_name": "La Toma Resistencia",
+    "name": "La Toma",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9759683708,
+  "lat": -32.9426182,
+  "lon": -60.7583047,
+  "tags": {
+    "name": "Parque Habitacional Calasanz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9890710946,
+  "lat": -33.0233196,
+  "lon": -60.6412472,
+  "tags": {
+    "name": "Villa Los Eucaliptus",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9929479225,
+  "lat": -32.9385889,
+  "lon": -60.7631314,
+  "tags": {
+    "contact:website": "https://lospasosdeljockey.com.ar/",
+    "full_name": "Condominios Los Pasos Fisherton",
+    "name": "Los Pasos Fisherton",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 10778514809,
+  "lat": -32.8980472,
+  "lon": -60.7130456,
+  "tags": {
+    "name": "Fonavi Casiano Casas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 10854034620,
+  "lat": -32.9764751,
+  "lon": -60.7423031,
+  "tags": {
+    "informal": "yes",
+    "name": "Norro",
+    "place": "neighbourhood",
+    "source_ref": "https://ecomrosario.gob.ar/web/uploads/ordenamiento/18/PUL%20P%C3%89REZ.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 10854034621,
+  "lat": -33.0014700,
+  "lon": -60.7380545,
+  "tags": {
+    "informal": "yes",
+    "name": "El Fachinal",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11012446490,
+  "lat": -33.0363002,
+  "lon": -60.6857819,
+  "tags": {
+    "name": "Los Eucaliptus",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 11254039055,
+  "lat": -32.9113155,
+  "lon": -60.7039154,
+  "tags": {
+    "name": "Los Pumitas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11384787995,
+  "lat": -32.9279341,
+  "lon": -60.6648195,
+  "tags": {
+    "name": "Condominios del Alto",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11555318546,
+  "lat": -33.0274843,
+  "lon": -60.7609255,
+  "tags": {
+    "name": "Campos de Sol",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11738985620,
+  "lat": -33.0056449,
+  "lon": -60.6849146,
+  "tags": {
+    "description": "Barrio privado perteneciente al Club Duendes.",
+    "name": "Club Duendes",
+    "operator:type": "private",
+    "place": "neighbourhood",
+    "short_name": "Duendes"
+  }
+},
+{
+  "type": "node",
+  "id": 11751947992,
+  "lat": -33.0010516,
+  "lon": -60.7125628,
+  "tags": {
+    "description": "Loteo del Club Los Duendes",
+    "name": "Los Duendes",
+    "place": "neighbourhood",
+    "short_name": "Duendes"
+  }
+},
+{
+  "type": "node",
+  "id": 11999095604,
+  "lat": -32.9013352,
+  "lon": -60.7028371,
+  "tags": {
+    "name": "Unión y Parque Casas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11999095605,
+  "lat": -32.8968896,
+  "lon": -60.7042050,
+  "tags": {
+    "alt_name": "Barrio Unión",
+    "full_name": "Unión y Parque Casas",
+    "name": "Unión",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12318622939,
+  "lat": -32.9914529,
+  "lon": -60.6413030,
+  "tags": {
+    "name": "La Bajada",
+    "place": "neighbourhood",
+    "source:url": "https://rosario.tur.ar/donde-ir/atractivos-particulares/barrio-la-bajada"
+  }
+},
+{
+  "type": "node",
+  "id": 12691189896,
+  "lat": -32.9377200,
+  "lon": -60.7612824,
+  "tags": {
+    "check_date": "2025-03-21",
+    "name": "Los Pasos Barrios Abierto",
+    "place": "neighbourhood",
+    "source": "Local knowledge",
+    "source:name": "sign"
+  }
+},
+{
+  "type": "node",
+  "id": 12716085036,
+  "lat": -32.9701707,
+  "lon": -60.7296146,
+  "tags": {
+    "description": "Barrio anteriormente informal y ahora con escrituración municipal.",
+    "name": "Los Humitos",
+    "place": "neighbourhood",
+    "source:url": "https://rosarionoticias.gob.ar/page/noticias/id/561730 ; https://participa.rosario.gob.ar/processes/ActividadesDeCercania/f/247/proposals/1781"
+  }
+},
+{
+  "type": "node",
+  "id": 12748944648,
+  "lat": -32.9122677,
+  "lon": -60.7192991,
+  "tags": {
+    "full_name": "Barrio Jardín Fisherton del Este",
+    "name": "Fisherton del Este",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12748944649,
+  "lat": -32.9123633,
+  "lon": -60.7149573,
+  "tags": {
+    "description": "Barrio Municipal",
+    "name": "Albert Schweitzer",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12748944651,
+  "lat": -32.9025633,
+  "lon": -60.7093422,
+  "tags": {
+    "name": "Nuestra Señora de la Paz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12939700529,
+  "lat": -32.9924369,
+  "lon": -60.6396060,
+  "tags": {
+    "alt_name": "Villa Deportiva Parques Héroes de Malvinas",
+    "description": "Villa Olímpica para los Juegos Suramericanos 2026",
+    "name": "Villa Olímpica",
+    "operator": "Fideicomiso Desarrollo y Ejecución de la Propuesta Urbana y Edilicia del Parque Ex Batallón 121",
+    "place": "neighbourhood",
+    "related_law": "Normativa Municipal 0176-2025",
+    "related_law:url": "https://sgpbe.concejorosario.gov.ar:8443/media/expedientes/expediente274328.pdf",
+    "source:url": "https://www.santafe.gob.ar/noticias/noticia/282630/"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940118,
+  "lat": -33.0274870,
+  "lon": -60.6470688,
+  "tags": {
+    "name": "14 de Enero",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940119,
+  "lat": -33.0320185,
+  "lon": -60.6466056,
+  "tags": {
+    "name": "2 de Abril",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940122,
+  "lat": -33.0373279,
+  "lon": -60.6476767,
+  "tags": {
+    "name": "San Francisco de Asis",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940124,
+  "lat": -33.0312253,
+  "lon": -60.6289101,
+  "tags": {
+    "alt_name": "Once de Junio",
+    "name": "11 de Junio",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940126,
+  "lat": -33.0339416,
+  "lon": -60.6234706,
+  "tags": {
+    "name": "Parque Alegre",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13306940146,
+  "lat": -33.0362082,
+  "lon": -60.6113577,
+  "tags": {
+    "name": "Progreso",
+    "place": "suburb",
+    "related_law": "Ordenanza Municipal 2776/21",
+    "related_law:url": "https://concejovgg.gob.ar/ord-no-2776-21-reglamento-de-vecinales-de-villa-gobernador-galvez-y-sus-respectivos-anexos/",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13307027085,
+  "lat": -33.0301660,
+  "lon": -60.6526571,
+  "tags": {
+    "name": "Cancha de Remo",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13307027087,
+  "lat": -33.0241911,
+  "lon": -60.6437803,
+  "tags": {
+    "name": "Arroyito",
+    "place": "neighbourhood",
+    "related_law": "Ordenanza Municipal 2776/21",
+    "related_law:url": "https://concejovgg.gob.ar/ord-no-2776-21-reglamento-de-vecinales-de-villa-gobernador-galvez-y-sus-respectivos-anexos/",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13307523655,
+  "lat": -33.0209896,
+  "lon": -60.6391470,
+  "tags": {
+    "name": "Libertad",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13307523657,
+  "lat": -33.0276921,
+  "lon": -60.6338227,
+  "tags": {
+    "name": "San Enrique",
+    "place": "neighbourhood",
+    "source_ref:url": "https://vggmunicipalidad.gov.ar/galeria/archivos/revista_vecinales.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 13329090958,
+  "lat": -33.0384310,
+  "lon": -60.6290549,
+  "tags": {
+    "name": "Nuevo Mortelari",
+    "place": "neighbourhood",
+    "related_law": "Ordenanza Municipal 2776/21",
+    "related_law:url": "https://concejovgg.gob.ar/ord-no-2776-21-reglamento-de-vecinales-de-villa-gobernador-galvez-y-sus-respectivos-anexos/"
+  }
+},
+{
+  "type": "way",
+  "id": 187448450,
+  "center": {
+    "lat": -32.9716844,
+    "lon": -60.6504839
+  },
+  "nodes": [
+    1981395692,
+    1981395704,
+    1981395689,
+    1981395697,
+    1981395695,
+    1981395691,
+    1981395694,
+    1981395702,
+    1981395692
+  ],
+  "tags": {
+    "name": "Villa La Lata",
+    "place": "neighbourhood"
+  }
+}
+
+  ]
+}
+

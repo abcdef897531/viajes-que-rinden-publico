@@ -1,0 +1,528 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-07T21:45:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1114100756,
+  "lat": -32.8778637,
+  "lon": -68.8184216,
+  "tags": {
+    "name": "Pedro Molina",
+    "place": "suburb",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326237,
+  "lat": -32.8675765,
+  "lon": -68.8886680,
+  "tags": {
+    "name": "Dalvian (Barrio Privado)",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326246,
+  "lat": -32.8738765,
+  "lon": -68.8695479,
+  "tags": {
+    "name": "Barrio Flores Sur",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326251,
+  "lat": -32.8747737,
+  "lon": -68.8729944,
+  "tags": {
+    "name": "Barrio Olivares",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326264,
+  "lat": -32.8684330,
+  "lon": -68.8765099,
+  "tags": {
+    "name": "Barrio Sanidad",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326270,
+  "lat": -32.8727296,
+  "lon": -68.8673193,
+  "tags": {
+    "name": "Barrio Santa Rita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 1984326277,
+  "lat": -32.8776469,
+  "lon": -68.8714062,
+  "tags": {
+    "name": "Barrio Soberanía Nacional",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2199825162,
+  "lat": -32.9018543,
+  "lon": -68.8466999,
+  "tags": {
+    "name": "Bombal",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2395229041,
+  "lat": -32.8680045,
+  "lon": -68.8802621,
+  "tags": {
+    "name": "Barrio Los Solares",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3485496898,
+  "lat": -32.8894008,
+  "lon": -68.8220111,
+  "tags": {
+    "name": "San José",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4595338359,
+  "lat": -32.8720651,
+  "lon": -68.8536079,
+  "tags": {
+    "name": "Barrio Ferroviario",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4758217196,
+  "lat": -32.9027554,
+  "lon": -68.8844159,
+  "tags": {
+    "is_in:city": "Gogoy Cruz",
+    "name": "Barrio SUPE",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 7127158702,
+  "lat": -32.8862988,
+  "lon": -68.8937215,
+  "tags": {
+    "name": "Barrio Santo Domingo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7564458483,
+  "lat": -32.8660224,
+  "lon": -68.8655966,
+  "tags": {
+    "alt_name": "Barrio San Martín",
+    "name": "San Martín",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7603151588,
+  "lat": -32.8701560,
+  "lon": -68.8601374,
+  "tags": {
+    "name": "Barrio Cano",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7603151590,
+  "lat": -32.8883404,
+  "lon": -68.9040981,
+  "tags": {
+    "name": "Barrio La Favorita",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 7603151591,
+  "lat": -32.8883813,
+  "lon": -68.8991545,
+  "tags": {
+    "name": "Barrio Cerro de la Gloria",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8083264811,
+  "lat": -32.8724238,
+  "lon": -68.8786662,
+  "tags": {
+    "name": "Barrio Champagnat",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9342773734,
+  "lat": -32.8799278,
+  "lon": -68.8289410,
+  "tags": {
+    "name": "Área Fundacional",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12302229596,
+  "lat": -32.9028671,
+  "lon": -68.8813404,
+  "tags": {
+    "name": "Barrio Gráfico S8",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12302229597,
+  "lat": -32.9034953,
+  "lon": -68.8779719,
+  "tags": {
+    "name": "Barrio Gráfico S7",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12302288002,
+  "lat": -32.9026366,
+  "lon": -68.8799816,
+  "tags": {
+    "name": "Barrio Pascual Le Donne",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12302288003,
+  "lat": -32.9028602,
+  "lon": -68.8790829,
+  "tags": {
+    "name": "Barrio Mosconi II",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13201950668,
+  "lat": -32.9006216,
+  "lon": -68.8837807,
+  "tags": {
+    "name": "Barrio Rincón del Cerro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13203945437,
+  "lat": -32.9010070,
+  "lon": -68.8776335,
+  "tags": {
+    "name": "Barrio Talcomin",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13203945438,
+  "lat": -32.9012044,
+  "lon": -68.8755985,
+  "tags": {
+    "name": "Barrio Nuevo Amanecer",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13203945439,
+  "lat": -32.9016821,
+  "lon": -68.8704643,
+  "tags": {
+    "name": "Barrio Virgen del Valle",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13396819245,
+  "lat": -32.8790138,
+  "lon": -68.8744486,
+  "tags": {
+    "name": "Barrio Flores Oeste",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574937782,
+  "lat": -32.9040532,
+  "lon": -68.8335136,
+  "tags": {
+    "name": "Barrio Bombal Etapa 2",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574937783,
+  "lat": -32.9005729,
+  "lon": -68.8322399,
+  "tags": {
+    "name": "Barrio Cichitti",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972607,
+  "lat": -32.9038428,
+  "lon": -68.8283208,
+  "tags": {
+    "name": "Barrio Claudio Encrenaz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972608,
+  "lat": -32.9035635,
+  "lon": -68.8300090,
+  "tags": {
+    "name": "Barrio Murgo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972609,
+  "lat": -32.9033632,
+  "lon": -68.8277639,
+  "tags": {
+    "name": "Barrio Lucena",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972610,
+  "lat": -32.9025243,
+  "lon": -68.8277340,
+  "tags": {
+    "name": "Barrio Pinto",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972611,
+  "lat": -32.9027888,
+  "lon": -68.8265979,
+  "tags": {
+    "name": "Barrio Brunetti",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972612,
+  "lat": -32.9032880,
+  "lon": -68.8258122,
+  "tags": {
+    "name": "Barrio Tejablock SRL",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972613,
+  "lat": -32.9032939,
+  "lon": -68.8250973,
+  "tags": {
+    "name": "Barrio Tinelli",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972614,
+  "lat": -32.9011852,
+  "lon": -68.8234265,
+  "tags": {
+    "name": "Barrio Huespe",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972615,
+  "lat": -32.9014174,
+  "lon": -68.8212002,
+  "tags": {
+    "name": "Barrio Tittarelli",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972616,
+  "lat": -32.9036696,
+  "lon": -68.8209946,
+  "tags": {
+    "name": "Barrio Villa Francisca",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972617,
+  "lat": -32.8999713,
+  "lon": -68.8270092,
+  "tags": {
+    "name": "Barrio Irigo Giorgiani",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972618,
+  "lat": -32.8992760,
+  "lon": -68.8272640,
+  "tags": {
+    "name": "Barrio Cabut",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972619,
+  "lat": -32.8984796,
+  "lon": -68.8265916,
+  "tags": {
+    "name": "Barrio Cantú Caroglio",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972620,
+  "lat": -32.8982300,
+  "lon": -68.8206599,
+  "tags": {
+    "name": "Barrio Serú",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972623,
+  "lat": -32.9007890,
+  "lon": -68.8275242,
+  "tags": {
+    "name": "Barrio Benayas",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972624,
+  "lat": -32.9016043,
+  "lon": -68.8249439,
+  "tags": {
+    "name": "Barrio Villa Olimpia",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972625,
+  "lat": -32.8993797,
+  "lon": -68.8245950,
+  "tags": {
+    "name": "Barrio Longo",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13574972626,
+  "lat": -32.9018566,
+  "lon": -68.8226499,
+  "tags": {
+    "name": "Barrio Villa Adelina",
+    "place": "quarter"
+  }
+},
+{
+  "type": "relation",
+  "id": 4832511,
+  "center": {
+    "lat": -32.8885780,
+    "lon": -68.9056068
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 154797290,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 340474308,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 340474310,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "La Favorita",
+    "place": "neighbourhood",
+    "type": "boundary"
+  }
+}
+
+  ]
+}
+

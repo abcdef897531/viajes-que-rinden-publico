@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-30",
+  "streets": 48372,
+  "governments": 427,
+  "base_url": "https://apis.datos.gob.ar/georef/api/v2.0/",
+  "files": [
+    {
+      "file": "calles-14007-0.gpkg",
+      "rows": 3529,
+      "sha256": "4916cf70725be0bbee2bfb99b33e23c2c35adaaf436ae9a2bc26f9e3c0a7c7f8"
+    },
+    {
+      "file": "calles-14014-0.gpkg",
+      "rows": 5000,
+      "sha256": "67bc5f6697ddc67a5b3e0e3c2d00ef5aad4749d8a431f07504bc5424c186ce54"
+    },
+    {
+      "file": "calles-14014-5000.gpkg",
+      "rows": 3542,
+      "sha256": "bb454207935b26cea5d91e6b32f4320333505842ca1d08d32395f378df34a8d0"
+    },
+    {
+      "file": "calles-14021-0.gpkg",
+      "rows": 5000,
+      "sha256": "3d5ca5ba129ad5224e33c3974cc81378d106a17a21c7707c5ecc1729aad7199b"
+    },
+    {
+      "file": "calles-14021-5000.gpkg",
+      "rows": 167,
+      "sha256": "5dad38127adbb2fffcf728c50c81c9b3d83ab65d4397c45ba3617e210b548f00"
+    },
+    {
+      "file": "calles-14028-0.gpkg",
+      "rows": 1145,
+      "sha256": "a63a4f2ca6059587fe65fa5db3ef51082272fb05fc6ee7f26efdb1f993ba8556"
+    },
+    {
+      "file": "calles-14035-0.gpkg",
+      "rows": 601,
+      "sha256": "1c1772819a0b4e0691063de251057bd19719751c227048e700071d3658676973"
+    },
+    {
+      "file": "calles-14042-0.gpkg",
+      "rows": 1544,
+      "sha256": "02da6eff1b5c6780ccfdb637a7f951edc2de2741afa1890f204d3ab8ecbb1680"
+    },
+    {
+      "file": "calles-14049-0.gpkg",
+      "rows": 645,
+      "sha256": "d548b8a8f2ff631393d6bdc919c80185ce890e0199bc1b8ca8b1d8d4cbee366a"
+    },
+    {
+      "file": "calles-14056-0.gpkg",
+      "rows": 814,
+      "sha256": "66c94b0f868cef433e45c8201d12c2a730149caade7e0c7e9680fb153a10b7b4"
+    },
+    {
+      "file": "calles-14063-0.gpkg",
+      "rows": 1205,
+      "sha256": "f4158470c64d9799d4063f29f9badbe5643767d80f45a0fb764daa9b47347959"
+    },
+    {
+      "file": "calles-14070-0.gpkg",
+      "rows": 175,
+      "sha256": "b5bcbbfc79422339fd48fae3d8ee2be84cc447b5a531f756b408ddb55fcc495b"
+    },
+    {
+      "file": "calles-14077-0.gpkg",
+      "rows": 249,
+      "sha256": "e93f7e55860209c279a3ac5858d2afc666cb19650615929d2807f1df87fed7f4"
+    },
+    {
+      "file": "calles-14084-0.gpkg",
+      "rows": 482,
+      "sha256": "a078d0c80ef10a934a06f8d97f079db647a491f5eb393147557afbd9e65400fd"
+    },
+    {
+      "file": "calles-14091-0.gpkg",
+      "rows": 5000,
+      "sha256": "059502a7b01144fc8a05e989bd27c8967a1faee9fc0efef70bfa0ad0e8aa50fd"
+    },
+    {
+      "file": "calles-14091-5000.gpkg",
+      "rows": 859,
+      "sha256": "929dfde5119ba5070cd33634e2504c523b471e92c4f2f57665b587158ac85a38"
+    },
+    {
+      "file": "calles-14098-0.gpkg",
+      "rows": 3003,
+      "sha256": "8c4de5de54ded2fa3996c9d534404c5846029af4455d8244ca7bce13b415632c"
+    },
+    {
+      "file": "calles-14105-0.gpkg",
+      "rows": 874,
+      "sha256": "54a9ce359cb29fa5f18935b985860795268aaf8f4186c7a277d3a7ca8b79cec2"
+    },
+    {
+      "file": "calles-14112-0.gpkg",
+      "rows": 396,
+      "sha256": "2272d9b9dae9d4088c47d2630848273241fa2eb43de07bb3adc7a785ec623db1"
+    },
+    {
+      "file": "calles-14119-0.gpkg",
+      "rows": 1353,
+      "sha256": "f401ca6d27bda14bd2109fcee4a894f83546a41111d95f68cf73a4a3c8aa3644"
+    },
+    {
+      "file": "calles-14126-0.gpkg",
+      "rows": 1430,
+      "sha256": "7c8c5ff12f2f4ac359ebab1b491c35f0bf4bd83b3e5c2aa2ba08dd3ad478acbe"
+    },
+    {
+      "file": "calles-14133-0.gpkg",
+      "rows": 1739,
+      "sha256": "3c5bc014efdb8ef626be708919ef3d31b1108fba2dbc4ff77ed67f6dfff4d401"
+    },
+    {
+      "file": "calles-14140-0.gpkg",
+      "rows": 2382,
+      "sha256": "491414f51c14fdd2c80374b3f341f3e207c0d290f2bd1e9ebeab549d6825106b"
+    },
+    {
+      "file": "calles-14147-0.gpkg",
+      "rows": 3453,
+      "sha256": "f369d8442c5501b5df1101090dd3f6d06627a9dc9c53d03a29f8ebd26516e2fd"
+    },
+    {
+      "file": "calles-14154-0.gpkg",
+      "rows": 105,
+      "sha256": "33afabbb0d7706f3e101daa99c9638bacfe5bc9983ca0a7d560668b003115991"
+    },
+    {
+      "file": "calles-14161-0.gpkg",
+      "rows": 1371,
+      "sha256": "e1814e69877de08170676eeed648e56b5870a43117a62c651c0ba80385709644"
+    },
+    {
+      "file": "calles-14168-0.gpkg",
+      "rows": 564,
+      "sha256": "f9bc2c6cbda2baf71a45fa29fdbb2264c9d8966307fb9ec1a2e9a8d6cbf3ee26"
+    },
+    {
+      "file": "calles-14175-0.gpkg",
+      "rows": 327,
+      "sha256": "1d9ac2a4d8d225dbcd49e4bd312688920c59a93c7bd7a5878374dfec406da1e5"
+    },
+    {
+      "file": "calles-14182-0.gpkg",
+      "rows": 1418,
+      "sha256": "020d58fb53a2efddda6d5bbcc936ac6a75d780083ef73dd5326254ca9bd5c0c1"
+    }
+  ]
+}

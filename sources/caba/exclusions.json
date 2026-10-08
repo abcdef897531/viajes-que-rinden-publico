@@ -1,0 +1,262 @@
+[
+  {
+    "osm": "node/198405431",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/198433281",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/198434054",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/198442095",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/198450511",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/509902269",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/1461784682",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/1461784691",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2286333182",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2349902658",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2349912550",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2751180612",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2751180613",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2751180614",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2751180615",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800152551",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800152552",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800218466",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800218467",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800218468",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800219473",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800219474",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800223485",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800223486",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800242691",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800243089",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800251210",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2800264019",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2823730295",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2823736424",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/2823738340",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/3825897565",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/3825897566",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/3825897568",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/4998985008",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/5317221119",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/5782655963",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/6165375577",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/10810530427",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11079154368",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449884356",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924499",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924500",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924501",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924502",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924503",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924512",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924513",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11449924514",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/11561181723",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/12134305702",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/12741335592",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13233441207",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13233441208",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13599432267",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13599432268",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13859015012",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "node/13859015013",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "way/28538298",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "way/457298108",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "way/457298109",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "way/799194636",
+    "reason": "missing_or_invalid_name"
+  },
+  {
+    "osm": "way/1266124100",
+    "reason": "outside_or_on_city_boundary"
+  },
+  {
+    "osm": "way/1344860709",
+    "reason": "missing_or_invalid_name"
+  },
+  {
+    "osm": "relation/17589498",
+    "reason": "outside_or_on_city_boundary"
+  }
+]

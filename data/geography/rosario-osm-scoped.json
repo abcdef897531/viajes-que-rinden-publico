@@ -1,0 +1,1898 @@
+{
+  "schema": 1,
+  "scope": {
+    "country": "AR",
+    "province": "82",
+    "locality": "82084270"
+  },
+  "localityName": "Rosario",
+  "sourceTimestamp": "2026-10-07T21:45:46Z",
+  "boundarySource": "GeoRef DPE-INDEC municipality 820210; administrative coverage, not urban footprint",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "readerEnabled": false,
+  "places": [
+    {
+      "osm": "node/198407075",
+      "name": "Nuevo Alberdi",
+      "aliases": [],
+      "lon": -60.724921,
+      "lat": -32.8886692,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/198452428",
+      "name": "Tio Rolo",
+      "aliases": [],
+      "lon": -60.6882285,
+      "lat": -33.0164511,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/547562983",
+      "name": "Presidente Roque Saenz Peña",
+      "aliases": [
+        "Roque Sáenz Peña"
+      ],
+      "lon": -60.6404916,
+      "lat": -33.0063877,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993724360",
+      "name": "Villa Banana",
+      "aliases": [],
+      "lon": -60.6919147,
+      "lat": -32.959509,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993735040",
+      "name": "Parque Field",
+      "aliases": [],
+      "lon": -60.7130803,
+      "lat": -32.8916755,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993741366",
+      "name": "Jose Ignacio Rucci",
+      "aliases": [],
+      "lon": -60.7128657,
+      "lat": -32.8885764,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993917836",
+      "name": "San Eduardo",
+      "aliases": [],
+      "lon": -60.7669678,
+      "lat": -32.9120008,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993923765",
+      "name": "La Florida",
+      "aliases": [],
+      "lon": -60.6919153,
+      "lat": -32.8786779,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993925016",
+      "name": "Alberdi",
+      "aliases": [],
+      "lon": -60.6931818,
+      "lat": -32.8950913,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993944977",
+      "name": "Hostal del Sol",
+      "aliases": [],
+      "lon": -60.751632,
+      "lat": -32.904786,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993944980",
+      "name": "Hostal del Sol Oeste",
+      "aliases": [],
+      "lon": -60.7639058,
+      "lat": -32.9050202,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993946803",
+      "name": "7 de Septiembre",
+      "aliases": [],
+      "lon": -60.731891,
+      "lat": -32.9117036,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993951279",
+      "name": "Fisherton",
+      "aliases": [],
+      "lon": -60.7381781,
+      "lat": -32.9185666,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993970075",
+      "name": "Stella Maris",
+      "aliases": [],
+      "lon": -60.747785,
+      "lat": -32.9185003,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993981188",
+      "name": "Portal de Aldea",
+      "aliases": [],
+      "lon": -60.7656384,
+      "lat": -32.916894,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993984011",
+      "name": "Greenes de Fisherton",
+      "aliases": [],
+      "lon": -60.7745433,
+      "lat": -32.9163537,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993998365",
+      "name": "Lomas de Fisherton",
+      "aliases": [],
+      "lon": -60.7359839,
+      "lat": -32.9383628,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1993999625",
+      "name": "Antártida Argentina",
+      "aliases": [],
+      "lon": -60.7313705,
+      "lat": -32.9342027,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994001880",
+      "name": "Fonavi B Donado y Mendoza",
+      "aliases": [],
+      "lon": -60.7257808,
+      "lat": -32.9380386,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994016235",
+      "name": "Ludueña",
+      "aliases": [],
+      "lon": -60.6922182,
+      "lat": -32.9315902,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994026795",
+      "name": "Domingo Faustino Sarmiento",
+      "aliases": [
+        "Sarmiento"
+      ],
+      "lon": -60.68773,
+      "lat": -32.9064347,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994027659",
+      "name": "Lisandro de la Torre",
+      "aliases": [
+        "Lisandro de la Torre (Arroyito)"
+      ],
+      "lon": -60.6771085,
+      "lat": -32.9165766,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994029797",
+      "name": "Islas Malvinas",
+      "aliases": [
+        "Las Malvinas"
+      ],
+      "lon": -60.6701562,
+      "lat": -32.9243398,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994036505",
+      "name": "Barrio Inglés",
+      "aliases": [],
+      "lon": -60.6730446,
+      "lat": -32.9296108,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994054592",
+      "name": "Abasto",
+      "aliases": [],
+      "lon": -60.6470486,
+      "lat": -32.9616438,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994054593",
+      "name": "Republica de la Sexta",
+      "aliases": [],
+      "lon": -60.6307193,
+      "lat": -32.9656226,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994054717",
+      "name": "General San Martín",
+      "aliases": [
+        "San Martín"
+      ],
+      "lon": -60.6372639,
+      "lat": -32.9764777,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994058564",
+      "name": "Las Delicias",
+      "aliases": [],
+      "lon": -60.6708274,
+      "lat": -33.0021824,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994058899",
+      "name": "17 de Agosto",
+      "aliases": [],
+      "lon": -60.6600648,
+      "lat": -33.011894,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994059322",
+      "name": "Tiro Suizo",
+      "aliases": [],
+      "lon": -60.6525696,
+      "lat": -32.999483,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994065046",
+      "name": "Domingo Matheu",
+      "aliases": [],
+      "lon": -60.6537685,
+      "lat": -32.9818632,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994065047",
+      "name": "La Guardia",
+      "aliases": [],
+      "lon": -60.6558929,
+      "lat": -32.9898367,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994115704",
+      "name": "Industrial",
+      "aliases": [],
+      "lon": -60.6879026,
+      "lat": -32.9248871,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994116706",
+      "name": "Empalme Graneros",
+      "aliases": [],
+      "lon": -60.7069312,
+      "lat": -32.9211317,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994117431",
+      "name": "Larrea",
+      "aliases": [],
+      "lon": -60.7184732,
+      "lat": -32.9166597,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994121370",
+      "name": "Lomas de Alberdi",
+      "aliases": [],
+      "lon": -60.7061013,
+      "lat": -32.8813106,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994136093",
+      "name": "Newbery",
+      "aliases": [],
+      "lon": -60.7342092,
+      "lat": -32.9066023,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994264521",
+      "name": "Las Flores Sur",
+      "aliases": [],
+      "lon": -60.6598846,
+      "lat": -33.0200987,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994267033",
+      "name": "Magnano",
+      "aliases": [],
+      "lon": -60.6393711,
+      "lat": -33.0112463,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994267034",
+      "name": "Vicente Lopez y Planes",
+      "aliases": [],
+      "lon": -60.6456553,
+      "lat": -33.0115296,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994267035",
+      "name": "Acindar",
+      "aliases": [],
+      "lon": -60.6798329,
+      "lat": -32.9840843,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994268888",
+      "name": "Martin",
+      "aliases": [],
+      "lon": -60.6304213,
+      "lat": -32.9539062,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994269328",
+      "name": "Nuestra Señora de Lourdes",
+      "aliases": [
+        "Lourdes"
+      ],
+      "lon": -60.6608482,
+      "lat": -32.9484144,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994270958",
+      "name": "Alberto Olmedo",
+      "aliases": [
+        "Pichincha"
+      ],
+      "lon": -60.6596801,
+      "lat": -32.9382096,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994273838",
+      "name": "Luis Agote",
+      "aliases": [],
+      "lon": -60.671627,
+      "lat": -32.935121,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994277670",
+      "name": "Belgrano",
+      "aliases": [],
+      "lon": -60.7133596,
+      "lat": -32.9409711,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994278767",
+      "name": "Fisherton Industrial",
+      "aliases": [],
+      "lon": -60.7184666,
+      "lat": -32.9236457,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994280399",
+      "name": "Azcuénaga",
+      "aliases": [],
+      "lon": -60.6983631,
+      "lat": -32.9425962,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994280517",
+      "name": "Echesortu",
+      "aliases": [],
+      "lon": -60.6823748,
+      "lat": -32.9436002,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994280800",
+      "name": "Cinco Esquinas",
+      "aliases": [],
+      "lon": -60.6820314,
+      "lat": -32.95435,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994280817",
+      "name": "Parque",
+      "aliases": [],
+      "lon": -60.6680196,
+      "lat": -32.9588511,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994282073",
+      "name": "Villa Urquiza",
+      "aliases": [],
+      "lon": -60.7043026,
+      "lat": -32.9548505,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994282549",
+      "name": "Triángulo",
+      "aliases": [],
+      "lon": -60.700639,
+      "lat": -32.966975,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994282671",
+      "name": "Bella Vista",
+      "aliases": [],
+      "lon": -60.6808064,
+      "lat": -32.9667511,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994284055",
+      "name": "Moderno",
+      "aliases": [],
+      "lon": -60.6999252,
+      "lat": -32.977606,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994284565",
+      "name": "Alvear",
+      "aliases": [],
+      "lon": -60.6785104,
+      "lat": -32.977462,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994285316",
+      "name": "Jorge Cura",
+      "aliases": [],
+      "lon": -60.6633377,
+      "lat": -32.968365,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994285329",
+      "name": "Parque Casado",
+      "aliases": [],
+      "lon": -60.6705536,
+      "lat": -32.9699773,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994285903",
+      "name": "Hume",
+      "aliases": [],
+      "lon": -60.6840251,
+      "lat": -33.0019753,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994286809",
+      "name": "Saladillo",
+      "aliases": [],
+      "lon": -60.6277416,
+      "lat": -32.9999418,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994287392",
+      "name": "Esteban Echeverría",
+      "aliases": [],
+      "lon": -60.6242302,
+      "lat": -32.9949944,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994306670",
+      "name": "Godoy",
+      "aliases": [],
+      "lon": -60.7211951,
+      "lat": -32.9650858,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994340706",
+      "name": "Cristalería",
+      "aliases": [],
+      "lon": -60.731555,
+      "lat": -32.8813538,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994550082",
+      "name": "Parque Casas",
+      "aliases": [],
+      "lon": -60.7007399,
+      "lat": -32.9055117,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/1994550083",
+      "name": "La Esperanza",
+      "aliases": [],
+      "lon": -60.7111565,
+      "lat": -32.8966202,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2006438552",
+      "name": "Centro",
+      "aliases": [],
+      "lon": -60.6402892,
+      "lat": -32.9458867,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2709489818",
+      "name": "Mercedes de San Martín",
+      "aliases": [],
+      "lon": -60.6973957,
+      "lat": -33.0108458,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2791257072",
+      "name": "Country Tenis Aldea",
+      "aliases": [],
+      "lon": -60.7580634,
+      "lat": -32.9117819,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2791257075",
+      "name": "Aldea del Lago",
+      "aliases": [],
+      "lon": -60.7530353,
+      "lat": -32.911644,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2823215183",
+      "name": "Latinoámerica",
+      "aliases": [],
+      "lon": -60.6660082,
+      "lat": -32.966811,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2823215185",
+      "name": "Tango",
+      "aliases": [],
+      "lon": -60.7537944,
+      "lat": -32.9442671,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2873279778",
+      "name": "Estación El Gaucho",
+      "aliases": [],
+      "lon": -60.6872689,
+      "lat": -33.0052402,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2887702526",
+      "name": "Country Carlos Pellegrini",
+      "aliases": [],
+      "lon": -60.7550878,
+      "lat": -32.9327025,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2887702527",
+      "name": "Palos Verdes",
+      "aliases": [],
+      "lon": -60.7426436,
+      "lat": -32.8977087,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2887702528",
+      "name": "Los Pasos Golf",
+      "aliases": [
+        "Pasos del Golf"
+      ],
+      "lon": -60.7671126,
+      "lat": -32.939524,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2889876531",
+      "name": "Aldea",
+      "aliases": [],
+      "lon": -60.7561899,
+      "lat": -32.9164355,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2965189276",
+      "name": "España y Hospitales",
+      "aliases": [],
+      "lon": -60.6523433,
+      "lat": -32.9713845,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2965189277",
+      "name": "Villa La Lata",
+      "aliases": [],
+      "lon": -60.6496203,
+      "lat": -32.9716259,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2977902643",
+      "name": "Los Pinos",
+      "aliases": [],
+      "lon": -60.7327506,
+      "lat": -32.8795165,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2977902644",
+      "name": "Parque Habitacional Ibarlucea",
+      "aliases": [],
+      "lon": -60.7362181,
+      "lat": -32.8752607,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2977902645",
+      "name": "Roberto Fontanarrosa",
+      "aliases": [],
+      "lon": -60.7248571,
+      "lat": -32.8803611,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020619676",
+      "name": "San Cayetano",
+      "aliases": [],
+      "lon": -60.7566687,
+      "lat": -32.9305423,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020619677",
+      "name": "Tierra Nueva",
+      "aliases": [],
+      "lon": -60.760582,
+      "lat": -32.9291968,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020735668",
+      "name": "Altos de Mendoza",
+      "aliases": [],
+      "lon": -60.7279173,
+      "lat": -32.9451452,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020735670",
+      "name": "Fonavi A Donado y Mendoza",
+      "aliases": [],
+      "lon": -60.7245282,
+      "lat": -32.9437663,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020770273",
+      "name": "Santa Lucía",
+      "aliases": [],
+      "lon": -60.7263643,
+      "lat": -32.9544422,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3020770274",
+      "name": "Las Palmeras",
+      "aliases": [
+        "Villa Las Palmeras"
+      ],
+      "lon": -60.7232914,
+      "lat": -32.9561024,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3057673805",
+      "name": "Fisherton R.",
+      "aliases": [],
+      "lon": -60.7573367,
+      "lat": -32.9262658,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3057673806",
+      "name": "Nuevo Alberdi Oeste",
+      "aliases": [],
+      "lon": -60.7301187,
+      "lat": -32.8909447,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3057673807",
+      "name": "Parque Habitacional Bouchard",
+      "aliases": [],
+      "lon": -60.7449403,
+      "lat": -32.8937016,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3294741152",
+      "name": "Los Pasos Arroyo",
+      "aliases": [
+        "Pasos del Arroyo"
+      ],
+      "lon": -60.773538,
+      "lat": -32.9454024,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3294741153",
+      "name": "Los Pasos Country",
+      "aliases": [
+        "Pasos del Country"
+      ],
+      "lon": -60.7549578,
+      "lat": -32.9356891,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3294741154",
+      "name": "Los Pasos Puente",
+      "aliases": [
+        "Pasos del Puente"
+      ],
+      "lon": -60.7663375,
+      "lat": -32.9436605,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3331142140",
+      "name": "Colombres",
+      "aliases": [],
+      "lon": -60.7418281,
+      "lat": -32.9336169,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3331142141",
+      "name": "El Gráfico",
+      "aliases": [],
+      "lon": -60.7454063,
+      "lat": -32.9362031,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3344264223",
+      "name": "Las Flores Norte",
+      "aliases": [],
+      "lon": -60.6540319,
+      "lat": -33.0118982,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3402666122",
+      "name": "Loteo Avellaneda Oeste",
+      "aliases": [],
+      "lon": -60.6924906,
+      "lat": -32.9802093,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3404841719",
+      "name": "La Cerámica",
+      "aliases": [],
+      "lon": -60.7054102,
+      "lat": -32.8877996,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3531966879",
+      "name": "Puente Gallego",
+      "aliases": [],
+      "lon": -60.6864031,
+      "lat": -33.0279387,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3594707200",
+      "name": "General Las Heras",
+      "aliases": [],
+      "lon": -60.6372273,
+      "lat": -32.9874619,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3594707201",
+      "name": "Saladillo Sur",
+      "aliases": [],
+      "lon": -60.6188774,
+      "lat": -32.9994043,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3594707202",
+      "name": "Villa Manuelita",
+      "aliases": [],
+      "lon": -60.6252308,
+      "lat": -32.985873,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3595267451",
+      "name": "Bernardo de Irigoyen",
+      "aliases": [],
+      "lon": -60.6497294,
+      "lat": -33.0134964,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3595267452",
+      "name": "La Granada",
+      "aliases": [],
+      "lon": -60.6486416,
+      "lat": -33.018478,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3595267453",
+      "name": "Parque Regional Sur",
+      "aliases": [],
+      "lon": -60.6317469,
+      "lat": -33.0054044,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3633736357",
+      "name": "Santa Teresita",
+      "aliases": [],
+      "lon": -60.6796364,
+      "lat": -32.9885135,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156334",
+      "name": "Celedonio Escalada",
+      "aliases": [],
+      "lon": -60.7299836,
+      "lat": -32.8749265,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156335",
+      "name": "La Travesía",
+      "aliases": [],
+      "lon": -60.6919523,
+      "lat": -32.9186037,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156336",
+      "name": "Los Unidos",
+      "aliases": [],
+      "lon": -60.756105,
+      "lat": -32.9383422,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156337",
+      "name": "Parque Habitacional Ibarlucea Este",
+      "aliases": [],
+      "lon": -60.7173734,
+      "lat": -32.8824484,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156338",
+      "name": "Villa Cooperativa 25 de Mayo",
+      "aliases": [],
+      "lon": -60.7390165,
+      "lat": -32.8915196,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156339",
+      "name": "Villa La Antena",
+      "aliases": [],
+      "lon": -60.7462271,
+      "lat": -32.9423899,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156340",
+      "name": "Villa Los Euca",
+      "aliases": [],
+      "lon": -60.7238425,
+      "lat": -32.9506045,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156341",
+      "name": "Villa Puente Negro",
+      "aliases": [],
+      "lon": -60.705381,
+      "lat": -32.9064453,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3656156342",
+      "name": "Villa de Empalme Graneros",
+      "aliases": [],
+      "lon": -60.7057604,
+      "lat": -32.9125023,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3712313954",
+      "name": "Amiga",
+      "aliases": [],
+      "lon": -60.7305581,
+      "lat": -32.9210671,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3825511841",
+      "name": "Floresta",
+      "aliases": [],
+      "lon": -60.7607209,
+      "lat": -32.9429402,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3873074957",
+      "name": "Country Golf Rosario",
+      "aliases": [
+        "Country del Golf"
+      ],
+      "lon": -60.7719878,
+      "lat": -32.9209063,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3903407489",
+      "name": "San Cayetano Oeste",
+      "aliases": [],
+      "lon": -60.7300407,
+      "lat": -32.9653528,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3940820228",
+      "name": "Cordón Ayacucho",
+      "aliases": [],
+      "lon": -60.6351271,
+      "lat": -32.9885235,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3997945935",
+      "name": "Nueva Fisherton",
+      "aliases": [],
+      "lon": -60.7311579,
+      "lat": -32.9282715,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3997945936",
+      "name": "Puerto Norte",
+      "aliases": [],
+      "lon": -60.6608253,
+      "lat": -32.9280416,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4023962662",
+      "name": "Las Flores",
+      "aliases": [],
+      "lon": -60.6558304,
+      "lat": -33.016756,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4062589844",
+      "name": "Grandoli",
+      "aliases": [],
+      "lon": -60.6277846,
+      "lat": -32.9927573,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4065390684",
+      "name": "Barrio Moreno",
+      "aliases": [],
+      "lon": -60.6601513,
+      "lat": -32.980578,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4190794031",
+      "name": "14 de Octubre",
+      "aliases": [],
+      "lon": -60.6634169,
+      "lat": -32.9970046,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4438400109",
+      "name": "Condominios Palos Verdes",
+      "aliases": [],
+      "lon": -60.7461952,
+      "lat": -32.8997816,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4790451726",
+      "name": "Polledo",
+      "aliases": [],
+      "lon": -60.7186512,
+      "lat": -32.8844487,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5322403170",
+      "name": "Villa La Bombacha",
+      "aliases": [],
+      "lon": -60.7496956,
+      "lat": -32.9151772,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5322403171",
+      "name": "Villa Santa Rosa",
+      "aliases": [],
+      "lon": -60.7504523,
+      "lat": -32.9177036,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5322403174",
+      "name": "Las Torcazas",
+      "aliases": [],
+      "lon": -60.7503306,
+      "lat": -32.9204417,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5322403175",
+      "name": "Hoyo 12",
+      "aliases": [],
+      "lon": -60.7545491,
+      "lat": -32.9205877,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5390695275",
+      "name": "Los Tilos",
+      "aliases": [],
+      "lon": -60.7294822,
+      "lat": -32.8859527,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5517008452",
+      "name": "El Mangrullo",
+      "aliases": [],
+      "lon": -60.6158753,
+      "lat": -32.99794,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5540482808",
+      "name": "Victoria Walsh",
+      "aliases": [],
+      "lon": -60.6890935,
+      "lat": -32.9646208,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5548228574",
+      "name": "Villa La Vincha",
+      "aliases": [],
+      "lon": -60.6966573,
+      "lat": -32.9868249,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5548228576",
+      "name": "Villa Vía Honda",
+      "aliases": [],
+      "lon": -60.690515,
+      "lat": -32.975449,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6020717031",
+      "name": "La Floresta",
+      "aliases": [],
+      "lon": -60.7080084,
+      "lat": -32.8723066,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6020717032",
+      "name": "Roque Carranza",
+      "aliases": [],
+      "lon": -60.7018876,
+      "lat": -32.8718516,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6842474238",
+      "name": "Arboria",
+      "aliases": [
+        "Arborea"
+      ],
+      "lon": -60.7685995,
+      "lat": -32.9473001,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7039657055",
+      "name": "Condo del Bosque",
+      "aliases": [],
+      "lon": -60.7365066,
+      "lat": -32.8968651,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7340840673",
+      "name": "Plata",
+      "aliases": [
+        "Barrio Plata"
+      ],
+      "lon": -60.6817853,
+      "lat": -33.000162,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/8241906174",
+      "name": "La Tablada",
+      "aliases": [],
+      "lon": -60.6304021,
+      "lat": -32.976298,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/8253260428",
+      "name": "La Banana",
+      "aliases": [
+        "Villa Banana"
+      ],
+      "lon": -60.6889264,
+      "lat": -32.9628204,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9064045980",
+      "name": "Metra Puerto Norte",
+      "aliases": [],
+      "lon": -60.6696957,
+      "lat": -32.9211506,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9064075669",
+      "name": "Forum Puerto Norte",
+      "aliases": [],
+      "lon": -60.6651381,
+      "lat": -32.9222523,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9064075670",
+      "name": "Ciudad Ribera",
+      "aliases": [],
+      "lon": -60.6637861,
+      "lat": -32.9234317,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9071517118",
+      "name": "Condos Tierra Nueva",
+      "aliases": [],
+      "lon": -60.7636231,
+      "lat": -32.9312414,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9288475125",
+      "name": "La Roca",
+      "aliases": [],
+      "lon": -60.6970943,
+      "lat": -32.9735863,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9513777467",
+      "name": "Módena Fisherton",
+      "aliases": [],
+      "lon": -60.7624719,
+      "lat": -32.9332325,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9759683708",
+      "name": "Parque Habitacional Calasanz",
+      "aliases": [],
+      "lon": -60.7583047,
+      "lat": -32.9426182,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/9929479225",
+      "name": "Los Pasos Fisherton",
+      "aliases": [],
+      "lon": -60.7631314,
+      "lat": -32.9385889,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/10778514809",
+      "name": "Fonavi Casiano Casas",
+      "aliases": [],
+      "lon": -60.7130456,
+      "lat": -32.8980472,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11254039055",
+      "name": "Los Pumitas",
+      "aliases": [],
+      "lon": -60.7039154,
+      "lat": -32.9113155,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11384787995",
+      "name": "Condominios del Alto",
+      "aliases": [],
+      "lon": -60.6648195,
+      "lat": -32.9279341,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11738985620",
+      "name": "Club Duendes",
+      "aliases": [
+        "Duendes"
+      ],
+      "lon": -60.6849146,
+      "lat": -33.0056449,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11751947992",
+      "name": "Los Duendes",
+      "aliases": [
+        "Duendes"
+      ],
+      "lon": -60.7125628,
+      "lat": -33.0010516,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11999095604",
+      "name": "Unión y Parque Casas",
+      "aliases": [],
+      "lon": -60.7028371,
+      "lat": -32.9013352,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11999095605",
+      "name": "Unión",
+      "aliases": [
+        "Barrio Unión"
+      ],
+      "lon": -60.704205,
+      "lat": -32.8968896,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12318622939",
+      "name": "La Bajada",
+      "aliases": [],
+      "lon": -60.641303,
+      "lat": -32.9914529,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12691189896",
+      "name": "Los Pasos Barrios Abierto",
+      "aliases": [],
+      "lon": -60.7612824,
+      "lat": -32.93772,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12716085036",
+      "name": "Los Humitos",
+      "aliases": [],
+      "lon": -60.7296146,
+      "lat": -32.9701707,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12748944648",
+      "name": "Fisherton del Este",
+      "aliases": [],
+      "lon": -60.7192991,
+      "lat": -32.9122677,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12748944649",
+      "name": "Albert Schweitzer",
+      "aliases": [],
+      "lon": -60.7149573,
+      "lat": -32.9123633,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12748944651",
+      "name": "Nuestra Señora de la Paz",
+      "aliases": [],
+      "lon": -60.7093422,
+      "lat": -32.9025633,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/12939700529",
+      "name": "Villa Olímpica",
+      "aliases": [
+        "Villa Deportiva Parques Héroes de Malvinas"
+      ],
+      "lon": -60.639606,
+      "lat": -32.9924369,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "way/187448450",
+      "name": "Villa La Lata",
+      "aliases": [],
+      "lon": -60.6504839,
+      "lat": -32.9716844,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    }
+  ],
+  "boundaryKind": "municipality",
+  "sourceHashes": {
+    "osm": "f6932dbe2c4a8f2c30d28f3080ec4cd6b93325d6cb8ec1c11badef7d83cd84d9",
+    "boundary": "a472b01ea852e7cb3a5099affc38df2799c1c3ce8b00fec62c31b888e4b19c54"
+  }
+}

@@ -1,0 +1,3664 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T14:19:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 198405431,
+  "lat": -34.5296066,
+  "lon": -58.5220231,
+  "tags": {
+    "name": "Munro",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 198433281,
+  "lat": -34.6825600,
+  "lon": -58.5280086,
+  "tags": {
+    "name": "Villa Ansaldi",
+    "place": "quarter",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 198434054,
+  "lat": -34.6815323,
+  "lon": -58.4259827,
+  "tags": {
+    "name": "Villa Diamante",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 198442095,
+  "lat": -34.6956649,
+  "lon": -58.4259549,
+  "tags": {
+    "name": "Villa Caraza",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 198450511,
+  "lat": -34.5322058,
+  "lon": -58.4937312,
+  "tags": {
+    "name": "Florida",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 349129164,
+  "lat": -34.6282028,
+  "lon": -58.4622184,
+  "tags": {
+    "name": "Flores",
+    "place": "suburb",
+    "wikidata": "Q643907",
+    "wikipedia": "es:Flores (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349129660,
+  "lat": -34.6200773,
+  "lon": -58.4424893,
+  "tags": {
+    "name": "Caballito",
+    "place": "suburb",
+    "wikidata": "Q536312",
+    "wikipedia": "es:Caballito"
+  }
+},
+{
+  "type": "node",
+  "id": 349129936,
+  "lat": -34.6047975,
+  "lon": -58.4938209,
+  "tags": {
+    "name": "Villa del Parque",
+    "place": "suburb",
+    "wikidata": "Q771260",
+    "wikipedia": "es:Villa del Parque (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349130255,
+  "lat": -34.5613076,
+  "lon": -58.4565454,
+  "tags": {
+    "name": "Belgrano",
+    "place": "suburb",
+    "wikidata": "Q815569",
+    "wikipedia": "es:Belgrano (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349130752,
+  "lat": -34.6103764,
+  "lon": -58.3622067,
+  "tags": {
+    "is_in:country_code": "AR",
+    "is_in:state": "Capital Federal",
+    "name": "Puerto Madero",
+    "place": "suburb",
+    "wikidata": "Q781553",
+    "wikipedia": "es:Puerto Madero"
+  }
+},
+{
+  "type": "node",
+  "id": 349216445,
+  "lat": -34.5916426,
+  "lon": -58.3733070,
+  "tags": {
+    "name": "Retiro",
+    "place": "suburb",
+    "wikidata": "Q516411",
+    "wikipedia": "es:Retiro (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349327383,
+  "lat": -34.5803362,
+  "lon": -58.4245236,
+  "tags": {
+    "name": "Palermo",
+    "place": "suburb",
+    "wikidata": "Q1018128",
+    "wikipedia": "es:Palermo (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349327388,
+  "lat": -34.5873580,
+  "lon": -58.3915700,
+  "tags": {
+    "name": "Recoleta",
+    "place": "suburb",
+    "wikidata": "Q1010253",
+    "wikipedia": "es:Recoleta (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349328354,
+  "lat": -34.6335103,
+  "lon": -58.3590424,
+  "tags": {
+    "name": "La Boca",
+    "name:lt": "La Boka",
+    "name:ru": "Ла Бока",
+    "name:uk": "Ла Бока",
+    "place": "suburb",
+    "wikidata": "Q690649",
+    "wikipedia": "es:La Boca"
+  }
+},
+{
+  "type": "node",
+  "id": 349330144,
+  "lat": -34.6242460,
+  "lon": -58.3836324,
+  "tags": {
+    "is_in:country": "Argentina",
+    "is_in:country_code": "AR",
+    "is_in:state": "Capital Federal",
+    "name": "Constitución",
+    "place": "suburb",
+    "wikidata": "Q1405193",
+    "wikipedia": "es:Constitución (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349330578,
+  "lat": -34.6420488,
+  "lon": -58.5202251,
+  "tags": {
+    "name": "Liniers",
+    "place": "suburb",
+    "wikidata": "Q1826778",
+    "wikipedia": "es:Liniers (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349331726,
+  "lat": -34.5453484,
+  "lon": -58.4621491,
+  "tags": {
+    "name": "Núñez",
+    "place": "suburb",
+    "wikidata": "Q2007015",
+    "wikipedia": "es:Núñez (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349331897,
+  "lat": -34.6044631,
+  "lon": -58.3844969,
+  "tags": {
+    "name": "San Nicolás",
+    "place": "suburb",
+    "wikidata": "Q2006239",
+    "wikipedia": "es:San Nicolás (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 349332050,
+  "lat": -34.6115595,
+  "lon": -58.3841265,
+  "tags": {
+    "name": "Monserrat",
+    "place": "suburb",
+    "wikidata": "Q1027282",
+    "wikipedia": "es:Monserrat (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 456215926,
+  "lat": -34.5794479,
+  "lon": -58.5040849,
+  "tags": {
+    "name": "Villa Pueyrredón",
+    "place": "suburb",
+    "wikidata": "Q1026681",
+    "wikipedia": "es:Villa Pueyrredón"
+  }
+},
+{
+  "type": "node",
+  "id": 479744086,
+  "lat": -34.5572334,
+  "lon": -58.4503637,
+  "tags": {
+    "name": "Barrio Chino",
+    "place": "neighbourhood",
+    "wikidata": "Q2328190",
+    "wikimedia_commons": "Category:Chinatown, Buenos Aires",
+    "wikipedia": "es:Barrio chino (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 493619179,
+  "lat": -34.6578631,
+  "lon": -58.5017617,
+  "tags": {
+    "name": "Mataderos",
+    "place": "suburb",
+    "wikidata": "Q1301660",
+    "wikipedia": "es:Mataderos (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 509902269,
+  "lat": -34.6416644,
+  "lon": -58.3536028,
+  "tags": {
+    "name": "Isla Maciel",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 1310853712,
+  "lat": -34.5706184,
+  "lon": -58.4323788,
+  "tags": {
+    "name": "Las Cañitas",
+    "place": "neighbourhood",
+    "wikidata": "Q5970313",
+    "wikipedia": "es:Las Cañitas"
+  }
+},
+{
+  "type": "node",
+  "id": 1461784682,
+  "lat": -34.5387664,
+  "lon": -58.5144051,
+  "tags": {
+    "name": "Florida Oeste",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1461784691,
+  "lat": -34.5503634,
+  "lon": -58.5105760,
+  "tags": {
+    "name": "Villa Martelli",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1612004409,
+  "lat": -34.6289280,
+  "lon": -58.5232987,
+  "tags": {
+    "name": "Versalles",
+    "place": "suburb",
+    "wikidata": "Q655117",
+    "wikipedia": "es:Versalles (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1618113952,
+  "lat": -34.5843390,
+  "lon": -58.3783098,
+  "tags": {
+    "alt_name": "Barrio 31",
+    "name": "Villa 31",
+    "official_name": "Barrio Padre Carlos Mugica",
+    "place": "quarter",
+    "wikidata": "Q1132383",
+    "wikimedia_commons": "Category:Villa 31, Buenos Aires",
+    "wikipedia": "es:Villa 31"
+  }
+},
+{
+  "type": "node",
+  "id": 1620577930,
+  "lat": -34.6853468,
+  "lon": -58.4628282,
+  "tags": {
+    "alt_name": "Conjunto Urbano Lugano I y II",
+    "name": "Barrio Savio",
+    "official_name": "Barrio General de División Manuel Nicolás Savio",
+    "place": "quarter",
+    "wikidata": "Q5720466",
+    "wikipedia": "es:Barrio General de División Manuel Nicolás Savio"
+  }
+},
+{
+  "type": "node",
+  "id": 1626383510,
+  "lat": -34.6620877,
+  "lon": -58.4421165,
+  "tags": {
+    "name": "Villa Soldati",
+    "place": "suburb",
+    "wikidata": "Q1686228",
+    "wikipedia": "es:Villa Soldati (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1627104825,
+  "lat": -34.6766149,
+  "lon": -58.4771849,
+  "tags": {
+    "name": "Villa Lugano",
+    "name:lt": "Vilja Luganas",
+    "place": "suburb",
+    "wikidata": "Q731094",
+    "wikipedia": "es:Villa Lugano (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1627105982,
+  "lat": -34.6912065,
+  "lon": -58.4714500,
+  "tags": {
+    "name": "Villa Riachuelo",
+    "name:lt": "Vilja Riačuelas",
+    "place": "suburb",
+    "wikidata": "Q1026678",
+    "wikipedia": "es:Villa Riachuelo (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1637490509,
+  "lat": -34.6016774,
+  "lon": -58.3759305,
+  "tags": {
+    "name": "Microcentro",
+    "place": "quarter",
+    "wikidata": "Q4985514",
+    "wikipedia": "es:Microcentro (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1709707565,
+  "lat": -34.6452854,
+  "lon": -58.3875619,
+  "tags": {
+    "name": "Barracas",
+    "name:lt": "Barakas",
+    "place": "suburb",
+    "wikidata": "Q680964",
+    "wikipedia": "es:Barracas (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1710072546,
+  "lat": -34.6526296,
+  "lon": -58.4147098,
+  "tags": {
+    "is_in:country": "Argentina",
+    "is_in:country_code": "AR",
+    "name": "Nueva Pompeya",
+    "place": "suburb",
+    "wikidata": "Q2004385",
+    "wikipedia": "es:Nueva Pompeya (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1710085518,
+  "lat": -34.6382610,
+  "lon": -58.4384464,
+  "tags": {
+    "name": "Parque Chacabuco",
+    "place": "suburb",
+    "wikidata": "Q1118308",
+    "wikimedia_commons": "Category:Parque Chacabuco, Buenos Aires",
+    "wikipedia": "es:Parque Chacabuco (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1710124754,
+  "lat": -34.6495752,
+  "lon": -58.4411166,
+  "tags": {
+    "alt_name": "Villa 1-11-14",
+    "name": "Villa 1-11-14 Barrio Padre Ricciardelli",
+    "official_name": "Barrio Padre Rodolfo Ricciardelli",
+    "old_name": "Villa 1-11-14",
+    "place": "quarter",
+    "wikidata": "Q6161997",
+    "wikipedia": "es:Villa 1-11-14"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611458,
+  "lat": -34.6099883,
+  "lon": -58.4222331,
+  "tags": {
+    "name": "Almagro",
+    "place": "suburb",
+    "wikidata": "Q2064433",
+    "wikipedia": "es:Almagro (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611459,
+  "lat": -34.6092155,
+  "lon": -58.4031396,
+  "tags": {
+    "name": "Balvanera",
+    "place": "suburb",
+    "wikidata": "Q805848",
+    "wikipedia": "es:Balvanera"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611460,
+  "lat": -34.6302518,
+  "lon": -58.4187900,
+  "tags": {
+    "name": "Boedo",
+    "place": "suburb",
+    "wikidata": "Q890147",
+    "wikipedia": "es:Boedo (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611461,
+  "lat": -34.5880107,
+  "lon": -58.4541562,
+  "tags": {
+    "name": "Chacarita",
+    "place": "suburb",
+    "wikidata": "Q547713",
+    "wikipedia": "es:Chacarita (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611462,
+  "lat": -34.5599096,
+  "lon": -58.4747142,
+  "tags": {
+    "name": "Coghlan",
+    "place": "suburb",
+    "wikidata": "Q1106974",
+    "wikipedia": "es:Coghlan"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611463,
+  "lat": -34.5745154,
+  "lon": -58.4522819,
+  "tags": {
+    "name": "Colegiales",
+    "place": "suburb",
+    "wikidata": "Q1108064",
+    "wikipedia": "es:Colegiales (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611464,
+  "lat": -34.6281055,
+  "lon": -58.4837914,
+  "tags": {
+    "name": "Floresta",
+    "place": "suburb",
+    "wikidata": "Q1429543",
+    "wikipedia": "es:Floresta (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611466,
+  "lat": -34.6491990,
+  "lon": -58.4763768,
+  "tags": {
+    "name": "Parque Avellaneda",
+    "place": "suburb",
+    "wikidata": "Q597824",
+    "wikipedia": "es:Parque Avellaneda (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611467,
+  "lat": -34.5855111,
+  "lon": -58.4793049,
+  "tags": {
+    "name": "Parque Chas",
+    "place": "suburb",
+    "wikidata": "Q2053967",
+    "wikipedia": "es:Parque Chas"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611468,
+  "lat": -34.6374817,
+  "lon": -58.4012386,
+  "tags": {
+    "name": "Parque Patricios",
+    "place": "suburb",
+    "wikidata": "Q2054024",
+    "wikipedia": "es:Parque Patricios (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611469,
+  "lat": -34.5977397,
+  "lon": -58.4701995,
+  "tags": {
+    "name": "La Paternal",
+    "place": "suburb",
+    "wikidata": "Q1799004",
+    "wikipedia": "es:La Paternal"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611470,
+  "lat": -34.6240603,
+  "lon": -58.4023896,
+  "tags": {
+    "name": "San Cristóbal",
+    "place": "suburb",
+    "wikidata": "Q2064416",
+    "wikipedia": "es:San Cristóbal (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611471,
+  "lat": -34.5983947,
+  "lon": -58.4424743,
+  "tags": {
+    "name": "Villa Crespo",
+    "place": "suburb",
+    "wikidata": "Q1670884",
+    "wikipedia": "es:Villa Crespo"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611472,
+  "lat": -34.6009939,
+  "lon": -58.5155164,
+  "tags": {
+    "name": "Villa Devoto",
+    "place": "suburb",
+    "wikidata": "Q386011",
+    "wikipedia": "es:Villa Devoto"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611473,
+  "lat": -34.6103098,
+  "lon": -58.4693142,
+  "tags": {
+    "name": "Villa General Mitre",
+    "place": "suburb",
+    "wikidata": "Q1026651",
+    "wikipedia": "es:Villa General Mitre"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611474,
+  "lat": -34.6370747,
+  "lon": -58.5015075,
+  "tags": {
+    "name": "Villa Luro",
+    "place": "suburb",
+    "wikidata": "Q772760",
+    "wikipedia": "es:Villa Luro"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611475,
+  "lat": -34.5813020,
+  "lon": -58.4682453,
+  "tags": {
+    "name": "Villa Ortúzar",
+    "place": "suburb",
+    "wikidata": "Q1026701",
+    "wikipedia": "es:Villa Ortúzar"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611476,
+  "lat": -34.6189432,
+  "lon": -58.5258765,
+  "tags": {
+    "name": "Villa Real",
+    "place": "suburb",
+    "wikidata": "Q641438",
+    "wikipedia": "es:Villa Real (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611477,
+  "lat": -34.6160781,
+  "lon": -58.4827416,
+  "tags": {
+    "name": "Villa Santa Rita",
+    "place": "suburb",
+    "wikidata": "Q1026695",
+    "wikipedia": "es:Villa Santa Rita (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 1784611479,
+  "lat": -34.6311961,
+  "lon": -58.4925556,
+  "tags": {
+    "name": "Vélez Sarsfield",
+    "place": "suburb",
+    "wikidata": "Q643942",
+    "wikipedia": "es:Vélez Sársfield (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 2154318976,
+  "lat": -34.6456982,
+  "lon": -58.4413755,
+  "tags": {
+    "name": "Barrio Rivadavia I",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2286333182,
+  "lat": -34.6708377,
+  "lon": -58.3560289,
+  "tags": {
+    "name": "Crucecita",
+    "place": "suburb",
+    "population": "21836",
+    "population:date": "2001",
+    "wikidata": "Q5189761",
+    "wikipedia": "es:Crucecita"
+  }
+},
+{
+  "type": "node",
+  "id": 2349902658,
+  "lat": -34.6675914,
+  "lon": -58.3724949,
+  "tags": {
+    "name": "Barrio Mariano Moreno",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2349912550,
+  "lat": -34.6727798,
+  "lon": -58.3636114,
+  "tags": {
+    "designation": "Complejo habitacional",
+    "name": "Barrio Güemes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2425303892,
+  "lat": -34.6037283,
+  "lon": -58.4125926,
+  "tags": {
+    "description": "barrio no oficial",
+    "name": "Abasto",
+    "place": "neighbourhood",
+    "wikidata": "Q16488122",
+    "wikipedia": "es:Abasto (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 2425306209,
+  "lat": -34.6498554,
+  "lon": -58.4489393,
+  "tags": {
+    "name": "Bajo Flores",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 2425310210,
+  "lat": -34.6083636,
+  "lon": -58.4057436,
+  "tags": {
+    "description": "barrio no oficial",
+    "name": "Once",
+    "place": "neighbourhood",
+    "wikidata": "Q6050750",
+    "wikipedia": "es:Once (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 2667485376,
+  "lat": -34.6547856,
+  "lon": -58.3989516,
+  "tags": {
+    "name": "Villa 21 -24 / Zavaleta",
+    "place": "neighbourhood",
+    "wikidata": "Q6161999",
+    "wikipedia": "es:Villa 21-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2751180612,
+  "lat": -34.6901935,
+  "lon": -58.3966920,
+  "tags": {
+    "name": "Villa Atlántida",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2751180613,
+  "lat": -34.6850347,
+  "lon": -58.4015485,
+  "tags": {
+    "name": "Villa Libertad",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2751180614,
+  "lat": -34.6805242,
+  "lon": -58.4123854,
+  "tags": {
+    "name": "Villa Progreso",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2751180615,
+  "lat": -34.6805401,
+  "lon": -58.3974491,
+  "tags": {
+    "name": "Villa Spinola",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800152551,
+  "lat": -34.6894556,
+  "lon": -58.4091804,
+  "tags": {
+    "name": "Villa de los Industriales",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800152552,
+  "lat": -34.6955424,
+  "lon": -58.4020135,
+  "tags": {
+    "name": "Villa Argerich",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800218466,
+  "lat": -34.6700111,
+  "lon": -58.4098884,
+  "tags": {
+    "name": "Valentín Alsina Centro",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800218467,
+  "lat": -34.6859975,
+  "lon": -58.3902546,
+  "tags": {
+    "name": "Villa Fischer",
+    "place": "quarter",
+    "population": "8545",
+    "population:date": "2022-05-18",
+    "source:population": "https://es.wikipedia.org/wiki/Villa_Fischer"
+  }
+},
+{
+  "type": "node",
+  "id": 2800218468,
+  "lat": -34.6660923,
+  "lon": -58.4055968,
+  "tags": {
+    "name": "Paso de Burgos",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800219473,
+  "lat": -34.6949250,
+  "lon": -58.3787533,
+  "tags": {
+    "name": "Villa Angélica",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800219474,
+  "lat": -34.7011702,
+  "lon": -58.3713933,
+  "tags": {
+    "name": "Villa General Belgrano",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800223485,
+  "lat": -34.7033363,
+  "lon": -58.3953235,
+  "tags": {
+    "name": "Lanús Centro",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800223486,
+  "lat": -34.7042400,
+  "lon": -58.3791604,
+  "tags": {
+    "name": "Villa Sarmiento",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800242691,
+  "lat": -34.6753056,
+  "lon": -58.4295008,
+  "tags": {
+    "name": "Villa Jardín",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800243089,
+  "lat": -34.6721812,
+  "lon": -58.4233845,
+  "tags": {
+    "name": "Villa Constitución",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800251210,
+  "lat": -34.6969543,
+  "lon": -58.4156820,
+  "tags": {
+    "name": "Villa Internacional",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2800264019,
+  "lat": -34.7012229,
+  "lon": -58.4080807,
+  "tags": {
+    "name": "Villa Albariños",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2823730295,
+  "lat": -34.6852389,
+  "lon": -58.4299935,
+  "tags": {
+    "name": "Villa del Valle",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2823736424,
+  "lat": -34.6874806,
+  "lon": -58.4352721,
+  "tags": {
+    "name": "Paso Chico",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 2823738340,
+  "lat": -34.6958602,
+  "lon": -58.4369458,
+  "tags": {
+    "name": "Barracas al Sur",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 3023753678,
+  "lat": -34.5648018,
+  "lon": -58.5022821,
+  "tags": {
+    "alt_name": "Barrio Sarmiento",
+    "name": "Barrio Parque Cornelio Saavedra",
+    "official_name": "Barrio Parque Cornelio Saavedra",
+    "old_name": "Barrio Perón",
+    "place": "neighbourhood",
+    "wikidata": "Q5720820",
+    "wikimedia_commons": "Category:Barrio Residencial Cornelio Saavedra",
+    "wikipedia": "es:Barrio Residencial Cornelio Saavedra (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 3049625933,
+  "lat": -34.5492846,
+  "lon": -58.4505150,
+  "tags": {
+    "alt_name": "Barrio Parque General Belgrano",
+    "name": "Barrio River",
+    "place": "neighbourhood",
+    "wikidata": "Q5720825",
+    "wikipedia": "es:Barrio River"
+  }
+},
+{
+  "type": "node",
+  "id": 3422684192,
+  "lat": -34.5525291,
+  "lon": -58.4862759,
+  "tags": {
+    "name": "Saavedra",
+    "place": "suburb",
+    "wikidata": "Q655297",
+    "wikipedia": "es:Saavedra (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 3422689776,
+  "lat": -34.6188385,
+  "lon": -58.5059465,
+  "tags": {
+    "name": "Monte Castro",
+    "place": "suburb",
+    "population": "34584",
+    "wikidata": "Q1945789",
+    "wikipedia": "es:Monte Castro"
+  }
+},
+{
+  "type": "node",
+  "id": 3422727798,
+  "lat": -34.5732414,
+  "lon": -58.4914785,
+  "tags": {
+    "name": "Villa Urquiza",
+    "place": "suburb",
+    "wikidata": "Q1026691",
+    "wikipedia": "es:Villa Urquiza (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 3520887607,
+  "lat": -34.5538875,
+  "lon": -58.4444564,
+  "tags": {
+    "name": "Bajo Belgrano",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3520890188,
+  "lat": -34.5762641,
+  "lon": -58.5090361,
+  "tags": {
+    "name": "Barrio Albarellos",
+    "place": "neighbourhood",
+    "wikidata": "Q5720193",
+    "wikipedia": "es:Barrio Albarellos"
+  }
+},
+{
+  "type": "node",
+  "id": 3625417625,
+  "lat": -34.6214013,
+  "lon": -58.3737500,
+  "tags": {
+    "name": "San Telmo",
+    "place": "suburb",
+    "wikidata": "Q1026688",
+    "wikipedia": "es:San Telmo (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 3825897565,
+  "lat": -34.5531729,
+  "lon": -58.5240407,
+  "tags": {
+    "name": "Villa Loyola",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 3825897566,
+  "lat": -34.5483780,
+  "lon": -58.5229024,
+  "tags": {
+    "name": "Barrio Las Flores",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3825897568,
+  "lat": -34.5448821,
+  "lon": -58.5313098,
+  "tags": {
+    "name": "Villa Concepción",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 4308292130,
+  "lat": -34.5870582,
+  "lon": -58.4281780,
+  "tags": {
+    "name": "Palermo Soho",
+    "place": "neighbourhood",
+    "wikidata": "Q2886949",
+    "wikipedia": "es:Palermo Soho"
+  }
+},
+{
+  "type": "node",
+  "id": 4936051999,
+  "lat": -34.5778295,
+  "lon": -58.4009058,
+  "tags": {
+    "alt_name": "Palermo Chico",
+    "is_in:city": "Buenos Aires",
+    "name": "Barrio Parque",
+    "place": "neighbourhood",
+    "wikidata": "Q6058869",
+    "wikipedia": "es:Palermo Chico"
+  }
+},
+{
+  "type": "node",
+  "id": 4936147321,
+  "lat": -34.5701872,
+  "lon": -58.4668798,
+  "tags": {
+    "name": "Belgrano R",
+    "place": "neighbourhood",
+    "wikidata": "Q5725073",
+    "wikipedia": "es:Belgrano R"
+  }
+},
+{
+  "type": "node",
+  "id": 4973904314,
+  "lat": -34.5852566,
+  "lon": -58.3965024,
+  "tags": {
+    "name": "La Isla",
+    "place": "neighbourhood",
+    "wikidata": "Q5963895",
+    "wikipedia": "es:La Isla (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 4998985008,
+  "lat": -34.5348018,
+  "lon": -58.5306664,
+  "tags": {
+    "name": "Munro Oeste",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 5317221119,
+  "lat": -34.6514359,
+  "lon": -58.5307403,
+  "tags": {
+    "name": "El Triángulo",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 5523257202,
+  "lat": -34.5927233,
+  "lon": -58.4023659,
+  "tags": {
+    "name": "Barrio Norte",
+    "place": "quarter",
+    "wikidata": "Q4863739",
+    "wikipedia": "es:Barrio Norte (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 5782655963,
+  "lat": -34.7038757,
+  "lon": -58.3466264,
+  "tags": {
+    "name": "Villa Corina",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5849865702,
+  "lat": -34.5810889,
+  "lon": -58.4080373,
+  "tags": {
+    "name": "Palermo Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5849865703,
+  "lat": -34.5809388,
+  "lon": -58.4139596,
+  "tags": {
+    "name": "Palermo Botánico",
+    "place": "neighbourhood",
+    "wikidata": "Q6058865",
+    "wikipedia": "es:Palermo Botánico"
+  }
+},
+{
+  "type": "node",
+  "id": 5849865704,
+  "lat": -34.5745697,
+  "lon": -58.4226714,
+  "tags": {
+    "name": "Palermo Pacífico",
+    "place": "neighbourhood",
+    "wikidata": "Q11697296",
+    "wikipedia": "es:Pacífico (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 5849865705,
+  "lat": -34.5866184,
+  "lon": -58.4132086,
+  "tags": {
+    "name": "Alto Palermo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6099747372,
+  "lat": -34.5791990,
+  "lon": -58.3904654,
+  "tags": {
+    "name": "La Containera",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6165375577,
+  "lat": -34.5505323,
+  "lon": -58.5306575,
+  "tags": {
+    "name": "Villa Zagala",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 7317613501,
+  "lat": -34.5808450,
+  "lon": -58.3814657,
+  "tags": {
+    "name": "Barrio YPF",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8086648014,
+  "lat": -34.6254347,
+  "lon": -58.3539087,
+  "tags": {
+    "name": "Isla Demarchi",
+    "place": "quarter",
+    "wikipedia": "es:Isla Demarchi"
+  }
+},
+{
+  "type": "node",
+  "id": 10563587863,
+  "lat": -34.5816985,
+  "lon": -58.4344985,
+  "tags": {
+    "name": "Palermo Hollywood",
+    "place": "neighbourhood",
+    "wikidata": "Q9054795"
+  }
+},
+{
+  "type": "node",
+  "id": 10810530427,
+  "lat": -34.6745380,
+  "lon": -58.5208762,
+  "tags": {
+    "name": "Las Antenas",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11079154368,
+  "lat": -34.6957861,
+  "lon": -58.4816152,
+  "tags": {
+    "name": "Barrio General Paz",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11449884356,
+  "lat": -34.6800430,
+  "lon": -58.5232358,
+  "tags": {
+    "name": "El Cascote",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924499,
+  "lat": -34.6652555,
+  "lon": -58.5173757,
+  "tags": {
+    "name": "Villa Industrial",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924500,
+  "lat": -34.6658771,
+  "lon": -58.5218469,
+  "tags": {
+    "name": "Los Chalecitos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924501,
+  "lat": -34.6694147,
+  "lon": -58.5239365,
+  "tags": {
+    "name": "Villa Progreso",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924502,
+  "lat": -34.6705516,
+  "lon": -58.5285224,
+  "tags": {
+    "name": "Villa Larrumbre",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924503,
+  "lat": -34.6799552,
+  "lon": -58.5069065,
+  "tags": {
+    "name": "Villa Scasso",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924512,
+  "lat": -34.6976939,
+  "lon": -58.5201186,
+  "tags": {
+    "name": "General San Martin",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924513,
+  "lat": -34.6990130,
+  "lon": -58.5260101,
+  "tags": {
+    "name": "Presidente Roca",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11449924514,
+  "lat": -34.6856045,
+  "lon": -58.5270842,
+  "tags": {
+    "name": "Godoy Cruz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11561181723,
+  "lat": -34.5850944,
+  "lon": -58.5251796,
+  "tags": {
+    "name": "Villa Piaggio",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11781964072,
+  "lat": -34.6680438,
+  "lon": -58.4972727,
+  "tags": {
+    "name": "Los Perales",
+    "official_name": "Barrio Manuel Dorrego",
+    "place": "quarter",
+    "wikidata": "Q5720631",
+    "wikipedia": "es:Barrio Manuel Dorrego"
+  }
+},
+{
+  "type": "node",
+  "id": 12134305702,
+  "lat": -34.6622775,
+  "lon": -58.4045128,
+  "tags": {
+    "name": "El Fortín",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12741335592,
+  "lat": -34.6760600,
+  "lon": -58.3375526,
+  "tags": {
+    "name": "La Saladita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13204111853,
+  "lat": -34.6181949,
+  "lon": -58.3533990,
+  "tags": {
+    "name": "Rodrigo Bueno",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13233441207,
+  "lat": -34.6728714,
+  "lon": -58.5115289,
+  "tags": {
+    "name": "Villa Insuperable",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13233441208,
+  "lat": -34.7039243,
+  "lon": -58.4718331,
+  "tags": {
+    "name": "Vicente López",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13333815779,
+  "lat": -34.5957460,
+  "lon": -58.3713955,
+  "tags": {
+    "name": "Catalinas Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13363621267,
+  "lat": -34.5952803,
+  "lon": -58.4859915,
+  "tags": {
+    "name": "Agronomía",
+    "place": "suburb",
+    "wikidata": "Q397422",
+    "wikipedia": "es:Agronomía (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 13363621268,
+  "lat": -34.6097239,
+  "lon": -58.4074188,
+  "tags": {
+    "name": "Once",
+    "place": "quarter",
+    "wikidata": "Q6050750",
+    "wikipedia": "es:Once (Buenos Aires)"
+  }
+},
+{
+  "type": "node",
+  "id": 13363621269,
+  "lat": -34.6440950,
+  "lon": -58.3951278,
+  "tags": {
+    "name": "Barrrio Estación Buenos Aires",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13588745211,
+  "lat": -34.6572689,
+  "lon": -58.5192561,
+  "tags": {
+    "name": "Naón",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13599432267,
+  "lat": -34.6527183,
+  "lon": -58.3592682,
+  "tags": {
+    "name": "Villa Tranquila",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13599432268,
+  "lat": -34.6443380,
+  "lon": -58.3463621,
+  "tags": {
+    "name": "Urquiza",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13755786076,
+  "lat": -34.6220551,
+  "lon": -58.4526918,
+  "tags": {
+    "name": "Villa Ferrocarril",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 13859015012,
+  "lat": -34.6955458,
+  "lon": -58.3407055,
+  "tags": {
+    "name": "Villa Colón",
+    "place": "quarter",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "node",
+  "id": 13859015013,
+  "lat": -34.6928851,
+  "lon": -58.3454214,
+  "tags": {
+    "name": "Villa Mintiguiaga",
+    "place": "quarter",
+    "source_ref": "http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"
+  }
+},
+{
+  "type": "way",
+  "id": 23651039,
+  "center": {
+    "lat": -34.5820212,
+    "lon": -58.3853934
+  },
+  "nodes": [
+    1618356297,
+    1618111943,
+    1283447373,
+    1618111950,
+    256037095,
+    256037094,
+    1618111951,
+    256037092,
+    256037091,
+    1618356283,
+    1618356293,
+    256037090,
+    1618356318,
+    1618363001,
+    1618120809,
+    1618120804,
+    256232055,
+    256232056,
+    2150483006,
+    1283447336,
+    9359138192,
+    256232057,
+    1283447342,
+    1618363005,
+    1618363000,
+    1618372134,
+    1618372135,
+    1618372146,
+    1618372144,
+    1283447338,
+    1618363003,
+    1283447339,
+    1283447350,
+    1283447351,
+    1618367481,
+    2151869165,
+    4381132447,
+    4381132446,
+    1634484796,
+    1283447395,
+    1634484797,
+    1634484817,
+    1634484856,
+    1634484794,
+    1634484802,
+    1634484792,
+    1283447391,
+    256232059,
+    1283447393,
+    1634737848,
+    1634737855,
+    1634737858,
+    1634737857,
+    1634737849,
+    1634737853,
+    1283447387,
+    6336737654,
+    6336737700,
+    256232050,
+    6336737701,
+    1283447384,
+    1647832945,
+    1618356297
+  ],
+  "tags": {
+    "boundary": "administrative",
+    "name": "Villa 31 bis",
+    "place": "neighbourhood",
+    "residential": "irregular_settlement",
+    "type": "boundary",
+    "wikidata": "Q118178185"
+  }
+},
+{
+  "type": "way",
+  "id": 28538298,
+  "center": {
+    "lat": -34.6298507,
+    "lon": -58.5322722
+  },
+  "nodes": [
+    313488048,
+    313488049,
+    313488050,
+    313488051,
+    313488048
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Villa La Paz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 149009732,
+  "center": {
+    "lat": -34.6855128,
+    "lon": -58.4636710
+  },
+  "nodes": [
+    1620505179,
+    14054367916,
+    14054367911,
+    1620524254,
+    1620524252,
+    1620374291,
+    1620374337,
+    3308992694,
+    11006445180,
+    13190234878,
+    1620505157,
+    1620374336,
+    1620505147,
+    14054368264,
+    14054368265,
+    14054368277,
+    3269890205,
+    3269890215,
+    1620505150,
+    1620505168,
+    1620505176,
+    1620505173,
+    1620550721,
+    1620550538,
+    1620543942,
+    1620543799,
+    1623260733,
+    1620543823,
+    1620543848,
+    14054002732,
+    1620543807,
+    1620543812,
+    14054002779,
+    14054002753,
+    14054002754,
+    14054002776,
+    1620543865,
+    1620505144,
+    1620505136,
+    11311048864,
+    5338160918,
+    5338161421,
+    14054368075,
+    14054368064,
+    14054367961,
+    14054367935,
+    14054367936,
+    14054367907,
+    14054367908,
+    14054367918,
+    14054367912,
+    14054367915,
+    14054367913,
+    14054367914,
+    1620505179
+  ],
+  "tags": {
+    "is_in:suburb": "Villa Lugano",
+    "landuse": "residential",
+    "name": "Barrio General de División Manuel Nicolás Savio",
+    "place": "quarter",
+    "residential": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 149693906,
+  "center": {
+    "lat": -34.6666656,
+    "lon": -58.4449508
+  },
+  "nodes": [
+    8807793688,
+    8807790612,
+    8807790613,
+    8807790611,
+    1626381147,
+    8807790615,
+    8807790614,
+    8807790617,
+    8807790616,
+    8807790618,
+    8807793687,
+    8807790620,
+    8807790621,
+    8807790619,
+    1626381144,
+    8807793686,
+    8807793685,
+    8807793684,
+    8807793682,
+    8807793681,
+    8807793680,
+    8807793679,
+    8807793678,
+    8807793677,
+    8807793676,
+    8807793675,
+    8807790623,
+    8807790622,
+    8807793674,
+    8807793673,
+    8807793672,
+    8807793671,
+    8807793648,
+    8807793656,
+    8807793655,
+    8807793654,
+    8807793653,
+    8807793664,
+    8807793663,
+    8807790625,
+    8807790627,
+    8807790626,
+    8807793662,
+    8807793661,
+    8807793660,
+    8807793659,
+    8807790629,
+    8807790630,
+    8807790628,
+    8807793658,
+    8807790551,
+    8807790553,
+    8807790552,
+    8807790554,
+    8807790555,
+    8807793657,
+    8807790632,
+    8807790633,
+    8807790631,
+    1626381141,
+    1626381145,
+    1626381138,
+    8807790634,
+    1626381137,
+    8807790635,
+    8807790636,
+    8807790637,
+    8807790638,
+    1626381146,
+    1626381139,
+    8807790639,
+    8807790641,
+    8807790640,
+    8807790642,
+    8807793652,
+    8807793651,
+    8807793650,
+    8807793649,
+    8807793647,
+    8807793670,
+    8807793669,
+    8807793668,
+    8807793667,
+    8807790645,
+    8807790643,
+    8807793666,
+    8807790644,
+    8807793665,
+    8807793683,
+    8807790649,
+    8807790648,
+    8807790650,
+    8807790647,
+    8807790646,
+    1626381140,
+    8807790559,
+    8807790558,
+    8807790557,
+    8807790556,
+    8807793688
+  ],
+  "tags": {
+    "description": "Barrio municipal. Conjunto habitacional.",
+    "landuse": "residential",
+    "name": "Barrio Soldati",
+    "place": "neighbourhood",
+    "wikipedia": "es:Barrio Soldati"
+  }
+},
+{
+  "type": "way",
+  "id": 149763335,
+  "center": {
+    "lat": -34.6607199,
+    "lon": -58.3912818
+  },
+  "nodes": [
+    1627129010,
+    1627128746,
+    1627128759,
+    1627128846,
+    6091241908,
+    1627128747,
+    1627128679,
+    1627129010
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Villa 26 - Asentamiento Agustín Magaldi",
+    "place": "neighbourhood",
+    "residential": "irregular_settlement",
+    "source": "https://www.caminosdelavilla.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 205344125,
+  "center": {
+    "lat": -34.6565219,
+    "lon": -58.4572621
+  },
+  "nodes": [
+    2153176287,
+    8778077455,
+    8778077456,
+    2153176328,
+    11361195426,
+    11361195427,
+    2153176330,
+    2153176316,
+    2153176308,
+    11363346311,
+    11363346312,
+    2153176333,
+    5324985230,
+    11363346310,
+    2153176313,
+    2153176306,
+    2153176286,
+    2153176296,
+    2153176319,
+    8778077459,
+    2153176287
+  ],
+  "tags": {
+    "description": "Barrio municipal",
+    "landuse": "residential",
+    "name": "Barrio Ramón Carrillo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 205360649,
+  "center": {
+    "lat": -34.6473807,
+    "lon": -58.4569648
+  },
+  "nodes": [
+    2153333771,
+    2153333777,
+    2153333769,
+    2153333767,
+    2153333770,
+    2153333766,
+    2153333765,
+    2153333759,
+    2153333771
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio FONAVI",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 205360910,
+  "center": {
+    "lat": -34.6459072,
+    "lon": -58.4547224
+  },
+  "nodes": [
+    2153336010,
+    2153336021,
+    256030568,
+    2153281567,
+    256030569,
+    256030574,
+    2153336015,
+    2153336017,
+    2153336009,
+    2153336014,
+    2153336022,
+    2153336020,
+    2153336018,
+    2153336008,
+    2153336019,
+    2153336016,
+    2153336011,
+    2153336007,
+    2153336012,
+    2153336013,
+    2153336010
+  ],
+  "tags": {
+    "alt_name": "Conjunto San Pedrito",
+    "landuse": "residential",
+    "name": "Barrio Mariano Castex",
+    "place": "neighbourhood",
+    "wikipedia": "es:Barrio Mariano Castex"
+  }
+},
+{
+  "type": "way",
+  "id": 205362557,
+  "center": {
+    "lat": -34.6439393,
+    "lon": -58.4483005
+  },
+  "nodes": [
+    2153350495,
+    8477052994,
+    2153350493,
+    8477052995,
+    2153350492,
+    8477052996,
+    2153350494,
+    8477052997,
+    2153350495
+  ],
+  "tags": {
+    "barrier": "fence",
+    "landuse": "residential",
+    "name": "Barrio Balbastro",
+    "place": "neighbourhood",
+    "wikidata": "Q6393774",
+    "wikipedia": "es:Barrio Balbastro"
+  }
+},
+{
+  "type": "way",
+  "id": 205456680,
+  "center": {
+    "lat": -34.6460697,
+    "lon": -58.4419585
+  },
+  "nodes": [
+    2154292203,
+    2154318978,
+    2154318975,
+    2154158839,
+    2154162713,
+    2154292747,
+    13778877523,
+    13778877522,
+    2154318977,
+    8045359691,
+    8045356263,
+    8045359695,
+    8045359696,
+    7967091207,
+    2154320618,
+    2154230668,
+    2154230669,
+    2154320616,
+    2154320617,
+    8477131115,
+    12606045011,
+    8883245918,
+    2154229700,
+    8490097609,
+    8490097610,
+    8490097611,
+    8490097612,
+    8490102958,
+    8490102918,
+    8883218399,
+    8032973450,
+    8883218398,
+    8883218396,
+    8883218397,
+    8032973449,
+    8032973454,
+    8477151747,
+    8477151746,
+    8477151744,
+    8477151745,
+    8477131101,
+    2154292203
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Rivadavia I y II",
+    "place": "quarter",
+    "wikipedia": "es:Barrio Rivadavia I y II"
+  }
+},
+{
+  "type": "way",
+  "id": 205476342,
+  "center": {
+    "lat": -34.6478737,
+    "lon": -58.4351615
+  },
+  "nodes": [
+    2154423782,
+    9748581194,
+    9748581191,
+    2154423781,
+    2154423780,
+    2154423779,
+    2154423782
+  ],
+  "tags": {
+    "alt_name": "Barrio Presidente Illia I",
+    "landuse": "residential",
+    "name": "Barrio Illia",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 205476375,
+  "center": {
+    "lat": -34.6492624,
+    "lon": -58.4393580
+  },
+  "nodes": [
+    2154424081,
+    2154424073,
+    8038383456,
+    8479380353,
+    8479380354,
+    8479380355,
+    8479380352,
+    8479380356,
+    8479380351,
+    2154424081
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Sector Riestra",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 205476470,
+  "center": {
+    "lat": -34.6455274,
+    "lon": -58.4365007
+  },
+  "nodes": [
+    2154427201,
+    7943209124,
+    7943211588,
+    7943209125,
+    7943209119,
+    2154427197,
+    2154427203,
+    13904513772,
+    13904513757,
+    7943209105,
+    2154427199,
+    8710981567,
+    8710981507,
+    8710981715,
+    8710981628,
+    8710981794,
+    8710976179,
+    8710976209,
+    8710981579,
+    8710976178,
+    8710981435,
+    8710981603,
+    8710981764,
+    8710981496,
+    8710981724,
+    8710976216,
+    8710976177,
+    8710981676,
+    8710981449,
+    8710976204,
+    8710976176,
+    8710981537,
+    8710981520,
+    8710976175,
+    8710976174,
+    8710981568,
+    8710981660,
+    8710981556,
+    7943209106,
+    7943209107,
+    2154427201
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Juan XXIII",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 205507596,
+  "center": {
+    "lat": -34.6436402,
+    "lon": -58.4837203
+  },
+  "nodes": [
+    2154719613,
+    2154719617,
+    2154719621,
+    8633510873,
+    2154719620,
+    2154719616,
+    4467252937,
+    8633510871,
+    2154719624,
+    2154719613
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Alvear",
+    "place": "neighbourhood",
+    "residential": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 298257464,
+  "center": {
+    "lat": -34.5987445,
+    "lon": -58.4713129
+  },
+  "nodes": [
+    4186918779,
+    4186918771,
+    4186918767,
+    3021664714,
+    3021664715,
+    3021664716,
+    4186918762,
+    4186918763,
+    4186918756,
+    3021664718,
+    3021664719,
+    3021664720,
+    3021664721,
+    3021664722,
+    3021664723,
+    3021664724,
+    6592766905,
+    6592741333,
+    3021664726,
+    12756432028,
+    12756432027,
+    12756432029,
+    12756432026,
+    3021664727,
+    4186918775,
+    4186918778,
+    4186918779
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Villa La Carbonilla",
+    "place": "neighbourhood",
+    "residential": "irregular_setlement"
+  }
+},
+{
+  "type": "way",
+  "id": 329365872,
+  "center": {
+    "lat": -34.6513997,
+    "lon": -58.4118704
+  },
+  "nodes": [
+    3362364693,
+    3362364793,
+    3362364893,
+    3362364993,
+    3362364693
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Colonia Obrera",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 370229235,
+  "center": {
+    "lat": -34.6544255,
+    "lon": -58.3980588
+  },
+  "nodes": [
+    4566165497,
+    12159157733,
+    12159157734,
+    8751250658,
+    1627137218,
+    10052717285,
+    10057323127,
+    10057323126,
+    7572741211,
+    3739511116,
+    3739511117,
+    7572741212,
+    7572741213,
+    7572741214,
+    7572741215,
+    7572741216,
+    7572741217,
+    3739511119,
+    3739511120,
+    3739511121,
+    3845163726,
+    7572741218,
+    7572741219,
+    7572741222,
+    7572741221,
+    7572741220,
+    7572741223,
+    7572741224,
+    7572741225,
+    7572741228,
+    7572741227,
+    7572741226,
+    7572741229,
+    7572741230,
+    7572739472,
+    7572739473,
+    7572739474,
+    7572739475,
+    7572739476,
+    7572739477,
+    7572739478,
+    7572739479,
+    7572739480,
+    7572739481,
+    7572739482,
+    7572739483,
+    7572739484,
+    7572744085,
+    3739514736,
+    7572744086,
+    7572744087,
+    3739514739,
+    3739514740,
+    3238893207,
+    3015065526,
+    12369032602,
+    12856793840,
+    12856793841,
+    3238892881,
+    3238892880,
+    13749653463,
+    2973532992,
+    3845163725,
+    13749653465,
+    5312573784,
+    10052729091,
+    2300050303,
+    3238892875,
+    3238892874,
+    3739514742,
+    13314220310,
+    13314220311,
+    8195409676,
+    8195409682,
+    8195409681,
+    8195409697,
+    5160134310,
+    13314192458,
+    13314192459,
+    3739514744,
+    2236014381,
+    2236014371,
+    11891721097,
+    11891721098,
+    11891721099,
+    11891721100,
+    11891721101,
+    11891721102,
+    11891721103,
+    11891721104,
+    12946991001,
+    12946991002,
+    12946990896,
+    12946990897,
+    9440146814,
+    3080781283,
+    3080781289,
+    3080781288,
+    12403366361,
+    12403366362,
+    9440146803,
+    9440146804,
+    9440146813,
+    9440146812,
+    3080781290,
+    12856793848,
+    12856793847,
+    12856793846,
+    13083634598,
+    12159157732,
+    4566165497
+  ],
+  "tags": {
+    "alt_name": "Zavaleta",
+    "name": "Villa 21-24",
+    "place": "quarter",
+    "wikipedia": "es:Villa 21-24"
+  }
+},
+{
+  "type": "way",
+  "id": 373090950,
+  "center": {
+    "lat": -34.6628190,
+    "lon": -58.4553059
+  },
+  "nodes": [
+    1626332445,
+    7455989838,
+    14072831380,
+    7455989844,
+    1626332427,
+    1626332389,
+    1626332398,
+    7455989841,
+    7455989843,
+    256233746,
+    7354393279,
+    7350482264,
+    7350482263,
+    13297028215,
+    13297028227,
+    4026255592,
+    1626341919,
+    7350482262,
+    1626341956,
+    1626341969,
+    1626341978,
+    1626341940,
+    4026255591,
+    4026255589,
+    4026251588,
+    6196573867,
+    4026251586,
+    4026251585,
+    4026251584,
+    4428933503,
+    4428933504,
+    1626332445
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Los Piletones",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 424636843,
+  "center": {
+    "lat": -34.5839520,
+    "lon": -58.3779484
+  },
+  "nodes": [
+    6332154933,
+    6332154932,
+    4240312772,
+    4386164869,
+    1283424780,
+    5774254688,
+    4379781247,
+    2150605727,
+    687539313,
+    4240312773,
+    1618351671,
+    6332154933
+  ],
+  "tags": {
+    "description": "Barrio interno Villa 31",
+    "name": "Barrio Güemes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 446758778,
+  "center": {
+    "lat": -34.5488910,
+    "lon": -58.4867074
+  },
+  "nodes": [
+    4439985160,
+    4439985158,
+    4439985159,
+    4439985161,
+    4439985160
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Mitre",
+    "place": "neighbourhood",
+    "start_date": "1958-10",
+    "wikidata": "Q5720655",
+    "wikipedia": "es:Barrio Mitre (Buenos Aires)"
+  }
+},
+{
+  "type": "way",
+  "id": 457298108,
+  "center": {
+    "lat": -34.6902812,
+    "lon": -58.4466222
+  },
+  "nodes": [
+    4534660577,
+    6418023819,
+    4534660582,
+    4534660578,
+    4534660579,
+    4534660580,
+    4534660577
+  ],
+  "tags": {
+    "name": "Libre Amanecer",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 457298109,
+  "center": {
+    "lat": -34.6916621,
+    "lon": -58.4457499
+  },
+  "nodes": [
+    4534660581,
+    6418023820,
+    4534660583,
+    4534660584,
+    4534660585,
+    4534660586,
+    4534660587,
+    4534660588,
+    4534661089,
+    4534661090,
+    4534661091,
+    4534660581
+  ],
+  "tags": {
+    "name": "Soledad",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 474527786,
+  "center": {
+    "lat": -34.6612751,
+    "lon": -58.4696290
+  },
+  "nodes": [
+    3590618496,
+    3590618192,
+    4684653976,
+    4684653975,
+    4684653974,
+    2154878746,
+    2154878756,
+    4684653973,
+    2154877709,
+    2154877706,
+    4684653972,
+    4684653971,
+    4684653970,
+    4684653969,
+    4684653968,
+    3590618495,
+    3590618496
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Nágera",
+    "official_name": "Barrio Juan José Nágera",
+    "place": "neighbourhood",
+    "residential": "apartments",
+    "website": "https://barrionagera.es.tl/",
+    "wikipedia": "es:Barrio Juan José Nágera"
+  }
+},
+{
+  "type": "way",
+  "id": 492679065,
+  "center": {
+    "lat": -34.6655862,
+    "lon": -58.4722095
+  },
+  "nodes": [
+    4197641246,
+    5047045382,
+    12121446557,
+    12121446547,
+    4987605621,
+    5046932239,
+    4197641246
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Samoré",
+    "place": "neighbourhood",
+    "residential": "apartments"
+  }
+},
+{
+  "type": "way",
+  "id": 492679066,
+  "center": {
+    "lat": -34.6657163,
+    "lon": -58.4755078
+  },
+  "nodes": [
+    5940012992,
+    11580030091,
+    11750112296,
+    11750112299,
+    4846655823,
+    11750112300,
+    232808833,
+    11750112305,
+    11887286709,
+    11887286710,
+    5940012993,
+    11887286711,
+    5940012994,
+    11925894955,
+    5940012991,
+    5940012992
+  ],
+  "tags": {
+    "name": "Barrio Copello",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 519186316,
+  "center": {
+    "lat": -34.5842687,
+    "lon": -58.4565288
+  },
+  "nodes": [
+    5063166806,
+    5063166805,
+    5063166804,
+    13907554929,
+    13907554931,
+    13907532689,
+    13907554937,
+    13907554932,
+    5063166803,
+    5063166802,
+    13907555161,
+    5063166801,
+    13907555160,
+    13907555171,
+    13907555170,
+    13907555175,
+    5063166800,
+    3836771479,
+    310607941,
+    3807346705,
+    13907555214,
+    13907555211,
+    13907555210,
+    13907555300,
+    3731236221,
+    3807468902,
+    3807325144,
+    310607931,
+    13907555177,
+    13907555176,
+    5063166806
+  ],
+  "tags": {
+    "alt_name": "Villa Fraga",
+    "landuse": "residential",
+    "name": "Villa Fraga - Playón de Chacarita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 620756879,
+  "center": {
+    "lat": -34.5737434,
+    "lon": -58.5096498
+  },
+  "nodes": [
+    5864667463,
+    7597351317,
+    5864667462,
+    5864667461,
+    5864667460,
+    5815022368,
+    5815022367,
+    5864667459,
+    5864667458,
+    5864667457,
+    5864667456,
+    5815022366,
+    5815022365,
+    5815022362,
+    5815022361,
+    5815022358,
+    5815022357,
+    5815022370,
+    5815022369,
+    5864667463
+  ],
+  "tags": {
+    "alt_name": "Barrio Grafa",
+    "landuse": "residential",
+    "name": "Barrio General José de San Martín",
+    "old_name": "Barrio 17 de Octubre",
+    "place": "neighbourhood",
+    "wikipedia": "es:Barrio General José de San Martín"
+  }
+},
+{
+  "type": "way",
+  "id": 653250878,
+  "center": {
+    "lat": -34.5759192,
+    "lon": -58.3824906
+  },
+  "nodes": [
+    6122246938,
+    6122246939,
+    6122246940,
+    6122246941,
+    6122246942,
+    7965458112,
+    6122246943,
+    7965458126,
+    6122246944,
+    6122246938
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Dársena F",
+    "place": "neighbourhood",
+    "population": "50"
+  }
+},
+{
+  "type": "way",
+  "id": 700569079,
+  "center": {
+    "lat": -34.5845609,
+    "lon": -58.4592966
+  },
+  "nodes": [
+    5431405069,
+    6578885669,
+    5431405088,
+    5431405073,
+    5431405072,
+    5431405071,
+    5431405070,
+    5431405069
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Fraga-Playón de Chacarita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 722773886,
+  "center": {
+    "lat": -34.6279950,
+    "lon": -58.3626695
+  },
+  "nodes": [
+    8061475800,
+    6779797353,
+    8729511206,
+    8729511209,
+    8729511207,
+    8729511208,
+    8729511210,
+    8061459662,
+    8729511212,
+    8729511211,
+    8061459661,
+    8061475800
+  ],
+  "tags": {
+    "description": "Barrio municipal",
+    "landuse": "residential",
+    "name": "Barrio Alfredo Palacios",
+    "old_name": "Barrio Catalinas Sur",
+    "place": "neighbourhood",
+    "wikidata": "Q5720198",
+    "wikipedia": "es:Barrio Alfredo Palacios"
+  }
+},
+{
+  "type": "way",
+  "id": 763919066,
+  "center": {
+    "lat": -34.6342309,
+    "lon": -58.3542901
+  },
+  "nodes": [
+    7136835215,
+    7136835216,
+    7136835217,
+    7136835215
+  ],
+  "tags": {
+    "name": "Asentamiento El Triángulo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 799194636,
+  "center": {
+    "lat": -34.6510748,
+    "lon": -58.3606671
+  },
+  "nodes": [
+    7474270647,
+    7474270648,
+    7474270649,
+    7474270650,
+    7474270651,
+    7474270652,
+    7474270653,
+    7474270654,
+    7474270655,
+    7474270656,
+    7474270657,
+    7474270658,
+    7474270659,
+    7474270660,
+    7474270647
+  ],
+  "tags": {
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 804107557,
+  "center": {
+    "lat": -34.6812937,
+    "lon": -58.4864356
+  },
+  "nodes": [
+    7521207481,
+    7521207482,
+    7521207483,
+    7521207484,
+    7521207485,
+    7521207486,
+    7521207487,
+    7521207488,
+    7521207489,
+    7521207490,
+    7521207491,
+    7521207492,
+    7521207493,
+    7521207494,
+    7521207495,
+    7521207496,
+    7521207497,
+    7521207498,
+    7521207499,
+    7521207500,
+    13456532202,
+    7521207501,
+    7521207502,
+    7521207503,
+    7521207504,
+    7521207505,
+    7521207506,
+    7521207507,
+    7521207508,
+    7521207509,
+    7521207510,
+    7521207511,
+    7521207512,
+    13456532168,
+    7521207481
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Atos. Bermejo 1 y 2 y María Auxiliadora",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 837594663,
+  "center": {
+    "lat": -34.6492437,
+    "lon": -58.4371174
+  },
+  "nodes": [
+    7817470865,
+    8479472723,
+    8479472726,
+    8479270466,
+    8479437414,
+    2154372214,
+    2154372240,
+    8479472731,
+    8479472719,
+    7817470863,
+    8431904068,
+    8533637635,
+    8533637764,
+    8431904059,
+    8533637700,
+    7817470864,
+    8419789329,
+    8533638020,
+    8431904058,
+    8431904057,
+    8431904051,
+    8439376191,
+    2154355615,
+    2154355528,
+    8431904034,
+    8533637886,
+    8533637482,
+    8533637617,
+    8533637495,
+    8533637633,
+    8533637712,
+    8533637841,
+    8431904033,
+    8431904066,
+    8533638201,
+    8533637907,
+    8533637519,
+    8431904032,
+    8533638223,
+    8533637531,
+    2154424071,
+    8533637471,
+    8533637460,
+    8431904019,
+    8431904018,
+    8533637978,
+    8533638085,
+    8533637723,
+    8533637883,
+    8533638006,
+    8533637452,
+    8533637386,
+    8533638127,
+    8533637767,
+    8533637895,
+    8533637454,
+    8431904020,
+    8431904021,
+    8533638155,
+    8533637976,
+    8533638082,
+    8533638101,
+    8533638004,
+    8533638116,
+    8533638018,
+    8431904022,
+    8431904023,
+    8533637399,
+    8533637850,
+    8533637884,
+    8533637996,
+    8533637737,
+    2154424065,
+    8522393342,
+    8522382243,
+    8522393359,
+    8522382291,
+    8522393378,
+    8522382310,
+    8522382287,
+    8522382309,
+    8431904102,
+    8522393322,
+    8522393345,
+    8431888516,
+    8522382281,
+    8431888515,
+    8522393334,
+    2154424077,
+    7817470865
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Polideportivo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 837594664,
+  "center": {
+    "lat": -34.6461252,
+    "lon": -58.4450935
+  },
+  "nodes": [
+    7817470866,
+    8477272278,
+    7817470867,
+    8419789321,
+    8419789322,
+    8419789326,
+    7817470869,
+    7817470866
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Sector Bonorino",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 911575169,
+  "center": {
+    "lat": -34.6445371,
+    "lon": -58.3958366
+  },
+  "nodes": [
+    8464168263,
+    8464168264,
+    8464168266,
+    8464168267,
+    8464168268,
+    8464168269,
+    12946991144,
+    12946991147,
+    8464168270,
+    8464168271,
+    8464168272,
+    8464168273,
+    8464168274,
+    8464168275,
+    8464168276,
+    8464168277,
+    8464168263
+  ],
+  "tags": {
+    "name": "Barrio Estación Buenos Aires",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 912548402,
+  "center": {
+    "lat": -34.6434194,
+    "lon": -58.4443409
+  },
+  "nodes": [
+    8477131112,
+    8477131111,
+    8477131110,
+    8477131106,
+    8477131105,
+    8477131109,
+    8477131108,
+    8477131107,
+    8477131112
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Villa 13 bis",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 912563514,
+  "center": {
+    "lat": -34.6479291,
+    "lon": -58.4400184
+  },
+  "nodes": [
+    2154229700,
+    8490097609,
+    8490097610,
+    8490097611,
+    8490097612,
+    8490102958,
+    8490102918,
+    2154223991,
+    8032995091,
+    8032995096,
+    8032995095,
+    8032995000,
+    8883218394,
+    8883218395,
+    8032994933,
+    8032994920,
+    8883218393,
+    8032995114,
+    8032995084,
+    8032995053,
+    8533634601,
+    2154229701,
+    2154229700
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Rivadavia II",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 912893483,
+  "center": {
+    "lat": -34.6482271,
+    "lon": -58.4221632
+  },
+  "nodes": [
+    7023033961,
+    8480358927,
+    8480358926,
+    8480358925,
+    8480358924,
+    11049617635,
+    8480358923,
+    8480358922,
+    8480358921,
+    8480358919,
+    8480358920,
+    7023033961
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Asentamiento El Campito",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 945663097,
+  "center": {
+    "lat": -34.6582810,
+    "lon": -58.4021149
+  },
+  "nodes": [
+    1627149178,
+    8754568881,
+    8754568878,
+    8754568879,
+    8754568877,
+    8754568880,
+    8754599757,
+    5605697444,
+    1627149160,
+    1627149178
+  ],
+  "tags": {
+    "alt_name": "Mundo Grúa",
+    "landuse": "residential",
+    "name": "Ribera Iguazú",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 948326524,
+  "center": {
+    "lat": -34.6576155,
+    "lon": -58.4584582
+  },
+  "nodes": [
+    8778077474,
+    8778077473,
+    8778077472,
+    8778077471,
+    8778077470,
+    8778077469,
+    8778077474
+  ],
+  "tags": {
+    "description": "Barrio municipal",
+    "landuse": "residential",
+    "name": "Barrio Lacarra",
+    "place": "neighbourhood",
+    "website": "https://vivienda.buenosaires.gob.ar/integracion/carrillo-lacarra"
+  }
+},
+{
+  "type": "way",
+  "id": 1001239866,
+  "center": {
+    "lat": -34.6401587,
+    "lon": -58.4478146
+  },
+  "nodes": [
+    9241842362,
+    9241842363,
+    9241842364,
+    9241842365,
+    9241842366,
+    9241842367,
+    9241842362
+  ],
+  "tags": {
+    "alt_name": "Koreatown",
+    "name": "Barrio Coreano",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1097864831,
+  "center": {
+    "lat": -34.6477073,
+    "lon": -58.3919150
+  },
+  "nodes": [
+    10052729082,
+    10052729081,
+    13846311788,
+    10052729089,
+    13749653472,
+    13749653471,
+    10052729080,
+    13846311790,
+    10052729079,
+    10052729082
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Alvarado",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1188684732,
+  "center": {
+    "lat": -34.6746722,
+    "lon": -58.4623414
+  },
+  "nodes": [
+    11037614304,
+    11037670305,
+    11037670306,
+    11037670307,
+    11037670308,
+    11807186777,
+    11037740705,
+    12234382493,
+    11037670309,
+    11037670310,
+    11037670311,
+    11037670312,
+    11037670313,
+    11807186802,
+    11807186803,
+    11037670314,
+    11037670315,
+    11037670316,
+    11037670317,
+    11037670318,
+    11037670319,
+    11037670320,
+    11037670321,
+    11037614304
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Papa Francisco",
+    "place": "neighbourhood",
+    "website": "https://obras.buenosaires.gob.ar/transformacion-de-los-48-barrios/villa-lugano/barrio-papa-francisco-sector-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1266124100,
+  "center": {
+    "lat": -34.6764315,
+    "lon": -58.4192355
+  },
+  "nodes": [
+    11761103910,
+    12239538029,
+    11761103911,
+    12357028686,
+    11761103912,
+    11761106829,
+    11761103913,
+    11761103914,
+    11761103915,
+    12357028685,
+    12357028684,
+    11761103916,
+    11761103917,
+    11761103918,
+    12357028683,
+    12357028682,
+    12357028681,
+    12357028680,
+    12357028679,
+    12356993753,
+    11761103919,
+    12358444376,
+    12358444375,
+    11761103920,
+    11761103921,
+    11761103922,
+    12356993752,
+    12356993751,
+    11761103910
+  ],
+  "tags": {
+    "barrier": "fence",
+    "name": "Barrio Molinedo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1344860709,
+  "center": {
+    "lat": -34.6950541,
+    "lon": -58.4489127
+  },
+  "nodes": [
+    12442191685,
+    12442191686,
+    12442191687,
+    12442191688,
+    12442191689,
+    12442191690,
+    12442191691,
+    12442191692,
+    12442191693,
+    12442191694,
+    12442191695,
+    12442191696,
+    12442191697,
+    12442191685
+  ],
+  "tags": {
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1442402971,
+  "center": {
+    "lat": -34.6485957,
+    "lon": -58.4206191
+  },
+  "nodes": [
+    8480358927,
+    8480358926,
+    8480358925,
+    8480358924,
+    8480358923,
+    13234882686,
+    13234882687,
+    13234882688,
+    7023033954,
+    7023033955,
+    7023033956,
+    7023033957,
+    13234882652,
+    13234882674,
+    13234882651,
+    13234882650,
+    7023033958,
+    7023033959,
+    8415615368,
+    13234882676,
+    7023033960,
+    5600721293,
+    13234876888,
+    8480358927
+  ],
+  "tags": {
+    "name": "Barrio Estación Sáenz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1509491808,
+  "center": {
+    "lat": -34.6085265,
+    "lon": -58.4690957
+  },
+  "nodes": [
+    13798608716,
+    13798608717,
+    13798608710,
+    13798608711,
+    3211468461,
+    13798608712,
+    13798608713,
+    13798608714,
+    13798608715,
+    3211468462,
+    13798608716
+  ],
+  "tags": {
+    "name": "Casas de Boyacá",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "relation",
+  "id": 12320573,
+  "center": {
+    "lat": -34.6128080,
+    "lon": -58.4949754
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 907482609,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907482610,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 907482611,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Barrio Hogar Obrero",
+    "place": "neighbourhood",
+    "start_date": "1962",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12602898,
+  "center": {
+    "lat": -34.6592892,
+    "lon": -58.4734378
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 28414050,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 629141063,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 26538871,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 149686122,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 21631169,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 453109497,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 932626570,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 27995234,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "admin_level": "14",
+    "boundary": "administrative",
+    "name": "Cildañez",
+    "old_name": "Villa 6",
+    "place": "neighbourhood",
+    "type": "boundary",
+    "wikidata": "Q128790757"
+  }
+},
+{
+  "type": "relation",
+  "id": 12720433,
+  "center": {
+    "lat": -34.6345347,
+    "lon": -58.3541314
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 943653434,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943653433,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943653432,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 943653431,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "alt_name": "Lamadrid;El Triángulo;Suárez y Pedro de Mendoza",
+    "description": "Asentamientos precarios",
+    "landuse": "residential",
+    "name": "Asentamiento Lamadrid",
+    "place": "neighbourhood",
+    "type": "multipolygon",
+    "website": "https://www.buenosaires.gob.ar/institutodevivienda/integracion-de-los-barrios/lamadrid"
+  }
+},
+{
+  "type": "relation",
+  "id": 12742959,
+  "center": {
+    "lat": -34.6561030,
+    "lon": -58.4041931
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 945663104,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 945663103,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "description": "Barrio municipal",
+    "landuse": "residential",
+    "name": "Barrio Espora",
+    "place": "neighbourhood",
+    "residential": "apartments",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 15592159,
+  "center": {
+    "lat": -34.6753893,
+    "lon": -58.4662356
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 373092189,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Villa 20",
+    "place": "quarter",
+    "type": "multipolygon",
+    "verifiedby": "caminosdelavilla"
+  }
+},
+{
+  "type": "relation",
+  "id": 17589498,
+  "center": {
+    "lat": -34.6661644,
+    "lon": -58.5215044
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 126306082,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 605094787,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1282487189,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 129480992,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 312531482,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 29193991,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "name": "Los Chalecitos",
+    "place": "neighbourhood",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}
