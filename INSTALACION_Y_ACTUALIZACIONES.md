@@ -1,6 +1,6 @@
-# Instalación y actualizaciones — 0.6.135
+# Instalación y actualizaciones — 0.6.136
 
-Un APK es el archivo instalador de Android. El [instalador de producción universal](updates/apks/ViajesQueRinden-0.6.135-universal.apk) se distribuye en este repositorio oficial. No se necesita tarjeta ni un período de prueba de pago para este flujo previsto.
+Un APK es el archivo instalador de Android. El [instalador de producción universal](updates/apks/ViajesQueRinden-0.6.136-universal.apk) se distribuye en este repositorio oficial. No se necesita tarjeta ni un período de prueba de pago para este flujo previsto.
 
 Android puede pedir permiso para instalar desde el navegador o desde nuestra app. Confirmalo personalmente solo después de comprobar el origen. La app pide confirmación del sistema: no instala silenciosamente.
 

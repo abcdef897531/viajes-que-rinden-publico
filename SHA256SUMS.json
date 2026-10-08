@@ -2,9 +2,9 @@
   "AVISOS.md": "d51c65101dffce700dc70ef0ab113fc41353509c757753960854baf290024167",
   "CONTACTO.md": "f416ad4db8f9eb4c761c6d58e7ca7ca3701750930efea6616166af5240e154b6",
   "GUIA_SENCILLA.md": "7f2132a7f029b9c5c554b107687e26337359cb9e98cb9a912e05cddca8971d22",
-  "INSTALACION_Y_ACTUALIZACIONES.md": "700fbd6cc980c17ceed8e317a0eae10b7d5d624c3f8cbdb522bcb89fafc06812",
+  "INSTALACION_Y_ACTUALIZACIONES.md": "6bbbf021f215c977860826a39edcffbd9c6db017bae2cfebc6e2ab8a61649704",
   "PRIVACIDAD.md": "fe8b56a472b6de1ce4bc671e03341c2a0d66a5ba3f8c01c879de95e7e2c153bc",
-  "README.md": "f818a1d97a0798fd80c7e237e82290c6ba92d605d003f5ac69a8c6084b131596",
+  "README.md": "7a206f284568e9ab0c855c74bb433ba0d6d629f4db7a9936dbdd7277a1978131",
   "data/CATALOGO_PROVINCIAL_FUENTES.json": "b9bc5a8a15df7cefc4da3e6d7240c5f93ecfdc76ed7c3b66e6b30de2fd8d69d6",
   "data/GEOMETRIA_PROVINCIAL_FUENTES.json": "447e8ccd7f92c3f68d5a824cdccfd268f963f2e84ce07d89453b93830c5be727",
   "data/mapa-zonas.json": "4ec4a619dd5bda64a60808261358728227d38baa9b43fd8e1972e5621d945ed3",
@@ -26,7 +26,7 @@
   "licenses/MLKIT-TERMS.html": "99ac596392c479fc80ff14be52fa5eb316c14f8431e96d499a025bb0b30e0ed5",
   "licenses/ODbL-1.0-official.html": "1879937103eecd9837a86d1a52132b8b2f42855e90d89409bee54103ffc5d5b6",
   "licenses/PLAYCORE-TERMS.html": "d579ec9ac4f232150cefbbb4f05247b1bc50be96f8bcb688314a8f7455068467",
-  "updates/latest.json": "2cfffb064821be46208008da14b593dd6a8fb4e23e1137d3fd25e2ace5fd5212",
+  "updates/latest.json": "c7a2b83d7c218bc413f97583faba63bf4d3150e150c7f518f3e5cb96c2e36071",
   "data/geography/caba-osm-scoped.json": "ad7ccdbc68844c5243efba9491f5a0a9567c10c857c98b8ddea6244951491def",
   "data/geography/cordoba-osm-scoped.json": "2fea3e7711e15ee254bb475ebfc3ee646ba9a1fe6a0d7e58f632725584e2ad4f",
   "data/geography/mendoza-osm-scoped.json": "69f15cbde1365fa7e69e9380a85de29d6f9d6be13a4635c7f50a00ccf9c02cec",
@@ -50,5 +50,5 @@
   "sources/rosario/boundary.geojson": "a472b01ea852e7cb3a5099affc38df2799c1c3ce8b00fec62c31b888e4b19c54",
   "sources/rosario/osm-source.json": "f6932dbe2c4a8f2c30d28f3080ec4cd6b93325d6cb8ec1c11badef7d83cd84d9",
   "sources/rosario/query.txt": "a0c384540d66366b306a541b2bbdaa044e030675a7c976a12d120bc8bd25c92e",
-  "updates/apks/ViajesQueRinden-0.6.135-universal.apk": "d86028bcc1578120fd9fcc19613bf17b7b2ed4f8d9eb2224c1da2bedc5ca0d77"
+  "updates/apks/ViajesQueRinden-0.6.136-universal.apk": "68da7eec34869ed32903f00c18ad01c2fbe9b13be6c1ae0ffa67f43a2c6b8e31"
 }
