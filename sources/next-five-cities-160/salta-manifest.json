@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "66",
+    "locality": "66028050"
+  },
+  "localityName": "Salta",
+  "boundarySource": "GeoRef DPE-INDEC municipality 660063; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

@@ -1,0 +1,13 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "14",
+    "locality": "14042170"
+  },
+  "localityName": "Villa Mar\u00eda",
+  "boundarySource": "Archived GeoRef DPE-INDEC municipality 140357; administrative coverage, not urban footprint or barrio boundaries",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {
+    "way/1198528738": "construction_label_not_an_established_neighborhood"
+  }
+}

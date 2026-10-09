@@ -1,0 +1,13 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "90",
+    "locality": "90084010"
+  },
+  "localityName": "San Miguel de Tucumán",
+  "boundarySource": "GeoRef DPE-INDEC municipality 900014; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {
+    "node/5145542832": "distinct GeoRef census locality Barrio San Felipe 90063010 within same municipal government; not target locality 90084010"
+  }
+}

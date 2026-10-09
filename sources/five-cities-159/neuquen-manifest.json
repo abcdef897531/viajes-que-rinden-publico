@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "58",
+    "locality": "58035070"
+  },
+  "localityName": "Neuquén",
+  "boundarySource": "GeoRef DPE-INDEC municipality 580056; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

@@ -2,10 +2,10 @@
   "schema": 1,
   "packageName": "com.pablorivero.viajesquerinden",
   "abi": "universal",
-  "version": "0.6.136",
-  "versionCode": 154,
-  "size": 51359797,
-  "digest": "sha256:68da7eec34869ed32903f00c18ad01c2fbe9b13be6c1ae0ffa67f43a2c6b8e31",
-  "apkUrl": "https://raw.githubusercontent.com/abcdef897531/viajes-que-rinden-publico/main/updates/apks/ViajesQueRinden-0.6.136-universal.apk",
+  "version": "0.6.143",
+  "versionCode": 161,
+  "size": 51410009,
+  "digest": "sha256:aa4e46c55fe757326559c4a2e97b87305f66991a1d2051d3d33551bd0e891599",
+  "apkUrl": "https://raw.githubusercontent.com/abcdef897531/viajes-que-rinden-publico/main/updates/apks/ViajesQueRinden-0.6.143-universal.apk",
   "notes": ""
 }

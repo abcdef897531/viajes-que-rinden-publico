@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "sources": [
+    "https://www.uber.com/global/en/r/argentina/cities/",
+    "https://cabify.com/ar/tarifas/tucuman",
+    "https://help.uber.com/pt-BR/driving-and-delivering/article/zonas-de-alerta---perguntas-frequentes?nodeId=72a19554-6bb3-46d5-87f1-f03b410672ab"
+  ],
+  "cities": {
+    "tucuman": "Current Uber listing Tucumán and Cabify Tucumán tariffs",
+    "la-plata": "Current Uber Argentina city listing",
+    "salta": "Current Uber Argentina city listing",
+    "santa-fe": "Current Uber Argentina city listing",
+    "resistencia": "Official Uber help currently lists Resistencia among Argentina alert zones; current general city listing omits it, historical 2023 newsroom confirms launch. This is not a current service-availability guarantee."
+  },
+  "allThreePlatformsPerCityVerified": false,
+  "newRealOfferSamples": false,
+  "limits": "Catalog integration does not certify current platform availability or local regulation."
+}

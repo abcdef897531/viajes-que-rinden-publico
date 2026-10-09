@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "rio-cuarto",
+    "locality": {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -33.123836934,
+        "lon": -64.349003218
+      },
+      "departamento": {
+        "id": "14098",
+        "nombre": "Río Cuarto"
+      },
+      "fuente": "INDEC",
+      "gobierno_local": {
+        "id": "140861",
+        "nombre": "Río Cuarto"
+      },
+      "id": "14098230",
+      "localidad_censal": {
+        "id": "14098230",
+        "nombre": "Río Cuarto"
+      },
+      "nombre": "Río Cuarto",
+      "provincia": {
+        "id": "14",
+        "nombre": "Córdoba"
+      }
+    },
+    "scope": {
+      "country": "AR",
+      "province": "14",
+      "locality": "14098230"
+    },
+    "municipality": "140861",
+    "boundaryStatus": "ARCHIVED_VERIFIED_IDENTITY"
+  },
+  {
+    "slug": "neuquen",
+    "locality": {
+      "categoria": "Componente de localidad compuesta",
+      "centroide": {
+        "lat": -38.951828821,
+        "lon": -68.059181307
+      },
+      "departamento": {
+        "id": "58035",
+        "nombre": "Confluencia"
+      },
+      "fuente": "INDEC",
+      "gobierno_local": {
+        "id": "580056",
+        "nombre": "Neuquén"
+      },
+      "id": "58035070",
+      "localidad_censal": {
+        "id": "58035070",
+        "nombre": "Neuquén"
+      },
+      "nombre": "Neuquén",
+      "provincia": {
+        "id": "58",
+        "nombre": "Neuquén"
+      }
+    },
+    "scope": {
+      "country": "AR",
+      "province": "58",
+      "locality": "58035070"
+    },
+    "municipality": "580056"
+  },
+  {
+    "slug": "mar-del-plata",
+    "locality": {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -37.997610575,
+        "lon": -57.548162215
+      },
+      "departamento": {
+        "id": "06357",
+        "nombre": "General Pueyrredón"
+      },
+      "fuente": "INDEC",
+      "gobierno_local": {
+        "id": "060357",
+        "nombre": "General Pueyrredón"
+      },
+      "id": "06357110",
+      "localidad_censal": {
+        "id": "06357110",
+        "nombre": "Mar del Plata"
+      },
+      "nombre": "Mar del Plata",
+      "provincia": {
+        "id": "06",
+        "nombre": "Buenos Aires"
+      }
+    },
+    "scope": {
+      "country": "AR",
+      "province": "06",
+      "locality": "06357110"
+    },
+    "municipality": "060357"
+  },
+  {
+    "slug": "bariloche",
+    "locality": {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -41.134196685,
+        "lon": -71.310958312
+      },
+      "departamento": {
+        "id": "62021",
+        "nombre": "Bariloche"
+      },
+      "fuente": "INDEC",
+      "gobierno_local": {
+        "id": "620077",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "id": "62021060",
+      "localidad_censal": {
+        "id": "62021060",
+        "nombre": "San Carlos de Bariloche"
+      },
+      "nombre": "San Carlos de Bariloche",
+      "provincia": {
+        "id": "62",
+        "nombre": "Río Negro"
+      }
+    },
+    "scope": {
+      "country": "AR",
+      "province": "62",
+      "locality": "62021060"
+    },
+    "municipality": "620077"
+  },
+  {
+    "slug": "corrientes",
+    "locality": {
+      "categoria": "Localidad simple",
+      "centroide": {
+        "lat": -27.463345014,
+        "lon": -58.839472846
+      },
+      "departamento": {
+        "id": "18021",
+        "nombre": "Capital"
+      },
+      "fuente": "INDEC",
+      "gobierno_local": {
+        "id": "180021",
+        "nombre": "Corrientes"
+      },
+      "id": "18021020",
+      "localidad_censal": {
+        "id": "18021020",
+        "nombre": "Corrientes"
+      },
+      "nombre": "Corrientes",
+      "provincia": {
+        "id": "18",
+        "nombre": "Corrientes"
+      }
+    },
+    "scope": {
+      "country": "AR",
+      "province": "18",
+      "locality": "18021020"
+    },
+    "municipality": "180021"
+  }
+]

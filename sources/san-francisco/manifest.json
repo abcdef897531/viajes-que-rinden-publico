@@ -1,0 +1,13 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "14",
+    "locality": "14140360"
+  },
+  "localityName": "San Francisco",
+  "boundarySource": "Archived GeoRef DPE-INDEC municipality 141337; administrative coverage, not urban footprint or barrio boundaries",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {
+    "node/9283772019": "same_name_as_city_not_safely_disambiguated"
+  }
+}

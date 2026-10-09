@@ -1,0 +1,1993 @@
+{
+  "schema": 1,
+  "scope": {
+    "country": "AR",
+    "province": "62",
+    "locality": "62021060"
+  },
+  "localityName": "San Carlos de Bariloche",
+  "sourceTimestamp": "2026-10-08T22:50:51Z",
+  "boundarySource": "GeoRef DPE-INDEC municipality 620077; administrative coverage, not urban footprint or barrio boundary",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "readerEnabled": false,
+  "places": [
+    {
+      "osm": "node/198397526",
+      "name": "Villa Llao Llao",
+      "aliases": [],
+      "lon": -71.5239328,
+      "lat": -41.0539926,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/198410169",
+      "name": "Perito Moreno",
+      "aliases": [],
+      "lon": -71.4169958,
+      "lat": -41.1183729,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2624260844",
+      "name": "Villa Los Coihues",
+      "aliases": [],
+      "lon": -71.4137282,
+      "lat": -41.1530799,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2624736179",
+      "name": "Villa Lago Gutiérrez",
+      "aliases": [],
+      "lon": -71.3799632,
+      "lat": -41.1795503,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2864241538",
+      "name": "Las Marías",
+      "aliases": [],
+      "lon": -71.234737,
+      "lat": -41.1236348,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922891116",
+      "name": "Pilar I",
+      "aliases": [],
+      "lon": -71.3509004,
+      "lat": -41.1802008,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922891119",
+      "name": "Pilar II",
+      "aliases": [],
+      "lon": -71.3409012,
+      "lat": -41.1909704,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946423",
+      "name": "El Frutillar",
+      "aliases": [],
+      "lon": -71.3323539,
+      "lat": -41.1624015,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946430",
+      "name": "Nuestras Malvinas",
+      "aliases": [],
+      "lon": -71.3130737,
+      "lat": -41.1654334,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946471",
+      "name": "El Maitén",
+      "aliases": [],
+      "lon": -71.3250475,
+      "lat": -41.1709362,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946827",
+      "name": "Perito Moreno",
+      "aliases": [],
+      "lon": -71.2915942,
+      "lat": -41.15052,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946828",
+      "name": "Quimey Hue",
+      "aliases": [],
+      "lon": -71.3159773,
+      "lat": -41.1575144,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946829",
+      "name": "Jardín Botánico",
+      "aliases": [],
+      "lon": -71.3169939,
+      "lat": -41.143955,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946830",
+      "name": "Belgrano Sudeste",
+      "aliases": [
+        "El Mallín"
+      ],
+      "lon": -71.3102378,
+      "lat": -41.1445401,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946832",
+      "name": "La Cumbre",
+      "aliases": [],
+      "lon": -71.3160338,
+      "lat": -41.1502552,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946833",
+      "name": "Alborada",
+      "aliases": [
+        "100 Viviendas"
+      ],
+      "lon": -71.3106387,
+      "lat": -41.1490567,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946834",
+      "name": "Las Mutisias",
+      "aliases": [],
+      "lon": -71.2917023,
+      "lat": -41.1535645,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922946835",
+      "name": "Omega",
+      "aliases": [],
+      "lon": -71.3120225,
+      "lat": -41.1610751,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947097",
+      "name": "Lera",
+      "aliases": [],
+      "lon": -71.2870005,
+      "lat": -41.1415054,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947098",
+      "name": "Las Quintas",
+      "aliases": [],
+      "lon": -71.2970636,
+      "lat": -41.1484122,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947099",
+      "name": "10 de Diciembre",
+      "aliases": [],
+      "lon": -71.3018173,
+      "lat": -41.142008,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947100",
+      "name": "Sara María Furman",
+      "aliases": [],
+      "lon": -71.304931,
+      "lat": -41.1454534,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947601",
+      "name": "Nueva Esperanza",
+      "aliases": [],
+      "lon": -71.2913184,
+      "lat": -41.1464695,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947602",
+      "name": "San Francisco",
+      "aliases": [],
+      "lon": -71.2752889,
+      "lat": -41.1438223,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947603",
+      "name": "Anasagasti",
+      "aliases": [],
+      "lon": -71.2943952,
+      "lat": -41.1424479,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947604",
+      "name": "Las Margaritas",
+      "aliases": [],
+      "lon": -71.3215457,
+      "lat": -41.1405809,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947605",
+      "name": "Ñireco Norte",
+      "aliases": [
+        "Balneario Municipal"
+      ],
+      "lon": -71.2878434,
+      "lat": -41.1296095,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947964",
+      "name": "Las Victorias",
+      "aliases": [],
+      "lon": -71.2597098,
+      "lat": -41.1405132,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947965",
+      "name": "El Cóndor",
+      "aliases": [],
+      "lon": -71.2706932,
+      "lat": -41.1321391,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922947966",
+      "name": "La Colina",
+      "aliases": [],
+      "lon": -71.249034,
+      "lat": -41.1281281,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922948596",
+      "name": "Ladera Norte",
+      "aliases": [],
+      "lon": -71.3766015,
+      "lat": -41.1361178,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922948597",
+      "name": "Los Cipresales",
+      "aliases": [],
+      "lon": -71.3366937,
+      "lat": -41.134726,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922948598",
+      "name": "Belgrano",
+      "aliases": [],
+      "lon": -71.3178022,
+      "lat": -41.1354522,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2922948600",
+      "name": "Melipal",
+      "aliases": [
+        "Barrio Parque Melipal"
+      ],
+      "lon": -71.3543784,
+      "lat": -41.1310753,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092180",
+      "name": "Rayén Mapu",
+      "aliases": [],
+      "lon": -71.3638706,
+      "lat": -41.1297635,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092181",
+      "name": "Virgen Misionera",
+      "aliases": [],
+      "lon": -71.3893816,
+      "lat": -41.1292479,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092182",
+      "name": "Playa Bonita",
+      "aliases": [],
+      "lon": -71.4007649,
+      "lat": -41.1234533,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092183",
+      "name": "El Faldeo",
+      "aliases": [],
+      "lon": -71.3706152,
+      "lat": -41.1326765,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092184",
+      "name": "San Ignacio del Cerro",
+      "aliases": [
+        "Peumayén"
+      ],
+      "lon": -71.4014984,
+      "lat": -41.1296566,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092185",
+      "name": "Monte Lindo",
+      "aliases": [
+        "El Mirador"
+      ],
+      "lon": -71.3815379,
+      "lat": -41.1207284,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092186",
+      "name": "Carihue",
+      "aliases": [],
+      "lon": -71.3644726,
+      "lat": -41.1254641,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092187",
+      "name": "Los Maitenes",
+      "aliases": [],
+      "lon": -71.3472389,
+      "lat": -41.1330856,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092188",
+      "name": "Santo Cristo",
+      "aliases": [],
+      "lon": -71.300373,
+      "lat": -41.1457946,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925092190",
+      "name": "Pinar de Festa",
+      "aliases": [],
+      "lon": -71.3932467,
+      "lat": -41.1242452,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/2925133266",
+      "name": "Villa Nahuel Malal",
+      "aliases": [],
+      "lon": -71.4417897,
+      "lat": -41.1074816,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3001693045",
+      "name": "Pinar del Lago",
+      "aliases": [],
+      "lon": -71.3736054,
+      "lat": -41.1268576,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3215226379",
+      "name": "Lomas de Monteverde",
+      "aliases": [],
+      "lon": -71.2809381,
+      "lat": -41.1356193,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3281009873",
+      "name": "Las Chacras",
+      "aliases": [],
+      "lon": -71.1992489,
+      "lat": -41.1039232,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3305001716",
+      "name": "Ñireco",
+      "aliases": [],
+      "lon": -71.287825,
+      "lat": -41.1322968,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3305033952",
+      "name": "Jockey Club",
+      "aliases": [
+        "Hipódromo"
+      ],
+      "lon": -71.4542781,
+      "lat": -41.1020973,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3305033958",
+      "name": "Parque Lago Moreno",
+      "aliases": [],
+      "lon": -71.4625634,
+      "lat": -41.1082262,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3366930808",
+      "name": "Rancho Grande",
+      "aliases": [],
+      "lon": -71.3796684,
+      "lat": -41.1308909,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3368063184",
+      "name": "Parque Cerro Otto",
+      "aliases": [],
+      "lon": -71.3743094,
+      "lat": -41.1319221,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3451423756",
+      "name": "Dos Valles",
+      "aliases": [],
+      "lon": -71.3338963,
+      "lat": -41.1866393,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3477601801",
+      "name": "2 de Agosto",
+      "aliases": [
+        "Gastronómicos"
+      ],
+      "lon": -71.4607771,
+      "lat": -41.1033585,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3823149097",
+      "name": "San Joaquín",
+      "aliases": [],
+      "lon": -71.3265549,
+      "lat": -41.1353123,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/3893464022",
+      "name": "Aldea Del Este",
+      "aliases": [],
+      "lon": -71.2516416,
+      "lat": -41.1294873,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4280299223",
+      "name": "Las Cartas",
+      "aliases": [],
+      "lon": -71.5334501,
+      "lat": -41.0739871,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4591303916",
+      "name": "Altos Pinar del Sol",
+      "aliases": [],
+      "lon": -71.2401341,
+      "lat": -41.1308624,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4769921773",
+      "name": "Ada María Elflein",
+      "aliases": [
+        "300 Viviendas"
+      ],
+      "lon": -71.3096136,
+      "lat": -41.1510657,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4970560272",
+      "name": "Entre Pinos",
+      "aliases": [],
+      "lon": -71.2378615,
+      "lat": -41.1255914,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/4970560273",
+      "name": "Urbanización del Este",
+      "aliases": [],
+      "lon": -71.2401304,
+      "lat": -41.1266281,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5347706275",
+      "name": "Loteo Epulaufquen",
+      "aliases": [],
+      "lon": -71.4973658,
+      "lat": -41.073168,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5351546049",
+      "name": "Bella Vista",
+      "aliases": [],
+      "lon": -71.4939487,
+      "lat": -41.0544291,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/5617499034",
+      "name": "Villa Campanario",
+      "aliases": [],
+      "lon": -71.484701,
+      "lat": -41.0557207,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845836253",
+      "name": "Reina Mora",
+      "aliases": [],
+      "lon": -71.3701738,
+      "lat": -41.1832826,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845836255",
+      "name": "Entre Cerros",
+      "aliases": [],
+      "lon": -71.3699245,
+      "lat": -41.1791254,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845836256",
+      "name": "Lomas del Cauquén",
+      "aliases": [],
+      "lon": -71.3693964,
+      "lat": -41.1717278,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935905",
+      "name": "645 Viviendas",
+      "aliases": [],
+      "lon": -71.3445529,
+      "lat": -41.1672956,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935906",
+      "name": "29 de Septiembre",
+      "aliases": [],
+      "lon": -71.3430129,
+      "lat": -41.1719958,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935910",
+      "name": "Valle Azul",
+      "aliases": [],
+      "lon": -71.3496033,
+      "lat": -41.1679708,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935912",
+      "name": "2 de Abril",
+      "aliases": [
+        "34Hectáreas"
+      ],
+      "lon": -71.3387602,
+      "lat": -41.1676046,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935913",
+      "name": "Unión",
+      "aliases": [],
+      "lon": -71.3438629,
+      "lat": -41.1629856,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935916",
+      "name": "Cooperativa 258 Viviendas",
+      "aliases": [],
+      "lon": -71.3280073,
+      "lat": -41.1716273,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845935918",
+      "name": "Omega 2",
+      "aliases": [
+        "160 Viviendas"
+      ],
+      "lon": -71.3210016,
+      "lat": -41.1738237,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6845977410",
+      "name": "Nahuel Hue",
+      "aliases": [],
+      "lon": -71.3168411,
+      "lat": -41.1704785,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6854465784",
+      "name": "Parques Nacionales",
+      "aliases": [],
+      "lon": -71.3083115,
+      "lat": -41.1414437,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6854475088",
+      "name": "Centro",
+      "aliases": [],
+      "lon": -71.3005427,
+      "lat": -41.1356489,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6948696344",
+      "name": "Vuriloche",
+      "aliases": [],
+      "lon": -71.314233,
+      "lat": -41.1547703,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6948696345",
+      "name": "Nicolás Levalle",
+      "aliases": [
+        "266 Viviendas"
+      ],
+      "lon": -71.3044585,
+      "lat": -41.1536669,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/6956592574",
+      "name": "Las Vertientes",
+      "aliases": [],
+      "lon": -71.3428327,
+      "lat": -41.1362415,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259105615",
+      "name": "Villa Jamaica",
+      "aliases": [],
+      "lon": -71.4531939,
+      "lat": -41.1111301,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259105655",
+      "name": "Casa de Piedra",
+      "aliases": [],
+      "lon": -71.4403086,
+      "lat": -41.1143966,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259110794",
+      "name": "Pájaro Azul",
+      "aliases": [],
+      "lon": -71.4321734,
+      "lat": -41.1120119,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259216105",
+      "name": "Tres Lagos",
+      "aliases": [],
+      "lon": -71.4535797,
+      "lat": -41.0923328,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259216106",
+      "name": "Playa Serena",
+      "aliases": [],
+      "lon": -71.4439668,
+      "lat": -41.0994355,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259495783",
+      "name": "Valle Escondido",
+      "aliases": [],
+      "lon": -71.463872,
+      "lat": -41.0762177,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259524429",
+      "name": "Villa Don Orione",
+      "aliases": [],
+      "lon": -71.4596602,
+      "lat": -41.0849897,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259524611",
+      "name": "Valle del Sol",
+      "aliases": [],
+      "lon": -71.5014937,
+      "lat": -41.071366,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259531886",
+      "name": "Bahía López",
+      "aliases": [],
+      "lon": -71.5675946,
+      "lat": -41.0740581,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259715747",
+      "name": "Arelauquén Country Club",
+      "aliases": [],
+      "lon": -71.3818561,
+      "lat": -41.1673974,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7259715778",
+      "name": "Balcón del Lago",
+      "aliases": [],
+      "lon": -71.4025385,
+      "lat": -41.1648723,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7262343389",
+      "name": "Villa Tacul",
+      "aliases": [],
+      "lon": -71.5660467,
+      "lat": -41.0404267,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/7875852401",
+      "name": "Mirador del Challhuaco",
+      "aliases": [],
+      "lon": -71.3260179,
+      "lat": -41.1827126,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11453069205",
+      "name": "Altos del Este",
+      "aliases": [
+        "35 Hectáreas"
+      ],
+      "lon": -71.2667781,
+      "lat": -41.1531333,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11454827681",
+      "name": "270 Viviendas",
+      "aliases": [],
+      "lon": -71.280258,
+      "lat": -41.1543116,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11454827682",
+      "name": "La Habana",
+      "aliases": [],
+      "lon": -71.2776153,
+      "lat": -41.1516288,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11454827683",
+      "name": "Alun Ruca",
+      "aliases": [],
+      "lon": -71.2749245,
+      "lat": -41.1494507,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11454827694",
+      "name": "Villaverde",
+      "aliases": [],
+      "lon": -71.2490659,
+      "lat": -41.1253048,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11454827695",
+      "name": "INTA",
+      "aliases": [],
+      "lon": -71.2590613,
+      "lat": -41.1288253,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11455702703",
+      "name": "Costa del Sol",
+      "aliases": [],
+      "lon": -71.2252936,
+      "lat": -41.1114894,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11457505290",
+      "name": "Loteo Abedules",
+      "aliases": [],
+      "lon": -71.2571818,
+      "lat": -41.1462288,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11617054762",
+      "name": "Barrio Militar Virgen de las Nieves",
+      "aliases": [],
+      "lon": -71.4178876,
+      "lat": -41.1144867,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/11629505865",
+      "name": "Calfú Ruca",
+      "aliases": [
+        "150 Viviendas"
+      ],
+      "lon": -71.2832826,
+      "lat": -41.1480015,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13727394162",
+      "name": "Bariloche del Este",
+      "aliases": [],
+      "lon": -71.2699747,
+      "lat": -41.1394102,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13727394168",
+      "name": "Altos del Cóndor",
+      "aliases": [
+        "Procrear"
+      ],
+      "lon": -71.2665231,
+      "lat": -41.1333115,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13913453257",
+      "name": "Ñireco Oeste",
+      "aliases": [
+        "112 Viviendas"
+      ],
+      "lon": -71.2830072,
+      "lat": -41.1449921,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13923413306",
+      "name": "Arauco Hue",
+      "aliases": [],
+      "lon": -71.5159608,
+      "lat": -41.0456922,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13944283810",
+      "name": "28 de Abril",
+      "aliases": [],
+      "lon": -71.3092071,
+      "lat": -41.1604277,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13944283819",
+      "name": "Arrayanes",
+      "aliases": [],
+      "lon": -71.301011,
+      "lat": -41.1604322,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13944283821",
+      "name": "Eva Perón",
+      "aliases": [],
+      "lon": -71.3043491,
+      "lat": -41.1604335,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13944283822",
+      "name": "Vivero",
+      "aliases": [],
+      "lon": -71.2961665,
+      "lat": -41.1614141,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/13944283831",
+      "name": "Medalla Milagrosa",
+      "aliases": [
+        "181 Viviendas"
+      ],
+      "lon": -71.3026302,
+      "lat": -41.1551814,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479986",
+      "name": "San Ceferino",
+      "aliases": [],
+      "lon": -71.2976859,
+      "lat": -41.1542299,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479989",
+      "name": "San Martín",
+      "aliases": [
+        "169 Viviendas"
+      ],
+      "lon": -71.2992952,
+      "lat": -41.1559425,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479992",
+      "name": "Antú Hue",
+      "aliases": [
+        "170 Viviendas"
+      ],
+      "lon": -71.2966105,
+      "lat": -41.1561858,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479995",
+      "name": "21 de Septiembre",
+      "aliases": [],
+      "lon": -71.2876959,
+      "lat": -41.1533589,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479997",
+      "name": "Peumayén",
+      "aliases": [
+        "153 Viviendas"
+      ],
+      "lon": -71.2984206,
+      "lat": -41.1569247,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007479998",
+      "name": "El Progreso",
+      "aliases": [],
+      "lon": -71.3080634,
+      "lat": -41.1574061,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14007548203",
+      "name": "Frutillar Norte",
+      "aliases": [
+        "401 Viviendas"
+      ],
+      "lon": -71.3364675,
+      "lat": -41.1555976,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641187",
+      "name": "Visconti",
+      "aliases": [],
+      "lon": -71.1728199,
+      "lat": -41.1022402,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641195",
+      "name": "Newenche",
+      "aliases": [],
+      "lon": -71.2703747,
+      "lat": -41.1502383,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641196",
+      "name": "Prefectura",
+      "aliases": [],
+      "lon": -71.2628838,
+      "lat": -41.1487548,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641197",
+      "name": "76 Viviendas",
+      "aliases": [],
+      "lon": -71.2779254,
+      "lat": -41.1551155,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641198",
+      "name": "Los Cerros",
+      "aliases": [],
+      "lon": -71.3079459,
+      "lat": -41.1662702,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008641199",
+      "name": "Seis Manzanas",
+      "aliases": [],
+      "lon": -71.2988726,
+      "lat": -41.1524594,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008727201",
+      "name": "3 de Mayo",
+      "aliases": [],
+      "lon": -71.3070157,
+      "lat": -41.1493239,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008727202",
+      "name": "Ayelén",
+      "aliases": [
+        "204 Viviendas",
+        "218 Viviendas"
+      ],
+      "lon": -71.3042928,
+      "lat": -41.1508959,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008727203",
+      "name": "Güemes",
+      "aliases": [
+        "154 Viviendas"
+      ],
+      "lon": -71.307567,
+      "lat": -41.1532269,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008727204",
+      "name": "Bella Vista",
+      "aliases": [],
+      "lon": -71.3127726,
+      "lat": -41.1499172,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14008727207",
+      "name": "Argentino",
+      "aliases": [],
+      "lon": -71.3026922,
+      "lat": -41.1574257,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14047589753",
+      "name": "Parque Huber",
+      "aliases": [],
+      "lon": -71.3979164,
+      "lat": -41.1278796,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14047589755",
+      "name": "Pirén Huapi",
+      "aliases": [],
+      "lon": -71.4026138,
+      "lat": -41.1199675,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14047589757",
+      "name": "Los Notros",
+      "aliases": [],
+      "lon": -71.4468699,
+      "lat": -41.1108144,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14047589758",
+      "name": "Covibar",
+      "aliases": [
+        "Virgen Nuestra Señora de las Nieves"
+      ],
+      "lon": -71.4598168,
+      "lat": -41.1098135,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14071767651",
+      "name": "Manzana 287",
+      "aliases": [],
+      "lon": -71.3351114,
+      "lat": -41.1703331,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14072931979",
+      "name": "110 Viviendas",
+      "aliases": [],
+      "lon": -71.2544091,
+      "lat": -41.1552349,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14072931982",
+      "name": "Abedules",
+      "aliases": [],
+      "lon": -71.3109961,
+      "lat": -41.1563627,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14072931986",
+      "name": "400 Viviendas",
+      "aliases": [],
+      "lon": -71.3205425,
+      "lat": -41.1557259,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14072931999",
+      "name": "Parque Alen",
+      "aliases": [
+        "106 Viviendas"
+      ],
+      "lon": -71.3065394,
+      "lat": -41.168075,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14072949501",
+      "name": "120 Viviendas",
+      "aliases": [],
+      "lon": -71.280855,
+      "lat": -41.1521964,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14085965292",
+      "name": "Alto Jardín Botánico",
+      "aliases": [],
+      "lon": -71.3199108,
+      "lat": -41.1486085,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455915",
+      "name": "El Prado",
+      "aliases": [],
+      "lon": -71.3603879,
+      "lat": -41.1263169,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455921",
+      "name": "Parque Pehuén",
+      "aliases": [],
+      "lon": -71.3707015,
+      "lat": -41.1233461,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455932",
+      "name": "Parque Wanguelén",
+      "aliases": [],
+      "lon": -71.44958,
+      "lat": -41.1064942,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455977",
+      "name": "Cerro Chico",
+      "aliases": [],
+      "lon": -71.4626768,
+      "lat": -41.0866076,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455991",
+      "name": "84 Viviendas",
+      "aliases": [],
+      "lon": -71.2834739,
+      "lat": -41.1432437,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14086455994",
+      "name": "Covitur",
+      "aliases": [
+        "80 Viviendas"
+      ],
+      "lon": -71.2704478,
+      "lat": -41.1333971,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087801557",
+      "name": "Brisas del Nahuel",
+      "aliases": [],
+      "lon": -71.2384368,
+      "lat": -41.1423996,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087801574",
+      "name": "Terrazas del Este",
+      "aliases": [],
+      "lon": -71.2397516,
+      "lat": -41.1346491,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845095",
+      "name": "Bella Vista 1",
+      "aliases": [],
+      "lon": -71.3129585,
+      "lat": -41.1509233,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845096",
+      "name": "Bella Vista 2",
+      "aliases": [],
+      "lon": -71.3130293,
+      "lat": -41.1491269,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845097",
+      "name": "40 Viviendas",
+      "aliases": [],
+      "lon": -71.2752514,
+      "lat": -41.1526848,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845100",
+      "name": "Mari Mari",
+      "aliases": [
+        "20 Viviendas"
+      ],
+      "lon": -71.2710468,
+      "lat": -41.1514182,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845101",
+      "name": "130 Viviendas",
+      "aliases": [],
+      "lon": -71.273142,
+      "lat": -41.1511464,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845102",
+      "name": "San Francisco 4",
+      "aliases": [],
+      "lon": -71.2677495,
+      "lat": -41.1483178,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845104",
+      "name": "San Francisco 1",
+      "aliases": [],
+      "lon": -71.2838935,
+      "lat": -41.1400244,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845105",
+      "name": "San Francisco 3",
+      "aliases": [],
+      "lon": -71.2737567,
+      "lat": -41.1446506,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845106",
+      "name": "San Francisco 2",
+      "aliases": [],
+      "lon": -71.2802711,
+      "lat": -41.1435619,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14087845118",
+      "name": "Movitur",
+      "aliases": [
+        "40 Viviendas"
+      ],
+      "lon": -71.3188997,
+      "lat": -41.1576891,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14104379999",
+      "name": "El Raigal",
+      "aliases": [],
+      "lon": -71.4966712,
+      "lat": -41.0530163,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14121104395",
+      "name": "Valle Gas",
+      "aliases": [],
+      "lon": -71.2795759,
+      "lat": -41.1405689,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14121104396",
+      "name": "San Cayetanito",
+      "aliases": [],
+      "lon": -71.2810898,
+      "lat": -41.1430942,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14122833150",
+      "name": "Quinta 51",
+      "aliases": [],
+      "lon": -71.3826456,
+      "lat": -41.1315915,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14123967884",
+      "name": "Matadero",
+      "aliases": [],
+      "lon": -71.2787264,
+      "lat": -41.1327219,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14123967907",
+      "name": "Villa Llanquihue",
+      "aliases": [],
+      "lon": -71.5134954,
+      "lat": -41.0470436,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14123967929",
+      "name": "Don Bosco",
+      "aliases": [],
+      "lon": -71.4938178,
+      "lat": -41.0562648,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14123967930",
+      "name": "Península San Pedro",
+      "aliases": [],
+      "lon": -71.465239,
+      "lat": -41.0590045,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14127373817",
+      "name": "Manzana Hueney",
+      "aliases": [],
+      "lon": -71.2978097,
+      "lat": -41.1512223,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14132407094",
+      "name": "Loteo Pagani",
+      "aliases": [],
+      "lon": -71.4595509,
+      "lat": -41.103112,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14134286375",
+      "name": "Parque La Cascada",
+      "aliases": [],
+      "lon": -71.3777359,
+      "lat": -41.1234624,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14138467249",
+      "name": "Santa María",
+      "aliases": [],
+      "lon": -71.170588,
+      "lat": -41.1032988,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14174458684",
+      "name": "Loteo Diucas",
+      "aliases": [],
+      "lon": -71.2466089,
+      "lat": -41.1304349,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    },
+    {
+      "osm": "node/14209748549",
+      "name": "Los Principios",
+      "aliases": [],
+      "lon": -71.2659468,
+      "lat": -41.140736,
+      "shape": "label_point",
+      "boundaryVerified": false,
+      "candidateGeometry": [],
+      "membership": "label_inside_city_boundary"
+    }
+  ],
+  "boundaryKind": "municipality",
+  "sourceHashes": {
+    "osm-source-response.json": "5794eb33044138b0bca563af2b8f08868ceb91a45de6df7796a6b46c7e2bdbef",
+    "bariloche-boundary.geojson": "c555c0ed97dca6ba75fd4cea26f3579a513efdab09a957c087cab4b1a61558e6",
+    "bariloche-manifest.json": "02b65d55efa2482df9f6e11422b2fed9e00c0432c0d5543a021d469e4a07c9f5"
+  }
+}

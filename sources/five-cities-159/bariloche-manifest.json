@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "62",
+    "locality": "62021060"
+  },
+  "localityName": "San Carlos de Bariloche",
+  "boundarySource": "GeoRef DPE-INDEC municipality 620077; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

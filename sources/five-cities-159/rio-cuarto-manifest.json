@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "14",
+    "locality": "14098230"
+  },
+  "localityName": "Río Cuarto",
+  "boundarySource": "GeoRef DPE-INDEC municipality 140861; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "06",
+    "locality": "06441030"
+  },
+  "localityName": "La Plata",
+  "boundarySource": "GeoRef DPE-INDEC municipality 060441; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

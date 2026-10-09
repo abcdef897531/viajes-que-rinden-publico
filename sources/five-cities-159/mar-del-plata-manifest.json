@@ -1,0 +1,14 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "06",
+    "locality": "06357110"
+  },
+  "localityName": "Mar del Plata",
+  "boundarySource": "GeoRef DPE-INDEC municipality 060357; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {
+    "node/3922097425": "name_is_a_distinct_national_locality_in_same_municipality",
+    "node/5631247927": "name_is_a_distinct_national_locality_in_same_municipality"
+  }
+}

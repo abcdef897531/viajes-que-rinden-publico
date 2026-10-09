@@ -1,0 +1,1104 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T20:38:31Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3579568381,
+  "lat": -32.4018389,
+  "lon": -63.2490264,
+  "tags": {
+    "name": "Almirante Brown",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568382,
+  "lat": -32.4292121,
+  "lon": -63.2218466,
+  "tags": {
+    "name": "Barrancas del Río",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568384,
+  "lat": -32.4243167,
+  "lon": -63.2558744,
+  "tags": {
+    "name": "C.E.C.",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568386,
+  "lat": -32.4120680,
+  "lon": -63.2447189,
+  "tags": {
+    "name": "Centro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568387,
+  "lat": -32.4339334,
+  "lon": -63.2498299,
+  "tags": {
+    "name": "Centro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568388,
+  "lat": -32.4265140,
+  "lon": -63.2595979,
+  "tags": {
+    "name": "Costa de Oro",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568389,
+  "lat": -32.4417437,
+  "lon": -63.2254839,
+  "tags": {
+    "name": "Ctalamochita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568390,
+  "lat": -32.4364458,
+  "lon": -63.2569873,
+  "tags": {
+    "name": "El Vallecito",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568391,
+  "lat": -32.3892047,
+  "lon": -63.2346940,
+  "tags": {
+    "name": "Felipe N. Botta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579568392,
+  "lat": -32.4017235,
+  "lon": -63.2368645,
+  "tags": {
+    "name": "Florentino Ameghino",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569893,
+  "lat": -32.4135926,
+  "lon": -63.2555848,
+  "tags": {
+    "name": "General Güemes",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569894,
+  "lat": -32.4195686,
+  "lon": -63.2507468,
+  "tags": {
+    "name": "General Paz",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569895,
+  "lat": -32.4000978,
+  "lon": -63.2581774,
+  "tags": {
+    "name": "General Roca",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569896,
+  "lat": -32.4355425,
+  "lon": -63.2316504,
+  "tags": {
+    "name": "Golf",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569897,
+  "lat": -32.4235392,
+  "lon": -63.2202520,
+  "tags": {
+    "name": "Industrial",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569898,
+  "lat": -32.4251626,
+  "lon": -63.2418052,
+  "tags": {
+    "name": "Floresta",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569899,
+  "lat": -32.4087902,
+  "lon": -63.2317732,
+  "tags": {
+    "name": "Lamadrid",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569900,
+  "lat": -32.4077383,
+  "lon": -63.2799886,
+  "tags": {
+    "name": "Las Acacias",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569901,
+  "lat": -32.4315306,
+  "lon": -63.2019993,
+  "tags": {
+    "name": "Las Playas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569902,
+  "lat": -32.4481559,
+  "lon": -63.2489969,
+  "tags": {
+    "name": "Las Quintas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569903,
+  "lat": -32.4143991,
+  "lon": -63.2093748,
+  "tags": {
+    "name": "Los Olmos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569904,
+  "lat": -32.4430733,
+  "lon": -63.2485867,
+  "tags": {
+    "name": "Los Olmos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569905,
+  "lat": -32.4353895,
+  "lon": -63.2542594,
+  "tags": {
+    "name": "Malvinas Argentinas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569906,
+  "lat": -32.3969243,
+  "lon": -63.2544188,
+  "tags": {
+    "name": "Manuel Belgrano",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569907,
+  "lat": -32.4128601,
+  "lon": -63.2693609,
+  "tags": {
+    "name": "Mariano Moreno",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569908,
+  "lat": -32.4395608,
+  "lon": -63.2563110,
+  "tags": {
+    "name": "Medalla Milagrosa",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569909,
+  "lat": -32.3973280,
+  "lon": -63.2298650,
+  "tags": {
+    "name": "Nicolás Avellaneda",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569911,
+  "lat": -32.4034813,
+  "lon": -63.2122316,
+  "tags": {
+    "name": "Parque Formador",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569912,
+  "lat": -32.3911769,
+  "lon": -63.2465247,
+  "tags": {
+    "name": "Parque Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569913,
+  "lat": -32.4269991,
+  "lon": -63.2383490,
+  "tags": {
+    "name": "Portal del Sol",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569914,
+  "lat": -32.4201054,
+  "lon": -63.2579726,
+  "tags": {
+    "name": "Prado Español",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569915,
+  "lat": -32.4280695,
+  "lon": -63.2515085,
+  "tags": {
+    "name": "Residencial América",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569916,
+  "lat": -32.4191894,
+  "lon": -63.2301539,
+  "tags": {
+    "name": "Rivadavia",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569917,
+  "lat": -32.4058254,
+  "lon": -63.2639418,
+  "tags": {
+    "name": "Roque Sáenz Peña",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569918,
+  "lat": -32.4295110,
+  "lon": -63.2567693,
+  "tags": {
+    "name": "San Antonio",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569919,
+  "lat": -32.4124096,
+  "lon": -63.2183186,
+  "tags": {
+    "name": "San Juan Bautista",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569920,
+  "lat": -32.4152064,
+  "lon": -63.2258516,
+  "tags": {
+    "name": "San Justo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569921,
+  "lat": -32.4047805,
+  "lon": -63.2250895,
+  "tags": {
+    "name": "San Martín",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569922,
+  "lat": -32.3951975,
+  "lon": -63.2219872,
+  "tags": {
+    "name": "San Nicolás",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569923,
+  "lat": -32.4225372,
+  "lon": -63.2351592,
+  "tags": {
+    "name": "Santa Ana",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569924,
+  "lat": -32.4206397,
+  "lon": -63.2388393,
+  "tags": {
+    "name": "Sarmiento",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569925,
+  "lat": -32.4349860,
+  "lon": -63.2421349,
+  "tags": {
+    "name": "Sarmiento",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569926,
+  "lat": -32.3989417,
+  "lon": -63.2455778,
+  "tags": {
+    "name": "Trinitarios",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569927,
+  "lat": -32.4177959,
+  "lon": -63.2812605,
+  "tags": {
+    "name": "Villa Oeste",
+    "place": "neighbourhood",
+    "wikidata": "Q6162312",
+    "wikipedia": "es:Villa Oeste"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569928,
+  "lat": -32.4266443,
+  "lon": -63.2449821,
+  "tags": {
+    "name": "Villa del Parque",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 3579569930,
+  "lat": -32.4148227,
+  "lon": -63.2877846,
+  "tags": {
+    "name": "Vista Verde",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4214893071,
+  "lat": -32.3912460,
+  "lon": -63.2590023,
+  "tags": {
+    "name": "Ramón Carrillo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4243705778,
+  "lat": -32.4369284,
+  "lon": -63.1900807,
+  "tags": {
+    "name": "Villa Albertina",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4493504742,
+  "lat": -31.4443643,
+  "lon": -62.0755170,
+  "tags": {
+    "name": "La Milka",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4666638566,
+  "lat": -32.4070851,
+  "lon": -63.2170848,
+  "tags": {
+    "name": "Bello Horizonte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4670311060,
+  "lat": -32.3945990,
+  "lon": -63.2402191,
+  "tags": {
+    "name": "Carlos Pellegrini",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4670322744,
+  "lat": -32.4106002,
+  "lon": -63.2508207,
+  "tags": {
+    "name": "Centro Oeste",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4670322745,
+  "lat": -32.4134420,
+  "lon": -63.2388845,
+  "tags": {
+    "name": "Centro Este",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4670322746,
+  "lat": -32.4171760,
+  "lon": -63.2448200,
+  "tags": {
+    "name": "Centro Sur",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4670323342,
+  "lat": -32.4066923,
+  "lon": -63.2448180,
+  "tags": {
+    "name": "Centro Norte",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4687994742,
+  "lat": -32.4178434,
+  "lon": -63.2637818,
+  "tags": {
+    "name": "Palermo",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 6150487547,
+  "lat": -32.4330560,
+  "lon": -63.2575291,
+  "tags": {
+    "name": "Pinar de Las Tejas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8119624487,
+  "lat": -32.4104703,
+  "lon": -63.2112659,
+  "tags": {
+    "name": "Botanico",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8309990013,
+  "lat": -32.3685262,
+  "lon": -63.2261085,
+  "tags": {
+    "name": "Área 158",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9036347286,
+  "lat": -32.4086716,
+  "lon": -63.2602259,
+  "tags": {
+    "name": "Presidente Roque Saenz Peña",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9106015159,
+  "lat": -32.4253395,
+  "lon": -63.2389730,
+  "tags": {
+    "name": "Portal de la Costa",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9106175637,
+  "lat": -32.4396425,
+  "lon": -63.2507908,
+  "tags": {
+    "name": "Florida",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9114911350,
+  "lat": -32.4288758,
+  "lon": -63.2348371,
+  "tags": {
+    "name": "La Reserva",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9177460889,
+  "lat": -32.4239699,
+  "lon": -63.3056795,
+  "tags": {
+    "name": "Poetas Argentinos",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757276,
+  "lat": -31.4208522,
+  "lon": -62.1160332,
+  "tags": {
+    "name": "Las Rosas",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757282,
+  "lat": -31.4249433,
+  "lon": -62.1031486,
+  "tags": {
+    "name": "Independencia",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757284,
+  "lat": -31.4154671,
+  "lon": -62.1041894,
+  "tags": {
+    "name": "20 de Junio",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757285,
+  "lat": -31.4046576,
+  "lon": -62.1033404,
+  "tags": {
+    "name": "Maipú",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757287,
+  "lat": -31.4028877,
+  "lon": -62.1091668,
+  "tags": {
+    "name": "General Savio",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757290,
+  "lat": -31.4296444,
+  "lon": -62.1067529,
+  "tags": {
+    "name": "Dos Hermanos",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757292,
+  "lat": -31.4321901,
+  "lon": -62.0961000,
+  "tags": {
+    "name": "Consolata",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757293,
+  "lat": -31.4341560,
+  "lon": -62.1049317,
+  "tags": {
+    "name": "Sáenz Peña",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757294,
+  "lat": -31.4393750,
+  "lon": -62.1061038,
+  "tags": {
+    "name": "9 de Septiembre",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757296,
+  "lat": -31.4404292,
+  "lon": -62.0970950,
+  "tags": {
+    "name": "Jardín",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757297,
+  "lat": -31.4400072,
+  "lon": -62.0879322,
+  "tags": {
+    "name": "San Martín",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757298,
+  "lat": -31.4451536,
+  "lon": -62.0890820,
+  "tags": {
+    "name": "Bouchard",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757299,
+  "lat": -31.4456759,
+  "lon": -62.0770769,
+  "tags": {
+    "name": "La Milka",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757303,
+  "lat": -31.4366227,
+  "lon": -62.0736742,
+  "tags": {
+    "name": "Sarmiento",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757306,
+  "lat": -31.4350283,
+  "lon": -62.0862038,
+  "tags": {
+    "name": "Catedral",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757309,
+  "lat": -31.4302160,
+  "lon": -62.0850919,
+  "tags": {
+    "name": "Centro Cívico",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757313,
+  "lat": -31.4225624,
+  "lon": -62.0899377,
+  "tags": {
+    "name": "Roca",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283757315,
+  "lat": -31.4151430,
+  "lon": -62.0869619,
+  "tags": {
+    "name": "José Hernández",
+    "place": "suburb",
+    "short_name": "Hernández"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772017,
+  "lat": -31.4231450,
+  "lon": -62.0799304,
+  "tags": {
+    "name": "Vélez Sarsfield",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772018,
+  "lat": -31.4297045,
+  "lon": -62.0780844,
+  "tags": {
+    "name": "Iturraspe",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772019,
+  "lat": -31.4311662,
+  "lon": -62.0677766,
+  "tags": {
+    "name": "San Francisco",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772021,
+  "lat": -31.4285429,
+  "lon": -62.0704682,
+  "tags": {
+    "name": "Hospital",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772022,
+  "lat": -31.4242408,
+  "lon": -62.0744267,
+  "tags": {
+    "name": "La Florida",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772023,
+  "lat": -31.4231106,
+  "lon": -62.0677073,
+  "tags": {
+    "name": "Parque",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772030,
+  "lat": -31.4173751,
+  "lon": -62.0642364,
+  "tags": {
+    "name": "San Cayetano",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772033,
+  "lat": -31.4165341,
+  "lon": -62.0776422,
+  "tags": {
+    "name": "Corradi",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772034,
+  "lat": -31.4064154,
+  "lon": -62.0742257,
+  "tags": {
+    "name": "El Prado",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772035,
+  "lat": -31.4169939,
+  "lon": -62.0977374,
+  "tags": {
+    "name": "Cotolengo",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9283772040,
+  "lat": -31.4418433,
+  "lon": -62.1212740,
+  "tags": {
+    "name": "Parque Industrial",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9311509138,
+  "lat": -32.4462050,
+  "lon": -63.2330376,
+  "tags": {
+    "name": "Barrio Las Lilas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11114324169,
+  "lat": -32.4271487,
+  "lon": -63.2148171,
+  "tags": {
+    "name": "Evita",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11114324170,
+  "lat": -32.4004706,
+  "lon": -63.2181350,
+  "tags": {
+    "name": "Malvinas Argentinas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11178799927,
+  "lat": -32.4271155,
+  "lon": -63.2645583,
+  "tags": {
+    "name": "Agua Clara",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 11670625966,
+  "lat": -32.4460844,
+  "lon": -63.2289111,
+  "tags": {
+    "name": "Barrio Las Rosas",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 12972085470,
+  "lat": -31.4002240,
+  "lon": -62.0801461,
+  "tags": {
+    "name": "Villa Golf",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "node",
+  "id": 12972092260,
+  "lat": -31.4092529,
+  "lon": -62.0902848,
+  "tags": {
+    "name": "Los Palmares 3",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "node",
+  "id": 12972092303,
+  "lat": -31.4103700,
+  "lon": -62.0836115,
+  "tags": {
+    "name": "Los Palmares 2",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "node",
+  "id": 12972092304,
+  "lat": -31.4084013,
+  "lon": -62.0808756,
+  "tags": {
+    "name": "Los Palmares 1",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "node",
+  "id": 12972092305,
+  "lat": -31.4065883,
+  "lon": -62.0810902,
+  "tags": {
+    "name": "Altos del Prado",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "node",
+  "id": 12972092312,
+  "lat": -31.4039235,
+  "lon": -62.0859075,
+  "tags": {
+    "name": "Los Palmares 4",
+    "place": "neighbourhood",
+    "source_ref:url": "https://laesfera360.com.ar/tours/lospalmares4/"
+  }
+},
+{
+  "type": "way",
+  "id": 1198528738,
+  "center": {
+    "lat": -32.4284166,
+    "lon": -63.2001008
+  },
+  "nodes": [
+    11118122980,
+    11118122981,
+    11118122982,
+    11118122983,
+    11118122984,
+    11118122985,
+    11116992178,
+    11118122980
+  ],
+  "tags": {
+    "name": "futuro barrio en construcción",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "way",
+  "id": 1554925308,
+  "center": {
+    "lat": -32.3774588,
+    "lon": -63.2324471
+  },
+  "nodes": [
+    14156265833,
+    14156265831,
+    14156265832,
+    14145997372,
+    14156265833
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "VALLE ESCONDIDO",
+    "place": "neighbourhood",
+    "population": "1200"
+  }
+}
+
+  ]
+}

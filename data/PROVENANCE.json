@@ -36,6 +36,366 @@
       "boundarySource": "Servicio Georef province02 administrative polygon; not barrio boundaries",
       "pointIsNotBoundary": true,
       "exhaustiveNeighborhoodCoverageClaimed": false
+    },
+    {
+      "city": "Villa María",
+      "scope": {
+        "country": "AR",
+        "province": "14",
+        "locality": "14042170"
+      },
+      "places": 43,
+      "uniqueNames": 43,
+      "osmTimestamp": "2026-10-08T20:38:31Z",
+      "derivedSha256": "bf9feed8da90eafd604512c84ed295f4d11515c4cfa4a78352da0079e1da145a",
+      "boundarySource": "Archived GeoRef DPE-INDEC municipality 140357; administrative coverage, not urban footprint or barrio boundaries",
+      "pointIsNotBoundary": true,
+      "exhaustiveNeighborhoodCoverageClaimed": false,
+      "readerMarketCertificationClaimed": false,
+      "sourceFiles": {
+        "sources/cordoba-cities/osm-source.json": "78a886a957be09c365bdd252d919dcd49a106a982014c57e99e0328342f6b7bd",
+        "sources/cordoba-cities/query.txt": "ddccd6f3a9aff7b865e66fb6283c6274bc86bfdd75b305bb44497214ef754ffb",
+        "data/geography/villa-maria-osm-scoped.json": "bf9feed8da90eafd604512c84ed295f4d11515c4cfa4a78352da0079e1da145a",
+        "sources/villa-maria/boundary.geojson": "a29e8bbf6d8c915a00d263ddbbe2bc4b5ef83db5cf4ee1ec37aa239a334544f7",
+        "sources/villa-maria/manifest.json": "834b55066890045bea05308b3d97faada0bb0bdf9074292a78cd6bfb33e1fdef",
+        "sources/villa-maria/exclusions.json": "1d0b269ad86048b79ddaadd60164d39376e302cd1769059caf51d3ae57954eb6"
+      }
+    },
+    {
+      "city": "San Francisco",
+      "scope": {
+        "country": "AR",
+        "province": "14",
+        "locality": "14140360"
+      },
+      "places": 35,
+      "uniqueNames": 34,
+      "osmTimestamp": "2026-10-08T20:38:31Z",
+      "derivedSha256": "f7c16b4cebea478ac9bfc2a3b097ccc8e534e3569b5a62cc10a794288b614fdd",
+      "boundarySource": "Archived GeoRef DPE-INDEC municipality 141337; administrative coverage, not urban footprint or barrio boundaries",
+      "pointIsNotBoundary": true,
+      "exhaustiveNeighborhoodCoverageClaimed": false,
+      "readerMarketCertificationClaimed": false,
+      "sourceFiles": {
+        "sources/cordoba-cities/osm-source.json": "78a886a957be09c365bdd252d919dcd49a106a982014c57e99e0328342f6b7bd",
+        "sources/cordoba-cities/query.txt": "ddccd6f3a9aff7b865e66fb6283c6274bc86bfdd75b305bb44497214ef754ffb",
+        "data/geography/san-francisco-osm-scoped.json": "f7c16b4cebea478ac9bfc2a3b097ccc8e534e3569b5a62cc10a794288b614fdd",
+        "sources/san-francisco/boundary.geojson": "15abfcaf1a9e9b1f23bb246ee1b9c6f5643788cdf848984cba2db12212380e0f",
+        "sources/san-francisco/manifest.json": "ac85d0619238ae34410f3386a0f7084db08faf8e8791507c6050de7edc61d948",
+        "sources/san-francisco/exclusions.json": "25ac37ce2d77ebfaa25bec1da7a7402e96d3ebb27775041368d0b942dad26ece"
+      }
     }
-  ]
+  ],
+  "fiveCityExpansion159": {
+    "priority": "OpenStreetMap",
+    "osmTimestamp": "2026-10-08T22:50:51Z",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "georefAttribution": "Servicio Georef – argentina.gob.ar/georef",
+    "georefLicense": "CC BY 4.0",
+    "modifications": "GeoPackage municipal polygons extracted as GeoJSON; OSM subset selected by label position and reviewed exclusions, no barrio polygons derived",
+    "cities": [
+      {
+        "slug": "rio-cuarto",
+        "scope": {
+          "country": "AR",
+          "province": "14",
+          "locality": "14098230"
+        },
+        "objects": 58,
+        "names": 58,
+        "ambiguousNames": {},
+        "assetSha256": "0c21a135650ab0adf2db5b693c9b608e95c0b18e43ef85c440de318a1a6609ff",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/five-cities-159/rio-cuarto-boundary.geojson": "6f01e2097982a7d09a29f7e968b192ad7a56de3bc56537cd08f7ddc7eca7c5a5",
+          "sources/five-cities-159/rio-cuarto-manifest.json": "ce40ed043bee5606de61f1a8ebfdcc9a7d8ce94fc57a13858f6824cf8f0c695b",
+          "sources/five-cities-159/rio-cuarto-exclusions.json": "0beba8da16e51f16a8692e7eaaa249f09b9045628ce33c2b183524bfb536efd8",
+          "data/geography/rio-cuarto-osm-scoped.json": "0c21a135650ab0adf2db5b693c9b608e95c0b18e43ef85c440de318a1a6609ff"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false,
+        "platformEvidence": "Uber city page for Rio Cuarto; Cabify Argentina tariffs for others; no claim that all three platforms operate in each city"
+      },
+      {
+        "slug": "neuquen",
+        "scope": {
+          "country": "AR",
+          "province": "58",
+          "locality": "58035070"
+        },
+        "objects": 152,
+        "names": 152,
+        "ambiguousNames": {},
+        "assetSha256": "9c84bad1cc8657b7b0120fe0d070b6d6e781b5e71c95e33934106d2774ff1ff0",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/five-cities-159/neuquen-boundary.geojson": "271a3d7d5c1fc1a65915334c914aeeaae71242eb1d2b40647bf906235d4227fb",
+          "sources/five-cities-159/neuquen-manifest.json": "492dacf6b301d425149a3d78b9caf4ad780b36cdae6a13460453d21191abe43f",
+          "sources/five-cities-159/neuquen-exclusions.json": "9894f157e4bbfa7a57f6b05215959deb627dfca3eab607eb7ffc09361c97b5f4",
+          "data/geography/neuquen-osm-scoped.json": "9c84bad1cc8657b7b0120fe0d070b6d6e781b5e71c95e33934106d2774ff1ff0"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false,
+        "platformEvidence": "Uber city page for Rio Cuarto; Cabify Argentina tariffs for others; no claim that all three platforms operate in each city"
+      },
+      {
+        "slug": "mar-del-plata",
+        "scope": {
+          "country": "AR",
+          "province": "06",
+          "locality": "06357110"
+        },
+        "objects": 129,
+        "names": 128,
+        "ambiguousNames": {
+          "Barrio Los Zorzales": 2
+        },
+        "assetSha256": "e902473d6e4d98e1552068f5a06cd75acd24c0a7063e5413f41d7db4735b42ac",
+        "reviewedExclusions": {
+          "node/3922097425": "name_is_a_distinct_national_locality_in_same_municipality",
+          "node/5631247927": "name_is_a_distinct_national_locality_in_same_municipality"
+        },
+        "sourceFiles": {
+          "sources/five-cities-159/mar-del-plata-boundary.geojson": "4d5c8099ed38d98ecf0577f2e0be0b3e2dc6e83c87b669fe7dcc1c7261505cc3",
+          "sources/five-cities-159/mar-del-plata-manifest.json": "e00d015d63976b5210208f5dbfbf08c6668bab276329b835c4cf8ab1012f49bb",
+          "sources/five-cities-159/mar-del-plata-exclusions.json": "be7acd8fdee8094a3f9abf32dba8ac0112855033212d1b7de35f210583252ddb",
+          "data/geography/mar-del-plata-osm-scoped.json": "e902473d6e4d98e1552068f5a06cd75acd24c0a7063e5413f41d7db4735b42ac"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false,
+        "platformEvidence": "Uber city page for Rio Cuarto; Cabify Argentina tariffs for others; no claim that all three platforms operate in each city"
+      },
+      {
+        "slug": "bariloche",
+        "scope": {
+          "country": "AR",
+          "province": "62",
+          "locality": "62021060"
+        },
+        "objects": 174,
+        "names": 172,
+        "ambiguousNames": {
+          "Perito Moreno": 2,
+          "Bella Vista": 2
+        },
+        "assetSha256": "8b35debabb3c8b05310bc6fd58ac9144ff9714836990bf7d18a912ad8f639c97",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/five-cities-159/bariloche-boundary.geojson": "c555c0ed97dca6ba75fd4cea26f3579a513efdab09a957c087cab4b1a61558e6",
+          "sources/five-cities-159/bariloche-manifest.json": "02b65d55efa2482df9f6e11422b2fed9e00c0432c0d5543a021d469e4a07c9f5",
+          "sources/five-cities-159/bariloche-exclusions.json": "9fcf8f23e6064d7a8450ab5ea47f2f4799aaf5382d7e65554a6682b47497015a",
+          "data/geography/bariloche-osm-scoped.json": "8b35debabb3c8b05310bc6fd58ac9144ff9714836990bf7d18a912ad8f639c97"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false,
+        "platformEvidence": "Uber city page for Rio Cuarto; Cabify Argentina tariffs for others; no claim that all three platforms operate in each city"
+      },
+      {
+        "slug": "corrientes",
+        "scope": {
+          "country": "AR",
+          "province": "18",
+          "locality": "18021020"
+        },
+        "objects": 153,
+        "names": 149,
+        "ambiguousNames": {
+          "Barrio Molina Punta": 2,
+          "Laguna Seca": 2,
+          "Barrio La Cruz": 2,
+          "Los Tulipanes": 2
+        },
+        "assetSha256": "62878aeffff204f3df67a9e3f67612e36615c31f48cd3777c7987774c2b5f829",
+        "reviewedExclusions": {
+          "way/533656615": "waterway_tag_conflicts_with_neighborhood",
+          "way/1055410593": "waterway_tag_conflicts_with_neighborhood",
+          "way/1055410594": "waterway_tag_conflicts_with_neighborhood",
+          "way/1106807049": "waterway_tag_conflicts_with_neighborhood",
+          "way/1106807051": "waterway_tag_conflicts_with_neighborhood"
+        },
+        "sourceFiles": {
+          "sources/five-cities-159/corrientes-boundary.geojson": "29da0d74dde12c6e9b36a055c221c8943ef05c1d6d2db38db5c7cfe5b4b37bda",
+          "sources/five-cities-159/corrientes-manifest.json": "f997302f5810a1ccf902280fdf85b5c2a1d9d747b619a7dee1d720b00d83a60b",
+          "sources/five-cities-159/corrientes-exclusions.json": "fd57f2a9ec3cc558f183bb4ade62ba3540b77a0a3bf92e48faa30582bc53b0e9",
+          "data/geography/corrientes-osm-scoped.json": "62878aeffff204f3df67a9e3f67612e36615c31f48cd3777c7987774c2b5f829"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false,
+        "platformEvidence": "Uber city page for Rio Cuarto; Cabify Argentina tariffs for others; no claim that all three platforms operate in each city"
+      }
+    ],
+    "sharedSources": {
+      "sources/five-cities-159/osm-source-response.json": "5794eb33044138b0bca563af2b8f08868ceb91a45de6df7796a6b46c7e2bdbef",
+      "sources/five-cities-159/osm-query.txt": "270d836023ab0453c74a60aff830d2f5325628da945319962dd6d0ac8987dbcd",
+      "sources/five-cities-159/cities.json": "40315f6830155045397af2ea5a57974bdf35efa967fd9ae36b6bfa49a79407ef"
+    },
+    "officialPlatformSources": [
+      "https://www.uber.com/global/en/r/cities/rio-cuarto-cordoba-ar/",
+      "https://cabify.com/ar/tarifas"
+    ],
+    "georefTerms": "https://www.argentina.gob.ar/georef/condiciones-de-uso-y-licencia"
+  },
+  "nextFiveCities160": {
+    "cities": [
+      {
+        "slug": "tucuman",
+        "scope": {
+          "country": "AR",
+          "province": "90",
+          "locality": "90084010"
+        },
+        "objects": 88,
+        "names": 87,
+        "ambiguousNames": {
+          "Los Andes": 2
+        },
+        "assetSha256": "a41cd09adf4db0e4e2651ac7d63b0df45838788b97ad4009aa9b57c0fdd3744e",
+        "reviewedExclusions": {
+          "node/5145542832": "distinct GeoRef census locality Barrio San Felipe 90063010 within same municipal government; not target locality 90084010"
+        },
+        "sourceFiles": {
+          "sources/next-five-cities-160/tucuman-boundary.geojson": "4d070c0a3b53ec7e0203ac1d1a7a520224a914880a6ce87efe35e5fa0fb510a1",
+          "sources/next-five-cities-160/tucuman-manifest.json": "3bfab3fb0903631c142f909be63c770aa1c23087b447cfea3dd3bfee6d6af98c",
+          "sources/next-five-cities-160/tucuman-exclusions.json": "43d5f69d1295787055b9c26f97a4aae8249d5b5902313fd11c4e43b7a85f2d7a",
+          "data/geography/tucuman-osm-scoped.json": "a41cd09adf4db0e4e2651ac7d63b0df45838788b97ad4009aa9b57c0fdd3744e"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false
+      },
+      {
+        "slug": "la-plata",
+        "scope": {
+          "country": "AR",
+          "province": "06",
+          "locality": "06441030"
+        },
+        "objects": 43,
+        "names": 41,
+        "ambiguousNames": {
+          "Barrio Santa Ana": 2,
+          "El Rincón": 2
+        },
+        "assetSha256": "f2c1b49bda1158b2ce1ac8a5a71f727181ac53dc74a720ab4f716540e7503691",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/next-five-cities-160/la-plata-boundary.geojson": "661bc8d673c1ef7a2951f8598b2b54299e35167a86365136b9952f2cb75fcb0d",
+          "sources/next-five-cities-160/la-plata-manifest.json": "5c8719099b056712d766b622cf6062a074224511abe05971abb28a06467e7d30",
+          "sources/next-five-cities-160/la-plata-exclusions.json": "92918fe92c5e83c05531b6eb8e6959020815b6152380851de732af75013dc1ac",
+          "data/geography/la-plata-osm-scoped.json": "f2c1b49bda1158b2ce1ac8a5a71f727181ac53dc74a720ab4f716540e7503691"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false
+      },
+      {
+        "slug": "salta",
+        "scope": {
+          "country": "AR",
+          "province": "66",
+          "locality": "66028050"
+        },
+        "objects": 157,
+        "names": 154,
+        "ambiguousNames": {
+          "Bº Juan Pablo II": 2,
+          "Barrio Grand Bourg": 2,
+          "Villa Costanera": 2
+        },
+        "assetSha256": "49f73e51b1bc6c08fac158b69b0cb08b3ec0354cdd34d43ef8c6e89eff37266a",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/next-five-cities-160/salta-boundary.geojson": "f17d20dee75597d63a3ed52a1bd3c70e567a74616c76f19e53f129843edc797c",
+          "sources/next-five-cities-160/salta-manifest.json": "b5fe20028700991a885735ffbbc33feb88bd46a5aaf44ea8c0c5165ae03181b7",
+          "sources/next-five-cities-160/salta-exclusions.json": "f79045b4425d2a3c09ff4d7f5776b102d1f2030056f214f3dba15c2433008eee",
+          "data/geography/salta-osm-scoped.json": "49f73e51b1bc6c08fac158b69b0cb08b3ec0354cdd34d43ef8c6e89eff37266a"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false
+      },
+      {
+        "slug": "resistencia",
+        "scope": {
+          "country": "AR",
+          "province": "22",
+          "locality": "22140060"
+        },
+        "objects": 180,
+        "names": 178,
+        "ambiguousNames": {
+          "Provincial": 2,
+          "Sol de Esperanza": 2
+        },
+        "assetSha256": "58273c1743ad1e6b5931b0fe5416b0f56c5104c4c39f97f27954d8350379b5df",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/next-five-cities-160/resistencia-boundary.geojson": "3026288982e2c1d2e0bd76ff4d2149e011c62d0a21a8ad471702ea02e449a352",
+          "sources/next-five-cities-160/resistencia-manifest.json": "5b5b208a40f927e0dc51e0b3344d0079330c0ed7ecb463bddf892aa0845884dd",
+          "sources/next-five-cities-160/resistencia-exclusions.json": "85176a08897d396e97fb5ea8743588afeffa8eae9586a34a726541e866b34530",
+          "data/geography/resistencia-osm-scoped.json": "58273c1743ad1e6b5931b0fe5416b0f56c5104c4c39f97f27954d8350379b5df"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false
+      },
+      {
+        "slug": "santa-fe",
+        "scope": {
+          "country": "AR",
+          "province": "82",
+          "locality": "82063170"
+        },
+        "objects": 93,
+        "names": 93,
+        "ambiguousNames": {},
+        "assetSha256": "3d86f0148ec06de6950b3101a8e84a85f0f0ad8b37993658793fe97fe221ac33",
+        "reviewedExclusions": {},
+        "sourceFiles": {
+          "sources/next-five-cities-160/santa-fe-boundary.geojson": "5fdaf0d88c3b005c110bcc9c0f8149a19a0b6f93d352cae11272e05537e539f5",
+          "sources/next-five-cities-160/santa-fe-manifest.json": "415943870b533453f898e33607a0651f2344b2b7494e24cf7a2037f48b6f8793",
+          "sources/next-five-cities-160/santa-fe-exclusions.json": "39560f8f899473dbcbf977cde056dfd87f0353250f925c5dcd198b02c6733cc3",
+          "data/geography/santa-fe-osm-scoped.json": "3d86f0148ec06de6950b3101a8e84a85f0f0ad8b37993658793fe97fe221ac33"
+        },
+        "boundaryKind": "municipality",
+        "boundaryVerified": false,
+        "readerCertified": false
+      }
+    ],
+    "sharedSources": {
+      "sources/next-five-cities-160/cities.json": "fff2d176ef53d68eadc6aeaf77a30afc42495fae79e9957bcff64a53a72e439d",
+      "sources/next-five-cities-160/osm-query.txt": "8a42adc10bc1e3b9e1f67c077625a3a57458b82ebaa4df4eb3f205fb6203987a",
+      "sources/next-five-cities-160/osm-source-response.json": "dc9aea0524634cb75cadb97b87c79a347ce6f94fc63a3b1dda9d6e8b93915918",
+      "sources/next-five-cities-160/platform-source-review.json": "9e11c4a447abbaf4ae3acb0bf4210b0c087fa63e85ff70445fa9904b7c153d1b"
+    },
+    "platformEvidence": {
+      "date": "2026-10-08",
+      "sources": [
+        "https://www.uber.com/global/en/r/argentina/cities/",
+        "https://cabify.com/ar/tarifas/tucuman",
+        "https://help.uber.com/pt-BR/driving-and-delivering/article/zonas-de-alerta---perguntas-frequentes?nodeId=72a19554-6bb3-46d5-87f1-f03b410672ab"
+      ],
+      "cities": {
+        "tucuman": "Current Uber listing Tucumán and Cabify Tucumán tariffs",
+        "la-plata": "Current Uber Argentina city listing",
+        "salta": "Current Uber Argentina city listing",
+        "santa-fe": "Current Uber Argentina city listing",
+        "resistencia": "Official Uber help currently lists Resistencia among Argentina alert zones; current general city listing omits it, historical 2023 newsroom confirms launch. This is not a current service-availability guarantee."
+      },
+      "allThreePlatformsPerCityVerified": false,
+      "newRealOfferSamples": false,
+      "limits": "Catalog integration does not certify current platform availability or local regulation."
+    },
+    "licenses": {
+      "OSM": "ODbL-1.0 © OpenStreetMap contributors",
+      "GeoRef": "CC BY 4.0 Servicio Georef – argentina.gob.ar/georef; extracted GeoPackage municipality geometry to GeoJSON"
+    },
+    "limits": "Label position inside municipality; not certified barrio/urban boundaries"
+  }
 }

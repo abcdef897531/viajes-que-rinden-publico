@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "22",
+    "locality": "22140060"
+  },
+  "localityName": "Resistencia",
+  "boundarySource": "GeoRef DPE-INDEC municipality 220413; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}

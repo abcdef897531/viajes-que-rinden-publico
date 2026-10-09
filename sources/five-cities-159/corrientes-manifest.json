@@ -1,0 +1,17 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "18",
+    "locality": "18021020"
+  },
+  "localityName": "Corrientes",
+  "boundarySource": "GeoRef DPE-INDEC municipality 180021; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {
+    "way/533656615": "waterway_tag_conflicts_with_neighborhood",
+    "way/1055410593": "waterway_tag_conflicts_with_neighborhood",
+    "way/1055410594": "waterway_tag_conflicts_with_neighborhood",
+    "way/1106807049": "waterway_tag_conflicts_with_neighborhood",
+    "way/1106807051": "waterway_tag_conflicts_with_neighborhood"
+  }
+}

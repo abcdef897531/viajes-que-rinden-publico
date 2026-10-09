@@ -1,0 +1,11 @@
+{
+  "scope": {
+    "country": "AR",
+    "province": "82",
+    "locality": "82063170"
+  },
+  "localityName": "Santa Fe",
+  "boundarySource": "GeoRef DPE-INDEC municipality 820147; administrative coverage, not urban footprint or barrio boundary",
+  "boundaryKind": "municipality",
+  "reviewedExclusions": {}
+}
